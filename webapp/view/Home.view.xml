@@ -1,0 +1,994 @@
+<mvc:View
+    controllerName="ajpeliculas.catalogo.controller.Home"
+    xmlns:mvc="sap.ui.core.mvc"
+    xmlns:card="sap.ui.webc.main"
+    xmlns:fcart="sap.f"
+    xmlns:cart="sap.f.cards"
+    xmlns:table="sap.ui.table"
+    displayBlock="true"
+    xmlns="sap.m"
+    xmlns:f="sap.ui.layout.form"
+    xmlns:l="sap.ui.layout"
+>
+    <Page
+        id="page"
+        showHeader="false"
+    >
+        <content>
+            <ObjectHeader
+                title="AJ PELICULAS"
+                icon="../Imagens/logo.jpeg"
+                iconDensityAware="false"
+                imageShape="Circle"
+                responsive="true"
+                intro="Catálogo"
+                class="sapUiResponsivePadding--header"
+            >
+                <ObjectAttribute
+                    text="Mínimo 50 peças sendo modelos misturados de capinhas e películas."
+                />
+                <ObjectAttribute
+                    text="Enviamos por SEDEX ou PAC Transportadora, Ônibus de excursão que sai do Brás ou retira conosco."
+                />
+                <ObjectAttribute
+                    text="Rua Santa Efigênia, 555 - 1° Andar, BOX 102, SÃO PAULO"
+                />
+            </ObjectHeader>
+            <f:Form
+                class="editableForm"
+                editable="true"
+            >
+                <f:layout>
+                    <f:ResponsiveGridLayout
+                        labelSpanXL="2"
+                        labelSpanL="2"
+                        labelSpanM="12"
+                        labelSpanS="12"
+                        adjustLabelSpan="false"
+                        emptySpanXL="0"
+                        emptySpanL="0"
+                        emptySpanM="0"
+                        emptySpanS="0"
+                        columnsXL="2"
+                        columnsL="2"
+                        columnsM="2"
+                        singleContainerFullSize="false"
+                    />
+                </f:layout>
+                <f:formContainers>
+                    <f:FormContainer>
+                        <f:formElements>
+                            <f:FormElement>
+                                <card:Card>
+                                    <card:List
+                                        separators="All"
+                                        itemClick="onClickJu"
+                                    >
+                                        <card:StandardListItem
+                                            description="Vendedora"
+                                            image="../Imagens/ju.jpg"
+                                            text="Ju"
+                                        />
+                                    </card:List>
+                                </card:Card>
+                            </f:FormElement>
+                        </f:formElements>
+                    </f:FormContainer>
+                    <f:FormContainer>
+                        <f:formElements>
+                            <f:FormElement>
+                                <card:Card>
+                                    <card:List
+                                        separators="All"
+                                        itemClick="onClickLeticia"
+                                    >
+                                        <card:StandardListItem
+                                            description="Vendedora"
+                                            image="../Imagens/Leticia.jpg"
+                                            text="Leticia"
+                                        />
+                                    </card:List>
+                                </card:Card>
+                            </f:FormElement>
+                        </f:formElements>
+                    </f:FormContainer>
+                </f:formContainers>
+            </f:Form>
+            <IconTabBar>
+                <items>
+                    <IconTabFilter
+                        key="Películas"
+                        text="Películas"
+                    >
+                        <items>
+                            <IconTabFilter
+                                key="3D"
+                                text="3D"
+                            >
+                                <ObjectHeader
+                                    icon="../Imagens/PELICULA3D.png"
+                                    
+                                    iconDensityAware="false"
+                                    title="Modelos de películas 3D"
+                                    number="R$ 1,50"
+                                    numberUnit="a unidade"
+                                    class="sapUiResponsivePadding--header"
+                                >
+                                    <statuses>
+                                        <ObjectStatus
+                                            text="Consulte a disponibilidade"
+                                            state="Success"
+                                        />
+                                    </statuses>
+                                </ObjectHeader>
+                                <table:TreeTable
+                                    rows="{path:'/d', parameters: {arrayNames:['Categoria']}}"
+                                    selectionMode="None"
+                                    enableSelectAll="false"
+                                    ariaLabelledBy="title"
+                                    visibleRowCount="10"
+                                    alternateRowColors="true"
+                                >
+                                    <table:columns>
+                                        <table:Column>
+                                            <Label text="Modelo" />
+                                            <table:template>
+                                                <ObjectStatus text="{Modelo}" />
+                                            </table:template>
+                                        </table:Column>
+                                    </table:columns>
+                                </table:TreeTable>
+                            </IconTabFilter>
+                            <IconTabFilter
+                                key="3DLancamento"
+                                text="3D Lançamento"
+                            >
+                                <ObjectHeader
+                                    icon="../Imagens/PELICULA3D.png"
+                                    imageShape="Circle"
+                                    iconDensityAware="false"
+                                    title="Modelos de películas 3D lançamento"
+                                    number="R$ 1,90"
+                                    numberUnit="a unidade"
+                                    class="sapUiResponsivePadding--header"
+                                >
+                                    <statuses>
+                                        <ObjectStatus
+                                            text="Consulte a disponibilidade"
+                                            state="Success"
+                                        />
+                                    </statuses>
+                                </ObjectHeader>
+                                <table:TreeTable
+                                    rows="{path:'/Dnova', parameters: {arrayNames:['Categoria']}}"
+                                    selectionMode="None"
+                                    enableSelectAll="false"
+                                    ariaLabelledBy="title"
+                                    visibleRowCount="10"
+                                    alternateRowColors="true"
+                                >
+                                    <table:columns>
+                                        <table:Column>
+                                            <Label text="Modelo" />
+                                            <table:template>
+                                                <ObjectStatus text="{Modelo}" />
+                                            </table:template>
+                                        </table:Column>
+                                    </table:columns>
+                                </table:TreeTable>
+                            </IconTabFilter>
+                            <IconTabFilter
+                                key="Privacidade"
+                                text="Privacidade"
+                            >
+                                <ObjectHeader
+                                    icon="../Imagens/PELICULAPRIVACIDADE.png"
+                                    imageShape="Circle"
+                                    iconDensityAware="false"
+                                    title="Películas Privacidade"
+                                    number="R$ 4,50"
+                                    numberUnit="a unidade"
+                                    class="sapUiResponsivePadding--header"
+                                >
+                                    <statuses>
+                                        <ObjectStatus
+                                            text="Consulte a disponibilidade"
+                                            state="Success"
+                                        />
+                                    </statuses>
+                                    <ObjectAttribute
+                                        text="Mínimo 50 peças sendo modelos misturados de capinhas e películas"
+                                    />
+                                </ObjectHeader>
+                                <table:TreeTable
+                                    rows="{path:'/Privacidade', parameters: {arrayNames:['Categoria']}}"
+                                    selectionMode="None"
+                                    enableSelectAll="false"
+                                    ariaLabelledBy="title"
+                                    visibleRowCount="10"
+                                    alternateRowColors="true"
+                                >
+                                    <table:columns>
+                                        <table:Column>
+                                            <Label text="Modelo" />
+                                            <table:template>
+                                                <ObjectStatus text="{Modelo}" />
+                                            </table:template>
+                                        </table:Column>
+                                    </table:columns>
+                                </table:TreeTable>
+                            </IconTabFilter>
+                            <IconTabFilter
+                                key="Cerâmica"
+                                text="Cerâmica"
+                            >
+                                <ObjectHeader
+                                    icon="../Imagens/PELICULACERAMICA.png"
+                                    imageShape="Circle"
+                                    iconDensityAware="false"
+                                    title="Películas Cerâmica"
+                                    number="R$ 3,50"
+                                    numberUnit="a unidade"
+                                    class="sapUiResponsivePadding--header"
+                                >
+                                    <statuses>
+                                        <ObjectStatus
+                                            text="Consulte a disponibilidade"
+                                            state="Success"
+                                        />
+                                    </statuses>
+                                    <ObjectAttribute
+                                        text="Mínimo 50 peças sendo modelos misturados de capinhas e películas"
+                                    />
+                                </ObjectHeader>
+                                <table:TreeTable
+                                    rows="{path:'/Ceramica', parameters: {arrayNames:['Categoria']}}"
+                                    selectionMode="None"
+                                    enableSelectAll="false"
+                                    ariaLabelledBy="title"
+                                    visibleRowCount="10"
+                                    alternateRowColors="true"
+                                >
+                                    <table:columns>
+                                        <table:Column>
+                                            <Label text="Modelo" />
+                                            <table:template>
+                                                <ObjectStatus text="{Modelo}" />
+                                            </table:template>
+                                        </table:Column>
+                                    </table:columns>
+                                </table:TreeTable>
+                            </IconTabFilter>
+                            <IconTabFilter
+                                key="Cerâmica privacidade"
+                                text="Cerâmica privacidade"
+                            >
+                                <ObjectHeader
+                                    icon="../Imagens/PELICULASCERAMICAPRIVACIDADE.png"
+                                    imageShape="Circle"
+                                    iconDensityAware="false"
+                                    title="Películas Cerâmica Privacidade"
+                                    number="R$ 4,80"
+                                    numberUnit="a unidade"
+                                    class="sapUiResponsivePadding--header"
+                                >
+                                    <statuses>
+                                        <ObjectStatus
+                                            text="Consulte a disponibilidade"
+                                            state="Success"
+                                        />
+                                    </statuses>
+                                    <ObjectAttribute
+                                        text="Mínimo 50 peças sendo modelos misturados de capinhas e películas"
+                                    />
+                                </ObjectHeader>
+                                <table:TreeTable
+                                    rows="{path:'/CeramicaPrivacidade', parameters: {arrayNames:['Categoria']}}"
+                                    selectionMode="None"
+                                    enableSelectAll="false"
+                                    ariaLabelledBy="title"
+                                    visibleRowCount="10"
+                                    alternateRowColors="true"
+                                >
+                                    <table:columns>
+                                        <table:Column>
+                                            <Label text="Modelo" />
+                                            <table:template>
+                                                <ObjectStatus text="{Modelo}" />
+                                            </table:template>
+                                        </table:Column>
+                                    </table:columns>
+                                </table:TreeTable>
+                            </IconTabFilter>
+                            <IconTabFilter
+                                key="Vidro"
+                                text="Vidro"
+                            >
+                                <ObjectHeader
+                                    icon="../Imagens/PELICULASVIDRO.png"
+                                    imageShape="Circle"
+                                    iconDensityAware="false"
+                                    title="Películas Vidro"
+                                    number="R$ 0,95"
+                                    numberUnit="a unidade"
+                                    class="sapUiResponsivePadding--header"
+                                >
+                                    <statuses>
+                                        <ObjectStatus
+                                            text="Consulte a disponibilidade"
+                                            state="Success"
+                                        />
+                                    </statuses>
+                                    <ObjectAttribute
+                                        text="Mínimo 50 peças sendo modelos misturados de capinhas e películas"
+                                    />
+                                </ObjectHeader>
+                                <table:TreeTable
+                                    rows="{path:'/Vidro', parameters: {arrayNames:['Categoria']}}"
+                                    selectionMode="None"
+                                    enableSelectAll="false"
+                                    ariaLabelledBy="title"
+                                    visibleRowCount="10"
+                                    alternateRowColors="true"
+                                >
+                                    <table:columns>
+                                        <table:Column>
+                                            <Label text="Modelo" />
+                                            <table:template>
+                                                <ObjectStatus text="{Modelo}" />
+                                            </table:template>
+                                        </table:Column>
+                                    </table:columns>
+                                </table:TreeTable>
+                            </IconTabFilter>
+                            <IconTabFilter
+                                key="Traseira cerâmica"
+                                text="Traseira cerâmica"
+                            >
+                                <ObjectHeader
+                                    icon="../Imagens/PELICULATRASEIRACERAMICA.png"
+                                    imageShape="Circle"
+                                    iconDensityAware="false"
+                                    title="Películas traseira cerâmica"
+                                    number="R$ 3,00"
+                                    numberUnit="a unidade"
+                                    class="sapUiResponsivePadding--header"
+                                >
+                                    <statuses>
+                                        <ObjectStatus
+                                            text="Consulte a disponibilidade"
+                                            state="Success"
+                                        />
+                                    </statuses>
+                                    <ObjectAttribute
+                                        text="Mínimo 50 peças sendo modelos misturados de capinhas e películas"
+                                    />
+                                </ObjectHeader>
+                                <table:TreeTable
+                                    rows="{path:'/PeliculaTraseiraCeramica', parameters: {arrayNames:['Categoria']}}"
+                                    selectionMode="None"
+                                    enableSelectAll="false"
+                                    ariaLabelledBy="title"
+                                    visibleRowCount="10"
+                                    alternateRowColors="true"
+                                >
+                                    <table:columns>
+                                        <table:Column>
+                                            <Label text="Modelo" />
+                                            <table:template>
+                                                <ObjectStatus text="{Modelo}" />
+                                            </table:template>
+                                        </table:Column>
+                                    </table:columns>
+                                </table:TreeTable>
+                            </IconTabFilter>
+                            <IconTabFilter
+                                key="ProtetorCamera"
+                                text="Protetor para Câmera celulares Iphone"
+                            >
+                                <ObjectHeader
+                                    iconDensityAware="false"
+                                    title="Protetor para câmera"
+                                    class="sapUiResponsivePadding--header"
+                                >
+                                    <statuses>
+                                        <ObjectStatus
+                                            text="Consulte a disponibilidade"
+                                            state="Success"
+                                        />
+                                    </statuses>
+                                    <ObjectAttribute
+                                        text="Mínimo 50 peças sendo modelos misturados de capinhas e películas"
+                                    />
+                                </ObjectHeader>
+
+                                <f:Form
+                                    class="editableForm"
+                                    editable="true"
+                                >
+                                    <f:layout>
+                                        <f:ResponsiveGridLayout
+                                            labelSpanXL="1"
+                                            labelSpanL="1"
+                                            labelSpanM="1"
+                                            labelSpanS="1"
+                                            adjustLabelSpan="false"
+                                            emptySpanXL="0"
+                                            emptySpanL="0"
+                                            emptySpanM="0"
+                                            emptySpanS="0"
+                                            columnsXL="2"
+                                            columnsL="2"
+                                            columnsM="2"
+                                            singleContainerFullSize="false"
+                                        />
+                                    </f:layout>
+                                    <f:formContainers>
+                                        <f:FormContainer>
+                                            <f:formElements>
+                                                <f:FormElement>
+                                                    <fcart:Card
+                                                    >
+                                                        <fcart:header>
+                                                            <cart:Header
+                                                                title="UNIDADE"
+                                                                subtitle="R$ 4,50"
+                                                                iconSrc="sap-icon://iphone"
+                                                            />
+                                                        </fcart:header>
+                                                        <fcart:content>
+                                                            <Image
+                                                                src="../Imagens/CAMERAIPHONE.png"
+                                                            />
+                                                        </fcart:content>
+                                                    </fcart:Card>
+                                                </f:FormElement>
+                                            </f:formElements>
+                                        </f:FormContainer>
+                                        <f:FormContainer>
+                                            <f:formElements>
+                                                <f:FormElement>
+                                                    <fcart:Card
+                                                    >
+                                                        <fcart:header>
+                                                            <cart:Header
+                                                                title="PACOTE"
+                                                                subtitle="R$ 9,00"
+                                                                iconSrc="sap-icon://iphone"
+                                                            />
+                                                        </fcart:header>
+                                                        <fcart:content>
+                                                            <Image
+                                                                src="../Imagens/PROTETORPACOTE.png"
+                                                                width="50%"
+                                                            />
+                                                        </fcart:content>
+                                                    </fcart:Card>
+                                                </f:FormElement>
+                                            </f:formElements>
+                                        </f:FormContainer>
+                                    </f:formContainers>
+                                </f:Form>
+                            </IconTabFilter>
+                            <IconTabFilter
+                                key="Para câmera"
+                                text="Para câmera"
+                            >
+                                <ObjectHeader
+                                    icon="../Imagens/PROTETORCAMERA.png"
+                                    imageShape="Circle"
+                                    iconDensityAware="false"
+                                    title="Películas para camêra"
+                                    number="R$ 3,50"
+                                    numberUnit="a unidade"
+                                    class="sapUiResponsivePadding--header"
+                                >
+                                    <statuses>
+                                        <ObjectStatus
+                                            text="Consulte a disponibilidade"
+                                            state="Success"
+                                        />
+                                    </statuses>
+                                    <ObjectAttribute
+                                        text="Mínimo 50 peças sendo modelos misturados de capinhas e películas"
+                                    />
+                                </ObjectHeader>
+                                <table:TreeTable
+                                    rows="{path:'/PeliculaCamera', parameters: {arrayNames:['Categoria']}}"
+                                    selectionMode="None"
+                                    enableSelectAll="false"
+                                    ariaLabelledBy="title"
+                                    visibleRowCount="10"
+                                    alternateRowColors="true"
+                                >
+                                    <table:columns>
+                                        <table:Column>
+                                            <Label text="Modelo" />
+                                            <table:template>
+                                                <ObjectStatus text="{Modelo}" />
+                                            </table:template>
+                                        </table:Column>
+                                    </table:columns>
+                                </table:TreeTable>
+                            </IconTabFilter>
+                        </items>
+                    </IconTabFilter>
+                    <IconTabFilter
+                        key="Capas"
+                        text="Capas"
+                    >
+                        <items>
+                            <IconTabFilter
+                                key="Silicone"
+                                text="Silicone"
+                            >
+                                <ObjectHeader
+                                    icon="../Imagens/PELICULASVIDRO.png"
+                                    imageShape="Circle"
+                                    iconDensityAware="false"
+                                    title="Capas de silicone"
+                                    number="R$ 4,00"
+                                    numberUnit="a unidade"
+                                    class="sapUiResponsivePadding--header"
+                                >
+                                    <statuses>
+                                        <ObjectStatus
+                                            text="Consulte a disponibilidade"
+                                            state="Success"
+                                        />
+                                    </statuses>
+                                    <ObjectAttribute
+                                        text="Mínimo 50 peças sendo modelos misturados de capinhas e películas"
+                                    />
+                                </ObjectHeader>
+                                <table:TreeTable
+                                    rows="{path:'/CapaSilicone', parameters: {arrayNames:['Categoria']}}"
+                                    selectionMode="None"
+                                    enableSelectAll="false"
+                                    ariaLabelledBy="title"
+                                    visibleRowCount="10"
+                                    alternateRowColors="true"
+                                >
+                                    <table:columns>
+                                        <table:Column>
+                                            <Label text="Modelo" />
+                                            <table:template>
+                                                <ObjectStatus text="{Modelo}" />
+                                            </table:template>
+                                        </table:Column>
+                                    </table:columns>
+                                </table:TreeTable>
+                            </IconTabFilter>
+                            <IconTabFilter
+                                key="SiliconeNova"
+                                text="Silicone modelos novos"
+                            >
+                                <ObjectHeader
+                                    icon="../Imagens/PELICULASVIDRO.png"
+                                    imageShape="Circle"
+                                    iconDensityAware="false"
+                                    title="Capas de silicone modelo novo"
+                                    number="R$ 6,00"
+                                    numberUnit="a unidade"
+                                    class="sapUiResponsivePadding--header"
+                                >
+                                    <statuses>
+                                        <ObjectStatus
+                                            text="Consulte a disponibilidade"
+                                            state="Success"
+                                        />
+                                    </statuses>
+                                    <ObjectAttribute
+                                        text="Mínimo 50 peças sendo modelos misturados de capinhas e películas"
+                                    />
+                                </ObjectHeader>
+                                <table:TreeTable
+                                    rows="{path:'/CapaSiliconeNova', parameters: {arrayNames:['Categoria']}}"
+                                    selectionMode="None"
+                                    enableSelectAll="false"
+                                    ariaLabelledBy="title"
+                                    visibleRowCount="10"
+                                    alternateRowColors="true"
+                                >
+                                    <table:columns>
+                                        <table:Column>
+                                            <Label text="Modelo" />
+                                            <table:template>
+                                                <ObjectStatus text="{Modelo}" />
+                                            </table:template>
+                                        </table:Column>
+                                    </table:columns>
+                                </table:TreeTable>
+                            </IconTabFilter>
+                            <IconTabFilter
+                                key="Transparente anti-choque"
+                                text="Transparente anti-choque"
+                            >
+                                <ObjectHeader
+                                    icon="../Imagens/CAPAANTICHOQUE.png"
+                                    imageShape="Circle"
+                                    iconDensityAware="false"
+                                    title="Transparente anti-choque"
+                                    number="R$ 3,30"
+                                    numberUnit="a unidade"
+                                    class="sapUiResponsivePadding--header"
+                                >
+                                    <statuses>
+                                        <ObjectStatus
+                                            text="Consulte a disponibilidade"
+                                            state="Success"
+                                        />
+                                    </statuses>
+                                    <ObjectAttribute
+                                        text="Mínimo 50 peças sendo modelos misturados de capinhas e películas"
+                                    />
+                                </ObjectHeader>
+                                <table:TreeTable
+                                    rows="{path:'/CapaTransparente', parameters: {arrayNames:['Categoria']}}"
+                                    selectionMode="None"
+                                    enableSelectAll="false"
+                                    ariaLabelledBy="title"
+                                    visibleRowCount="10"
+                                    alternateRowColors="true"
+                                >
+                                    <table:columns>
+                                        <table:Column>
+                                            <Label text="Modelo" />
+                                            <table:template>
+                                                <ObjectStatus text="{Modelo}" />
+                                            </table:template>
+                                        </table:Column>
+                                    </table:columns>
+                                </table:TreeTable>
+                            </IconTabFilter>
+                            <IconTabFilter
+                                key="Carteira"
+                                text="Carteira"
+                            >
+                                <ObjectHeader
+                                    icon="../Imagens/CARTEIRA.png"
+                                    imageShape="Circle"
+                                    iconDensityAware="false"
+                                    title="Carteira"
+                                    number="R$ 7,20"
+                                    numberUnit="a unidade"
+                                    class="sapUiResponsivePadding--header"
+                                >
+                                    <statuses>
+                                        <ObjectStatus
+                                            text="Consulte a disponibilidade"
+                                            state="Success"
+                                        />
+                                    </statuses>
+                                    <ObjectAttribute
+                                        text="Mínimo 50 peças sendo modelos misturados de capinhas e películas"
+                                    />
+                                </ObjectHeader>
+                                <table:TreeTable
+                                    rows="{path:'/CapaCarteira', parameters: {arrayNames:['Categoria']}}"
+                                    selectionMode="None"
+                                    enableSelectAll="false"
+                                    ariaLabelledBy="title"
+                                    visibleRowCount="10"
+                                    alternateRowColors="true"
+                                >
+                                    <table:columns>
+                                        <table:Column>
+                                            <Label text="Modelo" />
+                                            <table:template>
+                                                <ObjectStatus text="{Modelo}" />
+                                            </table:template>
+                                        </table:Column>
+                                    </table:columns>
+                                </table:TreeTable>
+                            </IconTabFilter>
+                            <IconTabFilter
+                                key="Space"
+                                text="Space"
+                            >
+                                <ObjectHeader
+                                    icon="../Imagens/SPACE.png"
+                                    imageShape="Circle"
+                                    iconDensityAware="false"
+                                    title="SPACE"
+                                    number="R$ 7,00"
+                                    numberUnit="a unidade"
+                                    class="sapUiResponsivePadding--header"
+                                >
+                                    <statuses>
+                                        <ObjectStatus
+                                            text="Consulte a disponibilidade"
+                                            state="Success"
+                                        />
+                                    </statuses>
+                                    <ObjectAttribute
+                                        text="Mínimo 50 peças sendo modelos misturados de capinhas e películas"
+                                    />
+                                </ObjectHeader>
+                                <table:TreeTable
+                                    rows="{path:'/CapasSpace', parameters: {arrayNames:['Categoria']}}"
+                                    selectionMode="None"
+                                    enableSelectAll="false"
+                                    ariaLabelledBy="title"
+                                    visibleRowCount="10"
+                                    alternateRowColors="true"
+                                >
+                                    <table:columns>
+                                        <table:Column>
+                                            <Label text="Modelo" />
+                                            <table:template>
+                                                <ObjectStatus text="{Modelo}" />
+                                            </table:template>
+                                        </table:Column>
+                                    </table:columns>
+                                </table:TreeTable>
+                            </IconTabFilter>
+                            <IconTabFilter
+                                key="MAG Safe"
+                                text="MAG Safe"
+                            >
+                                <ObjectHeader
+                                    icon="../Imagens/MAGSAFE.png"
+                                    imageShape="Circle"
+                                    iconDensityAware="false"
+                                    title="MAG SAFE"
+                                    number="R$ 11,00"
+                                    numberUnit="a unidade"
+                                    class="sapUiResponsivePadding--header"
+                                >
+                                    <statuses>
+                                        <ObjectStatus
+                                            text="Consulte a disponibilidade"
+                                            state="Success"
+                                        />
+                                    </statuses>
+                                    <ObjectAttribute
+                                        text="Mínimo 50 peças sendo modelos misturados de capinhas e películas"
+                                    />
+                                </ObjectHeader>
+                                <table:TreeTable
+                                    rows="{path:'/CapasMAGSAFE', parameters: {arrayNames:['Categoria']}}"
+                                    selectionMode="None"
+                                    enableSelectAll="false"
+                                    ariaLabelledBy="title"
+                                    visibleRowCount="10"
+                                    alternateRowColors="true"
+                                >
+                                    <table:columns>
+                                        <table:Column>
+                                            <Label text="Modelo" />
+                                            <table:template>
+                                                <ObjectStatus text="{Modelo}" />
+                                            </table:template>
+                                        </table:Column>
+                                    </table:columns>
+                                </table:TreeTable>
+                            </IconTabFilter>
+                            <IconTabFilter
+                                key="Case Iphone"
+                                text="Case Iphone"
+                            >
+                                <ObjectHeader
+                                    icon="../Imagens/CASEIPHONE.png"
+                                    imageShape="Circle"
+                                    iconDensityAware="false"
+                                    title="Case Iphone"
+                                    number="R$ 5,70"
+                                    numberUnit="a unidade"
+                                    class="sapUiResponsivePadding--header"
+                                >
+                                    <statuses>
+                                        <ObjectStatus
+                                            text="Consulte a disponibilidade"
+                                            state="Success"
+                                        />
+                                    </statuses>
+                                    <ObjectAttribute
+                                        text="Mínimo 50 peças sendo modelos misturados de capinhas e películas"
+                                    />
+                                </ObjectHeader>
+                                <table:TreeTable
+                                    rows="{path:'/CaseIphone', parameters: {arrayNames:['Categoria']}}"
+                                    selectionMode="None"
+                                    enableSelectAll="false"
+                                    ariaLabelledBy="title"
+                                    visibleRowCount="10"
+                                    alternateRowColors="true"
+                                >
+                                    <table:columns>
+                                        <table:Column>
+                                            <Label text="Modelo" />
+                                            <table:template>
+                                                <ObjectStatus text="{Modelo}" />
+                                            </table:template>
+                                        </table:Column>
+                                    </table:columns>
+                                </table:TreeTable>
+                            </IconTabFilter>
+                            <IconTabFilter
+                                key="Acrilico Glass"
+                                text="Acrilico Glass"
+                            >
+                                <ObjectHeader
+                                    icon="../Imagens/GLASS.png"
+                                    imageShape="Circle"
+                                    iconDensityAware="false"
+                                    title="AG Glass fosca"
+                                    number="R$ 24,00"
+                                    numberUnit="a unidade"
+                                    class="sapUiResponsivePadding--header"
+                                >
+                                    <statuses>
+                                        <ObjectStatus
+                                            text="Consulte a disponibilidade"
+                                            state="Success"
+                                        />
+                                    </statuses>
+                                    <ObjectAttribute
+                                        text="Mínimo 50 peças sendo modelos misturados de capinhas e películas"
+                                    />
+                                </ObjectHeader>
+                                <table:TreeTable
+                                    rows="{path:'/AGGLASSFOSCA', parameters: {arrayNames:['Categoria']}}"
+                                    selectionMode="None"
+                                    enableSelectAll="false"
+                                    ariaLabelledBy="title"
+                                    visibleRowCount="10"
+                                    alternateRowColors="true"
+                                >
+                                    <table:columns>
+                                        <table:Column>
+                                            <Label text="Modelo" />
+                                            <table:template>
+                                                <ObjectStatus text="{Modelo}" />
+                                            </table:template>
+                                        </table:Column>
+                                    </table:columns>
+                                </table:TreeTable>
+                            </IconTabFilter>
+                        </items>
+                    </IconTabFilter>
+                    <IconTabFilter
+                        key="Variedades"
+                        text="Variedades para celular"
+                    >
+                        <items>
+                            <IconTabFilter
+                                key="Porta cartão"
+                                text="Porta cartão"
+                            >
+                                <ObjectHeader
+                                    iconDensityAware="false"
+                                    title="Porta Cartão"
+                                    class="sapUiResponsivePadding--header"
+                                    number="R$ 4,50"
+                                    numberUnit="a unidade"
+                                >
+                                    <statuses>
+                                        <ObjectStatus
+                                            text="Consulte a disponibilidade"
+                                            state="Success"
+                                        />
+                                    </statuses>
+                                    <ObjectAttribute
+                                        text="Mínimo 50 peças sendo modelos misturados de capinhas e películas"
+                                    />
+                                </ObjectHeader>
+
+                                <f:Form
+                                    class="editableForm"
+                                    editable="true"
+                                >
+                                    <f:layout>
+                                        <f:ResponsiveGridLayout
+                                            labelSpanXL="1"
+                                            labelSpanL="1"
+                                            labelSpanM="1"
+                                            labelSpanS="1"
+                                            adjustLabelSpan="false"
+                                            emptySpanXL="0"
+                                            emptySpanL="0"
+                                            emptySpanM="0"
+                                            emptySpanS="0"
+                                            columnsXL="2"
+                                            columnsL="2"
+                                            columnsM="2"
+                                            singleContainerFullSize="false"
+                                        />
+                                    </f:layout>
+                                    <f:formContainers>
+                                        <f:FormContainer>
+                                            <f:formElements>
+                                                <f:FormElement>
+                                                    <fcart:Card
+                                                    >
+                                                        <fcart:content>
+                                                            <Image
+                                                                src="../Imagens/PORTACARTAO.png"
+                                                            />
+                                                        </fcart:content>
+                                                    </fcart:Card>
+                                                </f:FormElement>
+                                            </f:formElements>
+                                        </f:FormContainer>
+                                    </f:formContainers>
+                                </f:Form>
+                            </IconTabFilter>
+                            <IconTabFilter
+                                key="Miçangas"
+                                text="Miçangas"
+                            />
+                            <IconTabFilter
+                                key="Correntinhas"
+                                text="Correntinhas"
+                            />
+                            <IconTabFilter
+                                key="Pop Socket"
+                                text="Pop Socket"
+                            />
+                        </items>
+                    </IconTabFilter>
+                    <IconTabFilter
+                        key="Copos térmicos"
+                        text="Copos térmicos"
+                    >
+                        <items>
+                            <IconTabFilter
+                                key="Stanley"
+                                text="Stanley"
+                            />
+                            <IconTabFilter
+                                key="C/ Som 420ml"
+                                text="C/ Som 420ml"
+                            />
+                            <IconTabFilter
+                                key="Canecas Stanley"
+                                text="Canecas Stanley"
+                            />
+                            <IconTabFilter
+                                key="Canecas Stanley"
+                                text="Canecas Stanley"
+                            />
+                            <IconTabFilter
+                                key="Porta Long Neck/Lata STANLEY"
+                                text="Porta Long Neck/Lata STANLEY"
+                            />
+                            <IconTabFilter
+                                key="Garrafa Stanley térmica digital"
+                                text="Garrafa Stanley térmica digital"
+                            />
+                            <IconTabFilter
+                                key="Garrafa Stanley com bico"
+                                text="Garrafa Stanley com bico"
+                            />
+                            <IconTabFilter
+                                key="Garrafa Stanley + 1 xícara tampa"
+                                text="Garrafa Stanley + 1 xícara tampa"
+                            />
+                            <IconTabFilter
+                                key="KIT Garrafa stanley c/ 3 xícaras"
+                                text="KIT Garrafa stanley c/ 3 xícaras"
+                            />
+                            <IconTabFilter
+                                key="Garrafa térmica Stanley"
+                                text="Garrafa térmica Stanley"
+                            />
+                            <IconTabFilter
+                                key="Garrafa térmica Stanley com bico"
+                                text="Garrafa térmica Stanley com bico"
+                            />
+                            <IconTabFilter
+                                key="Garrafa térmica Stanley"
+                                text="Garrafa térmica Stanley"
+                            />
+                            <IconTabFilter
+                                key="Garrafas de plástico"
+                                text="Garrafas de plástico"
+                            />
+                        </items>
+                    </IconTabFilter>
+                </items>
+            </IconTabBar>
+        </content>
+    </Page>
+</mvc:View>
