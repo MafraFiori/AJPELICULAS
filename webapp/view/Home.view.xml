@@ -107,7 +107,6 @@
                             >
                                 <ObjectHeader
                                     icon="../Imagens/PELICULA3D.png"
-                                    
                                     iconDensityAware="false"
                                     title="Modelos de películas 3D"
                                     number="R$ 1,50"
@@ -427,8 +426,7 @@
                                         <f:FormContainer>
                                             <f:formElements>
                                                 <f:FormElement>
-                                                    <fcart:Card
-                                                    >
+                                                    <fcart:Card>
                                                         <fcart:header>
                                                             <cart:Header
                                                                 title="UNIDADE"
@@ -448,8 +446,7 @@
                                         <f:FormContainer>
                                             <f:formElements>
                                                 <f:FormElement>
-                                                    <fcart:Card
-                                                    >
+                                                    <fcart:Card>
                                                         <fcart:header>
                                                             <cart:Header
                                                                 title="PACOTE"
@@ -852,81 +849,349 @@
                         key="Variedades"
                         text="Variedades para celular"
                     >
-                        <items>
-                            <IconTabFilter
-                                key="Porta cartão"
-                                text="Porta cartão"
-                            >
-                                <ObjectHeader
-                                    iconDensityAware="false"
-                                    title="Porta Cartão"
-                                    class="sapUiResponsivePadding--header"
-                                    number="R$ 4,50"
-                                    numberUnit="a unidade"
-                                >
-                                    <statuses>
-                                        <ObjectStatus
-                                            text="Consulte a disponibilidade"
-                                            state="Success"
-                                        />
-                                    </statuses>
-                                    <ObjectAttribute
-                                        text="Mínimo 50 peças sendo modelos misturados de capinhas e películas"
-                                    />
-                                </ObjectHeader>
-
-                                <f:Form
-                                    class="editableForm"
-                                    editable="true"
-                                >
-                                    <f:layout>
-                                        <f:ResponsiveGridLayout
-                                            labelSpanXL="1"
-                                            labelSpanL="1"
-                                            labelSpanM="1"
-                                            labelSpanS="1"
-                                            adjustLabelSpan="false"
-                                            emptySpanXL="0"
-                                            emptySpanL="0"
-                                            emptySpanM="0"
-                                            emptySpanS="0"
-                                            columnsXL="2"
-                                            columnsL="2"
-                                            columnsM="2"
-                                            singleContainerFullSize="false"
-                                        />
-                                    </f:layout>
-                                    <f:formContainers>
-                                        <f:FormContainer>
-                                            <f:formElements>
-                                                <f:FormElement>
-                                                    <fcart:Card
-                                                    >
-                                                        <fcart:content>
-                                                            <Image
-                                                                src="../Imagens/PORTACARTAO.png"
-                                                            />
-                                                        </fcart:content>
-                                                    </fcart:Card>
-                                                </f:FormElement>
-                                            </f:formElements>
-                                        </f:FormContainer>
-                                    </f:formContainers>
-                                </f:Form>
-                            </IconTabFilter>
-                            <IconTabFilter
-                                key="Miçangas"
-                                text="Miçangas"
-                            />
-                            <IconTabFilter
-                                key="Correntinhas"
-                                text="Correntinhas"
-                            />
-                            <IconTabFilter
-                                key="Pop Socket"
-                                text="Pop Socket"
-                            />
-                        </items>
+                        <f:Form>
+                            <f:layout>
+                                <f:ResponsiveGridLayout
+                                    labelSpanXL="12"
+                                    labelSpanL="12"
+                                    labelSpanM="12"
+                                    labelSpanS="12"
+                                    adjustLabelSpan="true"
+                                    emptySpanXL="0"
+                                    emptySpanL="0"
+                                    emptySpanM="0"
+                                    emptySpanS="0"
+                                    columnsXL="4"
+                                    columnsL="4"
+                                    columnsM="4"
+                                    singleContainerFullSize="true"
+                                />
+                            </f:layout>
+                            <f:formContainers>
+                                <f:FormContainer>
+                                    <f:formElements>
+                                        <f:FormElement>
+                                            <Panel
+                                            >
+                                                <l:BlockLayout
+                                                    background="Dashboard"
+                                                >
+                                                    <l:BlockLayoutRow>
+                                                        <l:content>
+                                                            <l:BlockLayoutCell
+                                                                class="sapUiContentPadding"
+                                                            >
+                                                                <l:Grid
+                                                                    defaultSpan="XL12 L12 M12 S12"
+                                                                    vSpacing="0"
+                                                                    hSpacing="0"
+                                                                >
+                                                                    <FlexBox
+                                                                        height="2.5rem"
+                                                                        renderType="Bare"
+                                                                    >
+                                                                        <l:VerticalLayout
+                                                                        >
+                                                                            <ObjectIdentifier
+                                                                                title="Porta Cartão"
+                                                                                tooltip="Porta Cartão"
+                                                                                titleActive="true"
+                                                                                titlePress=".onSelectProduct"
+                                                                                class="sapUiTinyMarginBottom"
+                                                                            />
+                                                                        </l:VerticalLayout>
+                                                                    </FlexBox>
+                                                                    <FlexBox
+                                                                        renderType="Bare"
+                                                                        justifyContent="Center"
+                                                                    >
+                                                                        <Image
+                                                                            src="../Imagens/PORTACARTAO.png"
+                                                                            width="30%"
+                                                                            height="30%"
+                                                                            press=".onSelectProduct"
+                                                                        />
+                                                                    </FlexBox>
+                                                                    <Button
+                                                                        tooltip="Porta Cartão"
+                                                                        press=".onAddToCart"
+                                                                        icon="sap-icon://cart-3"
+                                                                        type="Emphasized"
+                                                                        visible="true"
+                                                                    >
+                                                                        <layoutData
+                                                                        >
+                                                                            <l:GridData
+                                                                                span="XL4 L4 M4 S4"
+                                                                            />
+                                                                        </layoutData>
+                                                                    </Button>
+                                                                    <ObjectListItem
+                                                                        class="welcomePrice"
+                                                                        number="R$ 5,00"
+                                                                        numberUnit="A unidade"
+                                                                    >
+                                                                        <layoutData
+                                                                        >
+                                                                            <l:GridData
+                                                                                span="XL8 L8 M8 S8"
+                                                                            />
+                                                                        </layoutData>
+                                                                    </ObjectListItem>
+                                                                </l:Grid>
+                                                            </l:BlockLayoutCell>
+                                                        </l:content>
+                                                    </l:BlockLayoutRow>
+                                                </l:BlockLayout>
+                                            </Panel>
+                                        </f:FormElement>
+                                    </f:formElements>
+                                </f:FormContainer>
+                                <f:FormContainer>
+                                    <f:formElements>
+                                        <f:FormElement>
+                                            <Panel
+                                                backgroundDesign="Transparent"
+                                                class="sapUiNoContentPadding"
+                                            >
+                                                <l:BlockLayout
+                                                    background="Dashboard"
+                                                >
+                                                    <l:BlockLayoutRow>
+                                                        <l:content>
+                                                            <l:BlockLayoutCell
+                                                                class="sapUiContentPadding"
+                                                            >
+                                                                <l:Grid
+                                                                    defaultSpan="XL12 L12 M12 S12"
+                                                                    vSpacing="0"
+                                                                    hSpacing="0"
+                                                                >
+                                                                    <FlexBox
+                                                                        height="2.5rem"
+                                                                        renderType="Bare"
+                                                                    >
+                                                                        <l:VerticalLayout
+                                                                        >
+                                                                            <ObjectIdentifier
+                                                                                title="Porta Cartão"
+                                                                                tooltip="Porta Cartão"
+                                                                                titleActive="true"
+                                                                                titlePress=".onSelectProduct"
+                                                                                class="sapUiTinyMarginBottom"
+                                                                            />
+                                                                        </l:VerticalLayout>
+                                                                    </FlexBox>
+                                                                    <FlexBox
+                                                                        renderType="Bare"
+                                                                        justifyContent="Center"
+                                                                    >
+                                                                        <Image
+                                                                            src="../Imagens/PORTACARTAO.png"
+                                                                            width="30%"
+                                                                            height="30%"
+                                                                            press=".onSelectProduct"
+                                                                        />
+                                                                    </FlexBox>
+                                                                    <Button
+                                                                        tooltip="Porta Cartão"
+                                                                        press=".onAddToCart"
+                                                                        icon="sap-icon://cart-3"
+                                                                        type="Emphasized"
+                                                                        visible="true"
+                                                                    >
+                                                                        <layoutData
+                                                                        >
+                                                                            <l:GridData
+                                                                                span="XL4 L4 M4 S4"
+                                                                            />
+                                                                        </layoutData>
+                                                                    </Button>
+                                                                    <ObjectListItem
+                                                                        class="welcomePrice"
+                                                                        number="R$ 5,00"
+                                                                        numberUnit="A unidade"
+                                                                    >
+                                                                        <layoutData
+                                                                        >
+                                                                            <l:GridData
+                                                                                span="XL8 L8 M8 S8"
+                                                                            />
+                                                                        </layoutData>
+                                                                    </ObjectListItem>
+                                                                </l:Grid>
+                                                            </l:BlockLayoutCell>
+                                                        </l:content>
+                                                    </l:BlockLayoutRow>
+                                                </l:BlockLayout>
+                                            </Panel>
+                                        </f:FormElement>
+                                    </f:formElements>
+                                </f:FormContainer>
+                                <f:FormContainer>
+                                    <f:formElements>
+                                        <f:FormElement>
+                                            <Panel
+                                                backgroundDesign="Transparent"
+                                                class="sapUiNoContentPadding"
+                                            >
+                                                <l:BlockLayout
+                                                    background="Dashboard"
+                                                >
+                                                    <l:BlockLayoutRow>
+                                                        <l:content>
+                                                            <l:BlockLayoutCell
+                                                                class="sapUiContentPadding"
+                                                            >
+                                                                <l:Grid
+                                                                    defaultSpan="XL12 L12 M12 S12"
+                                                                    vSpacing="0"
+                                                                    hSpacing="0"
+                                                                >
+                                                                    <FlexBox
+                                                                        height="2.5rem"
+                                                                        renderType="Bare"
+                                                                    >
+                                                                        <l:VerticalLayout
+                                                                        >
+                                                                            <ObjectIdentifier
+                                                                                title="Porta Cartão"
+                                                                                tooltip="Porta Cartão"
+                                                                                titleActive="true"
+                                                                                titlePress=".onSelectProduct"
+                                                                                class="sapUiTinyMarginBottom"
+                                                                            />
+                                                                        </l:VerticalLayout>
+                                                                    </FlexBox>
+                                                                    <FlexBox
+                                                                        renderType="Bare"
+                                                                        justifyContent="Center"
+                                                                    >
+                                                                        <Image
+                                                                            src="../Imagens/PORTACARTAO.png"
+                                                                            width="30%"
+                                                                            height="30%"
+                                                                            press=".onSelectProduct"
+                                                                        />
+                                                                    </FlexBox>
+                                                                    <Button
+                                                                        tooltip="Porta Cartão"
+                                                                        press=".onAddToCart"
+                                                                        icon="sap-icon://cart-3"
+                                                                        type="Emphasized"
+                                                                        visible="true"
+                                                                    >
+                                                                        <layoutData
+                                                                        >
+                                                                            <l:GridData
+                                                                                span="XL4 L4 M4 S4"
+                                                                            />
+                                                                        </layoutData>
+                                                                    </Button>
+                                                                    <ObjectListItem
+                                                                        class="welcomePrice"
+                                                                        number="R$ 5,00"
+                                                                        numberUnit="A unidade"
+                                                                    >
+                                                                        <layoutData
+                                                                        >
+                                                                            <l:GridData
+                                                                                span="XL8 L8 M8 S8"
+                                                                            />
+                                                                        </layoutData>
+                                                                    </ObjectListItem>
+                                                                </l:Grid>
+                                                            </l:BlockLayoutCell>
+                                                        </l:content>
+                                                    </l:BlockLayoutRow>
+                                                </l:BlockLayout>
+                                            </Panel>
+                                        </f:FormElement>
+                                    </f:formElements>
+                                </f:FormContainer>
+                                <f:FormContainer>
+                                    <f:formElements>
+                                        <f:FormElement>
+                                            <Panel
+                                                backgroundDesign="Transparent"
+                                                class="sapUiNoContentPadding"
+                                            >
+                                                <l:BlockLayout
+                                                    background="Dashboard"
+                                                >
+                                                    <l:BlockLayoutRow>
+                                                        <l:content>
+                                                            <l:BlockLayoutCell
+                                                                class="sapUiContentPadding"
+                                                            >
+                                                                <l:Grid
+                                                                    defaultSpan="XL12 L12 M12 S12"
+                                                                    vSpacing="0"
+                                                                    hSpacing="0"
+                                                                >
+                                                                    <FlexBox
+                                                                        height="2.5rem"
+                                                                        renderType="Bare"
+                                                                    >
+                                                                        <l:VerticalLayout
+                                                                        >
+                                                                            <ObjectIdentifier
+                                                                                title="Porta Cartão"
+                                                                                tooltip="Porta Cartão"
+                                                                                titleActive="true"
+                                                                                titlePress=".onSelectProduct"
+                                                                                class="sapUiTinyMarginBottom"
+                                                                            />
+                                                                        </l:VerticalLayout>
+                                                                    </FlexBox>
+                                                                    <FlexBox
+                                                                        renderType="Bare"
+                                                                        justifyContent="Center"
+                                                                    >
+                                                                        <Image
+                                                                            src="../Imagens/PORTACARTAO.png"
+                                                                            width="30%"
+                                                                            height="30%"
+                                                                            press=".onSelectProduct"
+                                                                        />
+                                                                    </FlexBox>
+                                                                    <Button
+                                                                        tooltip="Porta Cartão"
+                                                                        press=".onAddToCart"
+                                                                        icon="sap-icon://cart-3"
+                                                                        type="Emphasized"
+                                                                        visible="true"
+                                                                    >
+                                                                        <layoutData
+                                                                        >
+                                                                            <l:GridData
+                                                                                span="XL4 L4 M4 S4"
+                                                                            />
+                                                                        </layoutData>
+                                                                    </Button>
+                                                                    <ObjectListItem
+                                                                        class="welcomePrice"
+                                                                        number="R$ 5,00"
+                                                                        numberUnit="A unidade"
+                                                                    >
+                                                                        <layoutData
+                                                                        >
+                                                                            <l:GridData
+                                                                                span="XL8 L8 M8 S8"
+                                                                            />
+                                                                        </layoutData>
+                                                                    </ObjectListItem>
+                                                                </l:Grid>
+                                                            </l:BlockLayoutCell>
+                                                        </l:content>
+                                                    </l:BlockLayoutRow>
+                                                </l:BlockLayout>
+                                            </Panel>
+                                        </f:FormElement>
+                                    </f:formElements>
+                                </f:FormContainer>
+                            </f:formContainers>
+                        </f:Form>
                     </IconTabFilter>
                     <IconTabFilter
                         key="Copos térmicos"
