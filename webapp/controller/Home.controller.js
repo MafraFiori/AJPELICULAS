@@ -7485,6 +7485,9 @@ sap.ui.define([
             onClickLeticia: function(){
 
                 window.open('https://api.whatsapp.com/send?phone=+5511969306157&text=Olá,-gostaria-de-fazer-um-pedido')
+            },
+            onClickJulia: function(){
+                window.open('https://api.whatsapp.com/send?phone=+5511991354272&text=Olá,-gostaria-de-fazer-um-pedido')
             }
         });
     });
