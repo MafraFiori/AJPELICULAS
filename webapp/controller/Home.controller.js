@@ -7488,6 +7488,24 @@ sap.ui.define([
             },
             onClickJulia: function(){
                 window.open('https://api.whatsapp.com/send?phone=+5511991354272&text=Olá,-gostaria-de-fazer-um-pedido')
+            },
+
+            onModelos3D: function(){
+                //ajpeliculas.catalogo.controller.Home
+                if (!this.Modelos3d) {
+                    this.Modelos3d = sap.ui.xmlfragment("ajpeliculas.catalogo.view.fragmentos.3d", this);
+                    this.getView().addDependent(this.Modelos3d);
+                }else{
+                    this.Modelos3d = ""
+                    this.Modelos3d = sap.ui.xmlfragment("ajpeliculas.catalogo.view.fragmentos.3d", this);
+                    this.getView().addDependent(this.Modelos3d);
+                }
+                // open value help dialog filtered by the input value
+                this.Modelos3d.open();
+            },
+
+            Fechar3D: function(){
+                this.Modelos3d.close();
             }
         });
     });

@@ -182,8 +182,9 @@
                                                                     </FlexBox>
                                                                     <Button
                                                                         tooltip="3D"
-                                                                        press=".onAddToCart"
-                                                                        icon="sap-icon://cart-3"
+                                                                        press="onModelos3D"
+                                                                        
+                                                                        text="Modelos"
                                                                         type="Emphasized"
                                                                         visible="true"
                                                                     >
