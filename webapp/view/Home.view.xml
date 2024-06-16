@@ -164,7 +164,7 @@
                                                                                 title="3D"
                                                                                 tooltip="3D"
                                                                                 titleActive="true"
-                                                                                titlePress=".onSelectProduct"
+                                                                                titlePress="onModelos3D"
                                                                                 class="sapUiTinyMarginBottom"
                                                                             />
                                                                         </l:VerticalLayout>
@@ -177,13 +177,12 @@
                                                                             src="../Imagens/PELICULA3D.png"
                                                                             width="30%"
                                                                             height="30%"
-                                                                            press=".onSelectProduct"
+                                                                            press="onModelos3D"
                                                                         />
                                                                     </FlexBox>
                                                                     <Button
                                                                         tooltip="3D"
                                                                         press="onModelos3D"
-                                                                        
                                                                         text="Modelos"
                                                                         type="Emphasized"
                                                                         visible="true"
@@ -243,7 +242,7 @@
                                                                                 title="3D LANÇAMENTOS"
                                                                                 tooltip="3D LANÇAMENTOS"
                                                                                 titleActive="true"
-                                                                                titlePress=".onSelectProduct"
+                                                                                titlePress="onModelos3DLancamentos"
                                                                                 class="sapUiTinyMarginBottom"
                                                                             />
                                                                         </l:VerticalLayout>
@@ -256,13 +255,13 @@
                                                                             src="../Imagens/PELICULA3D.png"
                                                                             width="30%"
                                                                             height="30%"
-                                                                            press=".onSelectProduct"
+                                                                            press="onModelos3DLancamentos"
                                                                         />
                                                                     </FlexBox>
                                                                     <Button
                                                                         tooltip="3D LANÇAMENTOS"
-                                                                        press=".onAddToCart"
-                                                                        icon="sap-icon://cart-3"
+                                                                        press="onModelos3DLancamentos"
+                                                                        text="Modelos"
                                                                         type="Emphasized"
                                                                         visible="true"
                                                                     >
@@ -321,7 +320,7 @@
                                                                                 title="PRIVACIDADE"
                                                                                 tooltip="PRIVACIDADE"
                                                                                 titleActive="true"
-                                                                                titlePress=".onSelectProduct"
+                                                                                titlePress="onPrivacidade"
                                                                                 class="sapUiTinyMarginBottom"
                                                                             />
                                                                         </l:VerticalLayout>
@@ -334,13 +333,13 @@
                                                                             src="../Imagens/PELICULAPRIVACIDADE.png"
                                                                             width="30%"
                                                                             height="30%"
-                                                                            press=".onSelectProduct"
+                                                                            press="onPrivacidade"
                                                                         />
                                                                     </FlexBox>
                                                                     <Button
                                                                         tooltip="PRIVACIDADE"
-                                                                        press=".onAddToCart"
-                                                                        icon="sap-icon://cart-3"
+                                                                        press="onPrivacidade"
+                                                                        text="Modelos"
                                                                         type="Emphasized"
                                                                         visible="true"
                                                                     >
@@ -399,7 +398,7 @@
                                                                                 title="CERÂMICA"
                                                                                 tooltip="CERÂMICA"
                                                                                 titleActive="true"
-                                                                                titlePress=".onSelectProduct"
+                                                                                titlePress="onCeramica"
                                                                                 class="sapUiTinyMarginBottom"
                                                                             />
                                                                         </l:VerticalLayout>
@@ -412,13 +411,13 @@
                                                                             src="../Imagens/PELICULACERAMICA.png"
                                                                             width="30%"
                                                                             height="30%"
-                                                                            press=".onSelectProduct"
+                                                                            press="onCeramica"
                                                                         />
                                                                     </FlexBox>
                                                                     <Button
                                                                         tooltip="CERÂMICA"
-                                                                        press=".onAddToCart"
-                                                                        icon="sap-icon://cart-3"
+                                                                        press="onCeramica"
+                                                                        text="Modelos"
                                                                         type="Emphasized"
                                                                         visible="true"
                                                                     >
@@ -477,7 +476,7 @@
                                                                                 title="CAMÊRA CELULARES IPHONE"
                                                                                 tooltip="CAMÊRA CELULARES IPHONE"
                                                                                 titleActive="true"
-                                                                                titlePress=".onSelectProduct"
+                                                                                titlePress="onCameraIphone"
                                                                                 class="sapUiTinyMarginBottom"
                                                                             />
                                                                         </l:VerticalLayout>
@@ -490,15 +489,15 @@
                                                                             src="../Imagens/CAMERAIPHONE.png"
                                                                             width="30%"
                                                                             height="30%"
-                                                                            press=".onSelectProduct"
+                                                                            press="onCameraIphone"
                                                                         />
                                                                     </FlexBox>
                                                                     <Button
                                                                         tooltip="CAMÊRA CELULARES IPHONE"
-                                                                        press=".onAddToCart"
-                                                                        icon="sap-icon://cart-3"
+                                                                        press="onCameraIphone"
+                                                                        text="Modelos"
                                                                         type="Emphasized"
-                                                                        visible="true"
+                                                                        visible="false"
                                                                     >
                                                                         <layoutData
                                                                         >
@@ -555,7 +554,7 @@
                                                                                 title="CERÂMICA PRIVACIDADE"
                                                                                 tooltip="CERÂMICA PRIVACIDADE"
                                                                                 titleActive="true"
-                                                                                titlePress=".onSelectProduct"
+                                                                                titlePress="onCeramicaPrivacidade"
                                                                                 class="sapUiTinyMarginBottom"
                                                                             />
                                                                         </l:VerticalLayout>
@@ -568,13 +567,13 @@
                                                                             src="../Imagens/PELICULASCERAMICAPRIVACIDADE.png"
                                                                             width="30%"
                                                                             height="30%"
-                                                                            press=".onSelectProduct"
+                                                                            press="onCeramicaPrivacidade"
                                                                         />
                                                                     </FlexBox>
                                                                     <Button
                                                                         tooltip="CERÂMICA PRIVACIDADE"
-                                                                        press=".onAddToCart"
-                                                                        icon="sap-icon://cart-3"
+                                                                        press="onCeramicaPrivacidade"
+                                                                        text="Modelos"
                                                                         type="Emphasized"
                                                                         visible="true"
                                                                     >
@@ -633,7 +632,7 @@
                                                                                 title="VIDRO"
                                                                                 tooltip="VIDRO"
                                                                                 titleActive="true"
-                                                                                titlePress=".onSelectProduct"
+                                                                                titlePress="onModelosVidros"
                                                                                 class="sapUiTinyMarginBottom"
                                                                             />
                                                                         </l:VerticalLayout>
@@ -646,13 +645,13 @@
                                                                             src="../Imagens/PELICULASVIDRO.png"
                                                                             width="30%"
                                                                             height="30%"
-                                                                            press=".onSelectProduct"
+                                                                            press="onModelosVidros"
                                                                         />
                                                                     </FlexBox>
                                                                     <Button
                                                                         tooltip="VIDRO"
-                                                                        press=".onAddToCart"
-                                                                        icon="sap-icon://cart-3"
+                                                                        press="onModelosVidros"
+                                                                        text="Modelos"
                                                                         type="Emphasized"
                                                                         visible="true"
                                                                     >
@@ -708,88 +707,10 @@
                                                                         <l:VerticalLayout
                                                                         >
                                                                             <ObjectIdentifier
-                                                                                title="PRIVACIDADE"
-                                                                                tooltip="PRIVACIDADE"
-                                                                                titleActive="true"
-                                                                                titlePress=".onSelectProduct"
-                                                                                class="sapUiTinyMarginBottom"
-                                                                            />
-                                                                        </l:VerticalLayout>
-                                                                    </FlexBox>
-                                                                    <FlexBox
-                                                                        renderType="Bare"
-                                                                        justifyContent="Center"
-                                                                    >
-                                                                        <Image
-                                                                            src="../Imagens/PELICULAPRIVACIDADE.png"
-                                                                            width="30%"
-                                                                            height="30%"
-                                                                            press=".onSelectProduct"
-                                                                        />
-                                                                    </FlexBox>
-                                                                    <Button
-                                                                        tooltip="PRIVACIDADE"
-                                                                        press=".onAddToCart"
-                                                                        icon="sap-icon://cart-3"
-                                                                        type="Emphasized"
-                                                                        visible="true"
-                                                                    >
-                                                                        <layoutData
-                                                                        >
-                                                                            <l:GridData
-                                                                                span="XL4 L4 M4 S4"
-                                                                            />
-                                                                        </layoutData>
-                                                                    </Button>
-                                                                    <ObjectListItem
-                                                                        class="welcomePrice"
-                                                                        number="R$ 4,50"
-                                                                        numberUnit="A unidade"
-                                                                    >
-                                                                        <layoutData
-                                                                        >
-                                                                            <l:GridData
-                                                                                span="XL8 L8 M8 S8"
-                                                                            />
-                                                                        </layoutData>
-                                                                    </ObjectListItem>
-                                                                </l:Grid>
-                                                            </l:BlockLayoutCell>
-                                                        </l:content>
-                                                    </l:BlockLayoutRow>
-                                                </l:BlockLayout>
-                                            </Panel>
-                                        </f:FormElement>
-                                    </f:formElements>
-                                </f:FormContainer>
-                                <f:FormContainer>
-                                    <f:formElements>
-                                        <f:FormElement>
-                                            <Panel>
-                                                <l:BlockLayout
-                                                    background="Dashboard"
-                                                >
-                                                    <l:BlockLayoutRow>
-                                                        <l:content>
-                                                            <l:BlockLayoutCell
-                                                                class="sapUiContentPadding"
-                                                            >
-                                                                <l:Grid
-                                                                    defaultSpan="XL12 L12 M12 S12"
-                                                                    vSpacing="0"
-                                                                    hSpacing="0"
-                                                                >
-                                                                    <FlexBox
-                                                                        height="2.5rem"
-                                                                        renderType="Bare"
-                                                                    >
-                                                                        <l:VerticalLayout
-                                                                        >
-                                                                            <ObjectIdentifier
                                                                                 title="TRASEIRA CERÂMICA"
                                                                                 tooltip="TRASEIRA CERÂMICA"
                                                                                 titleActive="true"
-                                                                                titlePress=".onSelectProduct"
+                                                                                titlePress="onTraseiraCeramica"
                                                                                 class="sapUiTinyMarginBottom"
                                                                             />
                                                                         </l:VerticalLayout>
@@ -802,13 +723,13 @@
                                                                             src="../Imagens/PELICULATRASEIRACERAMICA.png"
                                                                             width="30%"
                                                                             height="30%"
-                                                                            press=".onSelectProduct"
+                                                                            press="onTraseiraCeramica"
                                                                         />
                                                                     </FlexBox>
                                                                     <Button
                                                                         tooltip="TRASEIRA CERÂMICA"
-                                                                        press=".onAddToCart"
-                                                                        icon="sap-icon://cart-3"
+                                                                        press="onTraseiraCeramica"
+                                                                        text="Modelo"
                                                                         type="Emphasized"
                                                                         visible="true"
                                                                     >
@@ -867,7 +788,7 @@
                                                                                 title="P/ CAMÊRAS"
                                                                                 tooltip="P/ CAMÊRAS"
                                                                                 titleActive="true"
-                                                                                titlePress=".onSelectProduct"
+                                                                                titlePress="onCameras"
                                                                                 class="sapUiTinyMarginBottom"
                                                                             />
                                                                         </l:VerticalLayout>
@@ -880,13 +801,13 @@
                                                                             src="../Imagens/PROTETORCAMERA.png"
                                                                             width="30%"
                                                                             height="30%"
-                                                                            press=".onSelectProduct"
+                                                                            press="onCameras"
                                                                         />
                                                                     </FlexBox>
                                                                     <Button
                                                                         tooltip="P/ CAMÊRAS"
-                                                                        press=".onAddToCart"
-                                                                        icon="sap-icon://cart-3"
+                                                                        press="onCameras"
+                                                                        text="Modelos"
                                                                         type="Emphasized"
                                                                         visible="true"
                                                                     >
@@ -972,7 +893,7 @@
                                                                                 title="SILICONE"
                                                                                 tooltip="SILICONE"
                                                                                 titleActive="true"
-                                                                                titlePress=".onSelectProduct"
+                                                                                titlePress="onCapaSilicone"
                                                                                 class="sapUiTinyMarginBottom"
                                                                             />
                                                                         </l:VerticalLayout>
@@ -985,13 +906,13 @@
                                                                             src="../Imagens/SILICON.png"
                                                                             width="30%"
                                                                             height="30%"
-                                                                            press=".onSelectProduct"
+                                                                            press="onCapaSilicone"
                                                                         />
                                                                     </FlexBox>
                                                                     <Button
                                                                         tooltip="SILICONE"
-                                                                        press=".onAddToCart"
-                                                                        icon="sap-icon://cart-3"
+                                                                        press="onCapaSilicone"
+                                                                        text="Modelos"
                                                                         type="Emphasized"
                                                                         visible="true"
                                                                     >
@@ -1048,9 +969,9 @@
                                                                         >
                                                                             <ObjectIdentifier
                                                                                 title="TRANSPARENTE ANTI CHOQUE"
-                                                                                tooltip="MIÇANGAS"
+                                                                                tooltip="TRANSPARENTE ANTI CHOQUE"
                                                                                 titleActive="true"
-                                                                                titlePress=".onSelectProduct"
+                                                                                titlePress="onAntiChoque"
                                                                                 class="sapUiTinyMarginBottom"
                                                                             />
                                                                         </l:VerticalLayout>
@@ -1063,13 +984,13 @@
                                                                             src="../Imagens/CAPAANTICHOQUE.png"
                                                                             width="30%"
                                                                             height="30%"
-                                                                            press=".onSelectProduct"
+                                                                            press="onAntiChoque"
                                                                         />
                                                                     </FlexBox>
                                                                     <Button
                                                                         tooltip="TRANSPARENTE ANTI CHOQUE"
-                                                                        press=".onAddToCart"
-                                                                        icon="sap-icon://cart-3"
+                                                                        press="onAntiChoque"
+                                                                        text="Modelos"
                                                                         type="Emphasized"
                                                                         visible="true"
                                                                     >
@@ -1128,7 +1049,7 @@
                                                                                 title="CARTEIRA"
                                                                                 tooltip="CARTEIRA"
                                                                                 titleActive="true"
-                                                                                titlePress=".onSelectProduct"
+                                                                                titlePress="onCarteira"
                                                                                 class="sapUiTinyMarginBottom"
                                                                             />
                                                                         </l:VerticalLayout>
@@ -1141,13 +1062,13 @@
                                                                             src="../Imagens/CARTEIRA.png"
                                                                             width="30%"
                                                                             height="30%"
-                                                                            press=".onSelectProduct"
+                                                                            press="onCarteira"
                                                                         />
                                                                     </FlexBox>
                                                                     <Button
                                                                         tooltip="CARTEIRA"
-                                                                        press=".onAddToCart"
-                                                                        icon="sap-icon://cart-3"
+                                                                        press="onCarteira"
+                                                                        text="Modelos"
                                                                         type="Emphasized"
                                                                         visible="true"
                                                                     >
@@ -1206,7 +1127,7 @@
                                                                                 title="SPACE"
                                                                                 tooltip="SPACE"
                                                                                 titleActive="true"
-                                                                                titlePress=".onSelectProduct"
+                                                                                titlePress="onSpace"
                                                                                 class="sapUiTinyMarginBottom"
                                                                             />
                                                                         </l:VerticalLayout>
@@ -1219,13 +1140,13 @@
                                                                             src="../Imagens/SPACE.png"
                                                                             width="30%"
                                                                             height="30%"
-                                                                            press=".onSelectProduct"
+                                                                            press="onSpace"
                                                                         />
                                                                     </FlexBox>
                                                                     <Button
                                                                         tooltip="SPACE"
-                                                                        press=".onAddToCart"
-                                                                        icon="sap-icon://cart-3"
+                                                                        press="onSpace"
+                                                                        text="Modelos"
                                                                         type="Emphasized"
                                                                         visible="true"
                                                                     >
@@ -1284,7 +1205,7 @@
                                                                                 title="MAG SAFE TRANSPARENTE"
                                                                                 tooltip="MAG SAFE TRANSPARENTE"
                                                                                 titleActive="true"
-                                                                                titlePress=".onSelectProduct"
+                                                                                titlePress="onMegSafe"
                                                                                 class="sapUiTinyMarginBottom"
                                                                             />
                                                                         </l:VerticalLayout>
@@ -1297,13 +1218,13 @@
                                                                             src="../Imagens/MAGSAFE.png"
                                                                             width="30%"
                                                                             height="30%"
-                                                                            press=".onSelectProduct"
+                                                                            press="onMegSafe"
                                                                         />
                                                                     </FlexBox>
                                                                     <Button
                                                                         tooltip="MAG SAFE TRANSPARENTE"
-                                                                        press=".onAddToCart"
-                                                                        icon="sap-icon://cart-3"
+                                                                        press="onMegSafe"
+                                                                        text="Modelos"
                                                                         type="Emphasized"
                                                                         visible="true"
                                                                     >
@@ -1362,7 +1283,7 @@
                                                                                 title="CASE IPHONE (FECHADO)"
                                                                                 tooltip="CASE IPHONE (FECHADO)"
                                                                                 titleActive="true"
-                                                                                titlePress=".onSelectProduct"
+                                                                                titlePress="onCaseIphone"
                                                                                 class="sapUiTinyMarginBottom"
                                                                             />
                                                                         </l:VerticalLayout>
@@ -1375,13 +1296,13 @@
                                                                             src="../Imagens/CASEIPHONE.png"
                                                                             width="30%"
                                                                             height="30%"
-                                                                            press=".onSelectProduct"
+                                                                            press="onCaseIphone"
                                                                         />
                                                                     </FlexBox>
                                                                     <Button
                                                                         tooltip="CASE IPHONE (FECHADO)"
-                                                                        press=".onAddToCart"
-                                                                        icon="sap-icon://cart-3"
+                                                                        press="onCaseIphone"
+                                                                        text="Modelos"
                                                                         type="Emphasized"
                                                                         visible="true"
                                                                     >
@@ -1440,7 +1361,7 @@
                                                                                 title="CASE IPHONE (ABERTO)"
                                                                                 tooltip="CASE IPHONE (ABERTO)"
                                                                                 titleActive="true"
-                                                                                titlePress=".onSelectProduct"
+                                                                                titlePress="onCaseIphone"
                                                                                 class="sapUiTinyMarginBottom"
                                                                             />
                                                                         </l:VerticalLayout>
@@ -1453,13 +1374,13 @@
                                                                             src="../Imagens/CASEIPHONEABERTO.png"
                                                                             width="30%"
                                                                             height="30%"
-                                                                            press=".onSelectProduct"
+                                                                            press="onCaseIphone"
                                                                         />
                                                                     </FlexBox>
                                                                     <Button
                                                                         tooltip="CASE IPHONE (ABERTO)"
-                                                                        press=".onAddToCart"
-                                                                        icon="sap-icon://cart-3"
+                                                                        press="onCaseIphone"
+                                                                        text="Modelos"
                                                                         type="Emphasized"
                                                                         visible="true"
                                                                     >
@@ -1518,7 +1439,7 @@
                                                                                 title="ACRÍLICO GLASS"
                                                                                 tooltip="ACRÍLICO GLASS"
                                                                                 titleActive="true"
-                                                                                titlePress=".onSelectProduct"
+                                                                                titlePress="onAcrilocoGlass"
                                                                                 class="sapUiTinyMarginBottom"
                                                                             />
                                                                         </l:VerticalLayout>
@@ -1531,13 +1452,13 @@
                                                                             src="../Imagens/GLASS.png"
                                                                             width="30%"
                                                                             height="30%"
-                                                                            press=".onSelectProduct"
+                                                                            press="onAcrilocoGlass"
                                                                         />
                                                                     </FlexBox>
                                                                     <Button
                                                                         tooltip="ACRÍLICO GLASS"
-                                                                        press=".onAddToCart"
-                                                                        icon="sap-icon://cart-3"
+                                                                        press="onAcrilocoGlass"
+                                                                        text="Modelos"
                                                                         type="Emphasized"
                                                                         visible="true"
                                                                     >
@@ -1596,7 +1517,7 @@
                                                                                 title="COURO IP"
                                                                                 tooltip="COURO IP"
                                                                                 titleActive="true"
-                                                                                titlePress=".onSelectProduct"
+                                                                                titlePress="onCouroIP"
                                                                                 class="sapUiTinyMarginBottom"
                                                                             />
                                                                         </l:VerticalLayout>
@@ -1609,13 +1530,13 @@
                                                                             src="../Imagens/COURO.png"
                                                                             width="30%"
                                                                             height="30%"
-                                                                            press=".onSelectProduct"
+                                                                            press="onCouroIP"
                                                                         />
                                                                     </FlexBox>
                                                                     <Button
                                                                         tooltip="COURO IP"
-                                                                        press=".onAddToCart"
-                                                                        icon="sap-icon://cart-3"
+                                                                        press="onCouroIP"
+                                                                        text="Modelos"
                                                                         type="Emphasized"
                                                                         visible="true"
                                                                     >
@@ -1722,7 +1643,7 @@
                                                                         press=".onAddToCart"
                                                                         icon="sap-icon://cart-3"
                                                                         type="Emphasized"
-                                                                        visible="true"
+                                                                        visible="false"
                                                                     >
                                                                         <layoutData
                                                                         >
@@ -1800,7 +1721,7 @@
                                                                         press=".onAddToCart"
                                                                         icon="sap-icon://cart-3"
                                                                         type="Emphasized"
-                                                                        visible="true"
+                                                                        visible="false"
                                                                     >
                                                                         <layoutData
                                                                         >
@@ -1878,7 +1799,7 @@
                                                                         press=".onAddToCart"
                                                                         icon="sap-icon://cart-3"
                                                                         type="Emphasized"
-                                                                        visible="true"
+                                                                        visible="false"
                                                                     >
                                                                         <layoutData
                                                                         >
@@ -1956,7 +1877,7 @@
                                                                         press=".onAddToCart"
                                                                         icon="sap-icon://cart-3"
                                                                         type="Emphasized"
-                                                                        visible="true"
+                                                                        visible="false"
                                                                     >
                                                                         <layoutData
                                                                         >
@@ -2060,7 +1981,7 @@
                                                                         press=".onAddToCart"
                                                                         icon="sap-icon://cart-3"
                                                                         type="Emphasized"
-                                                                        visible="true"
+                                                                        visible="false"
                                                                     >
                                                                         <layoutData
                                                                         >
@@ -2138,7 +2059,7 @@
                                                                         press=".onAddToCart"
                                                                         icon="sap-icon://cart-3"
                                                                         type="Emphasized"
-                                                                        visible="true"
+                                                                        visible="false"
                                                                     >
                                                                         <layoutData
                                                                         >
@@ -2216,7 +2137,7 @@
                                                                         press=".onAddToCart"
                                                                         icon="sap-icon://cart-3"
                                                                         type="Emphasized"
-                                                                        visible="true"
+                                                                        visible="false"
                                                                     >
                                                                         <layoutData
                                                                         >
@@ -2294,7 +2215,7 @@
                                                                         press=".onAddToCart"
                                                                         icon="sap-icon://cart-3"
                                                                         type="Emphasized"
-                                                                        visible="true"
+                                                                        visible="false"
                                                                     >
                                                                         <layoutData
                                                                         >
@@ -2372,7 +2293,7 @@
                                                                         press=".onAddToCart"
                                                                         icon="sap-icon://cart-3"
                                                                         type="Emphasized"
-                                                                        visible="true"
+                                                                        visible="false"
                                                                     >
                                                                         <layoutData
                                                                         >
@@ -2450,7 +2371,7 @@
                                                                         press=".onAddToCart"
                                                                         icon="sap-icon://cart-3"
                                                                         type="Emphasized"
-                                                                        visible="true"
+                                                                        visible="false"
                                                                     >
                                                                         <layoutData
                                                                         >
@@ -2528,7 +2449,7 @@
                                                                         press=".onAddToCart"
                                                                         icon="sap-icon://cart-3"
                                                                         type="Emphasized"
-                                                                        visible="true"
+                                                                        visible="false"
                                                                     >
                                                                         <layoutData
                                                                         >
@@ -2606,7 +2527,7 @@
                                                                         press=".onAddToCart"
                                                                         icon="sap-icon://cart-3"
                                                                         type="Emphasized"
-                                                                        visible="true"
+                                                                        visible="false"
                                                                     >
                                                                         <layoutData
                                                                         >
@@ -2684,7 +2605,7 @@
                                                                         press=".onAddToCart"
                                                                         icon="sap-icon://cart-3"
                                                                         type="Emphasized"
-                                                                        visible="true"
+                                                                        visible="false"
                                                                     >
                                                                         <layoutData
                                                                         >
@@ -2762,7 +2683,7 @@
                                                                         press=".onAddToCart"
                                                                         icon="sap-icon://cart-3"
                                                                         type="Emphasized"
-                                                                        visible="true"
+                                                                        visible="false"
                                                                     >
                                                                         <layoutData
                                                                         >
@@ -2840,7 +2761,7 @@
                                                                         press=".onAddToCart"
                                                                         icon="sap-icon://cart-3"
                                                                         type="Emphasized"
-                                                                        visible="true"
+                                                                        visible="false"
                                                                     >
                                                                         <layoutData
                                                                         >
@@ -2918,7 +2839,7 @@
                                                                         press=".onAddToCart"
                                                                         icon="sap-icon://cart-3"
                                                                         type="Emphasized"
-                                                                        visible="true"
+                                                                        visible="false"
                                                                     >
                                                                         <layoutData
                                                                         >

@@ -1,0 +1,44 @@
+<core:FragmentDefinition
+    xmlns="sap.m"
+    xmlns:core="sap.ui.core"
+    xmlns:app="http://schemas.sap.com/sapui5/extension/sap.ui.core.CustomData/1"
+    xmlns:l="sap.ui.layout"
+    xmlns:f="sap.ui.layout.form"
+    xmlns:table="sap.ui.table"
+>
+    <Dialog
+        class="sapUiContentPadding"
+        title="Modelos de películas 3D"
+    >
+        <content>
+            <table:TreeTable
+                rows="{path:'/CeramicaPrivacidade', parameters: {arrayNames:['Categoria']}}"
+                selectionMode="None"
+                enableSelectAll="false"
+                ariaLabelledBy="title"
+                visibleRowCount="10"
+                alternateRowColors="true"
+            >
+                <table:columns>
+                    <table:Column>
+                        <Label text="Modelo" />
+                        <table:template>
+                            <ObjectStatus text="{Modelo}" />
+                        </table:template>
+                    </table:Column>
+                </table:columns>
+            </table:TreeTable>
+        </content>
+        <footer>
+            <Toolbar>
+                <content>
+                    <ToolbarSpacer />
+                    <Button
+                        text="Fechar"
+                        press="FecharCeramicaPrivacidade"
+                    />
+                </content>
+            </Toolbar>
+        </footer>
+    </Dialog>
+</core:FragmentDefinition>
