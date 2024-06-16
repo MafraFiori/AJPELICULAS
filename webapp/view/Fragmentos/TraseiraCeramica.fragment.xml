@@ -8,7 +8,7 @@
 >
     <Dialog
         class="sapUiContentPadding"
-        title="Modelos de películas 3D"
+        title="Modelos de películas para trazeira de cerâmica"
     >
         <content>
             <table:TreeTable

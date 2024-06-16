@@ -184,64 +184,116 @@ sap.ui.define([
                             Modelo: "Apple",
                             Categoria: [
                                 {
-                                    Modelo: "6G (P)",
-                                    Valor: vlr3Dantigo
+                                    Modelo: "6 PRETO",
+                                    Valor: vlrCeramica
                                 },
                                 {
-                                    Modelo: "6G (B)",
-                                    Valor: vlr3Dantigo
+                                    Modelo: "7 / 8 PRETO",
+                                    Valor: vlrCeramica
                                 },
                                 {
-                                    Modelo: "6 PLUS (P)",
-                                    Valor: vlr3Dantigo
+                                    Modelo: "6 BRANCO",
+                                    Valor: vlrCeramica
                                 },
                                 {
-                                    Modelo: "6 PLUS (B)",
-                                    Valor: vlr3Dantigo
+                                    Modelo: "7 / 8 BRANCO",
+                                    Valor: vlrCeramica
                                 },
                                 {
-                                    Modelo: "6 PLUS (P)",
-                                    Valor: vlr3Dantigo
+                                    Modelo: "6 PLUS PRETO",
+                                    Valor: vlrCeramica
                                 },
                                 {
-                                    Modelo: "7G/8G (P)",
-                                    Valor: vlr3Dantigo
+                                    Modelo: "7 / 8 PLUS PRETO",
+                                    Valor: vlrCeramica
                                 },
                                 {
-                                    Modelo: "7G/8G (B)",
-                                    Valor: vlr3Dantigo
+                                    Modelo: "6 PLUS BRANCO",
+                                    Valor: vlrCeramica
                                 },
                                 {
-                                    Modelo: "7/8 PLUS (P)",
-                                    Valor: vlr3Dantigo
+                                    Modelo: "7 / 8 PLUS BRANCO",
+                                    Valor: vlrCeramica
                                 },
                                 {
-                                    Modelo: "7/8 PLUS (B)",
-                                    Valor: vlr3Dantigo
+                                    Modelo: "X",
+                                    Valor: vlrCeramica
                                 },
                                 {
-                                    Modelo: "X/XS/11 PRO",
-                                    Valor: vlr3Dantigo
+                                    Modelo: "XS",
+                                    Valor: vlrCeramica
                                 },
                                 {
-                                    Modelo: "XS MAX/XS/11 PRO MAX",
-                                    Valor: vlr3Dantigo
+                                    Modelo: "XS MAX",
+                                    Valor: vlrCeramica
                                 },
                                 {
-                                    Modelo: "12 MINI (5.4) NOVO",
-                                    Valor: vlr3Dantigo
+                                    Modelo: "11",
+                                    Valor: vlrCeramica
                                 },
                                 {
-                                    Modelo: "12/12 PRO (6.1) NOVO",
-                                    Valor: vlr3Dantigo
+                                    Modelo: "11 PRO",
+                                    Valor: vlrCeramica
                                 },
                                 {
-                                    Modelo: "12 PRO MAX (6.7) NOVO",
-                                    Valor: vlr3Dantigo
+                                    Modelo: "11 PRO MAX",
+                                    Valor: vlrCeramica
                                 },
                                 {
-                                    Modelo: "XR/11",
-                                    Valor: vlr3Dantigo
+                                    Modelo: "12 MINI",
+                                    Valor: vlrCeramica
+                                },
+                                {
+                                    Modelo: "12 / 12 PRO",
+                                    Valor: vlrCeramica
+                                },
+                                {
+                                    Modelo: "12 PRO MAX",
+                                    Valor: vlrCeramica
+                                },
+                                {
+                                    Modelo: "13 MINI",
+                                    Valor: vlrCeramica
+                                },
+                                {
+                                    Modelo: "13 / 13 PRO",
+                                    Valor: vlrCeramica
+                                },
+                                {
+                                    Modelo: "13 PRO MAX",
+                                    Valor: vlrCeramica
+                                },
+                                {
+                                    Modelo: "14",
+                                    Valor: vlrCeramica
+                                },
+                                {
+                                    Modelo: "14 PLUS",
+                                    Valor: vlrCeramica
+                                },
+                                {
+                                    Modelo: "14 PRO",
+                                    Valor: vlrCeramica
+                                },
+                                {
+                                    Modelo: "14 PRO MAX",
+                                    Valor: vlrCeramica
+                                },
+                                {
+                                    Modelo: "15",
+                                    Valor: vlrCeramica
+                                },
+                                {
+                                    Modelo: "15 PLUS",
+                                    Valor: vlrCeramica
+                                },
+                                {
+                                    Modelo: "15 PRO",
+                                    Valor: vlrCeramica
+                                },
+                                {
+                                    Modelo: "15 PRO MAX",
+                                    Valor: vlrCeramica
                                 }
                             ]
                         },
@@ -1304,80 +1356,116 @@ sap.ui.define([
                             Modelo: "Apple",
                             Categoria: [
                                 {
-                                    Modelo: "6G (B)",
-                                    Valor: vlr3Privacidade
+                                    Modelo: "6 PRETO",
+                                    Valor: vlrCeramica
                                 },
                                 {
-                                    Modelo: "6G (P)",
-                                    Valor: vlr3Privacidade
+                                    Modelo: "7 / 8 PRETO",
+                                    Valor: vlrCeramica
                                 },
                                 {
-                                    Modelo: "6 PLUS(B)",
-                                    Valor: vlr3Privacidade
+                                    Modelo: "6 BRANCO",
+                                    Valor: vlrCeramica
                                 },
                                 {
-                                    Modelo: "6 PLUS(P)",
-                                    Valor: vlr3Privacidade
+                                    Modelo: "7 / 8 BRANCO",
+                                    Valor: vlrCeramica
                                 },
                                 {
-                                    Modelo: "7/8 (B)",
-                                    Valor: vlr3Privacidade
+                                    Modelo: "6 PLUS PRETO",
+                                    Valor: vlrCeramica
                                 },
                                 {
-                                    Modelo: "7/8 (P)",
-                                    Valor: vlr3Privacidade
+                                    Modelo: "7 / 8 PLUS PRETO",
+                                    Valor: vlrCeramica
                                 },
                                 {
-                                    Modelo: "7 PLUS/8 PLUS (B)",
-                                    Valor: vlr3Privacidade
+                                    Modelo: "6 PLUS BRANCO",
+                                    Valor: vlrCeramica
                                 },
                                 {
-                                    Modelo: "7 PLUS/8 PLUS (P)",
-                                    Valor: vlr3Privacidade
+                                    Modelo: "7 / 8 PLUS BRANCO",
+                                    Valor: vlrCeramica
                                 },
                                 {
-                                    Modelo: "X/XS",
-                                    Valor: vlr3Privacidade
+                                    Modelo: "X",
+                                    Valor: vlrCeramica
                                 },
                                 {
-                                    Modelo: "XR/11",
-                                    Valor: vlr3Privacidade
+                                    Modelo: "XS",
+                                    Valor: vlrCeramica
                                 },
                                 {
-                                    Modelo: "XS MAX/11 PRO MAX",
-                                    Valor: vlr3Privacidade
+                                    Modelo: "XS MAX",
+                                    Valor: vlrCeramica
+                                },
+                                {
+                                    Modelo: "11",
+                                    Valor: vlrCeramica
                                 },
                                 {
                                     Modelo: "11 PRO",
-                                    Valor: vlr3Privacidade
+                                    Valor: vlrCeramica
                                 },
                                 {
-                                    Modelo: "12",
-                                    Valor: vlr3Privacidade
+                                    Modelo: "11 PRO MAX",
+                                    Valor: vlrCeramica
                                 },
                                 {
-                                    Modelo: "12 Mini",
-                                    Valor: vlr3Privacidade
+                                    Modelo: "12 MINI",
+                                    Valor: vlrCeramica
                                 },
                                 {
-                                    Modelo: "12 Pro",
-                                    Valor: vlr3Privacidade
+                                    Modelo: "12 / 12 PRO",
+                                    Valor: vlrCeramica
                                 },
                                 {
-                                    Modelo: "12 Pro Max",
-                                    Valor: vlr3Privacidade
+                                    Modelo: "12 PRO MAX",
+                                    Valor: vlrCeramica
                                 },
                                 {
-                                    Modelo: "13 Mini",
-                                    Valor: vlr3Privacidade
+                                    Modelo: "13 MINI",
+                                    Valor: vlrCeramica
                                 },
                                 {
-                                    Modelo: "13/13 Pro",
-                                    Valor: vlr3Privacidade
+                                    Modelo: "13 / 13 PRO",
+                                    Valor: vlrCeramica
                                 },
                                 {
-                                    Modelo: "13 Pro Max",
-                                    Valor: vlr3Privacidade
+                                    Modelo: "13 PRO MAX",
+                                    Valor: vlrCeramica
+                                },
+                                {
+                                    Modelo: "14",
+                                    Valor: vlrCeramica
+                                },
+                                {
+                                    Modelo: "14 PLUS",
+                                    Valor: vlrCeramica
+                                },
+                                {
+                                    Modelo: "14 PRO",
+                                    Valor: vlrCeramica
+                                },
+                                {
+                                    Modelo: "14 PRO MAX",
+                                    Valor: vlrCeramica
+                                },
+                                {
+                                    Modelo: "15",
+                                    Valor: vlrCeramica
+                                },
+                                {
+                                    Modelo: "15 PLUS",
+                                    Valor: vlrCeramica
+                                },
+                                {
+                                    Modelo: "15 PRO",
+                                    Valor: vlrCeramica
+                                },
+                                {
+                                    Modelo: "15 PRO MAX",
+                                    Valor: vlrCeramica
                                 }
                             ]
                         },
@@ -1980,63 +2068,71 @@ sap.ui.define([
                             Modelo: "Apple",
                             Categoria: [
                                 {
-                                    Modelo: "SE 2020 (P)",
+                                    Modelo: "6 PRETO",
                                     Valor: vlrCeramica
                                 },
                                 {
-                                    Modelo: "SE 2020 (B)",
+                                    Modelo: "7 / 8 PRETO",
                                     Valor: vlrCeramica
                                 },
                                 {
-                                    Modelo: "6G (B)",
+                                    Modelo: "6 BRANCO",
                                     Valor: vlrCeramica
                                 },
                                 {
-                                    Modelo: "6G (P)",
+                                    Modelo: "7 / 8 BRANCO",
                                     Valor: vlrCeramica
                                 },
                                 {
-                                    Modelo: "7G (B)",
+                                    Modelo: "6 PLUS PRETO",
                                     Valor: vlrCeramica
                                 },
                                 {
-                                    Modelo: "7G (P)",
+                                    Modelo: "7 / 8 PLUS PRETO",
                                     Valor: vlrCeramica
                                 },
                                 {
-                                    Modelo: "7 PLUS (B)",
+                                    Modelo: "6 PLUS BRANCO",
                                     Valor: vlrCeramica
                                 },
                                 {
-                                    Modelo: "7 PLUS (P)",
+                                    Modelo: "7 / 8 PLUS BRANCO",
                                     Valor: vlrCeramica
                                 },
                                 {
-                                    Modelo: "X / XS / 11 PRO (5.8)",
+                                    Modelo: "X",
                                     Valor: vlrCeramica
                                 },
                                 {
-                                    Modelo: "XR / 11 (6.1)",
+                                    Modelo: "XS",
                                     Valor: vlrCeramica
                                 },
                                 {
-                                    Modelo: "XS MAX / 11 PRO MAX (6.5)",
+                                    Modelo: "XS MAX",
                                     Valor: vlrCeramica
                                 },
                                 {
-                                    Modelo: "12 MINI (5.4)",
+                                    Modelo: "11",
                                     Valor: vlrCeramica
                                 },
                                 {
-                                    Modelo: "12 PRO (6.1)",
+                                    Modelo: "11 PRO",
                                     Valor: vlrCeramica
                                 },
                                 {
-                                    Modelo: "12 PRO MAX (6.7)",
+                                    Modelo: "11 PRO MAX",
                                     Valor: vlrCeramica
                                 },
                                 {
-                                    Modelo: "13 / 13 PRO",
+                                    Modelo: "12 MINI",
+                                    Valor: vlrCeramica
+                                },
+                                {
+                                    Modelo: "12 / 12 PRO",
+                                    Valor: vlrCeramica
+                                },
+                                {
+                                    Modelo: "12 PRO MAX",
                                     Valor: vlrCeramica
                                 },
                                 {
@@ -2044,7 +2140,43 @@ sap.ui.define([
                                     Valor: vlrCeramica
                                 },
                                 {
+                                    Modelo: "13 / 13 PRO",
+                                    Valor: vlrCeramica
+                                },
+                                {
                                     Modelo: "13 PRO MAX",
+                                    Valor: vlrCeramica
+                                },
+                                {
+                                    Modelo: "14",
+                                    Valor: vlrCeramica
+                                },
+                                {
+                                    Modelo: "14 PLUS",
+                                    Valor: vlrCeramica
+                                },
+                                {
+                                    Modelo: "14 PRO",
+                                    Valor: vlrCeramica
+                                },
+                                {
+                                    Modelo: "14 PRO MAX",
+                                    Valor: vlrCeramica
+                                },
+                                {
+                                    Modelo: "15",
+                                    Valor: vlrCeramica
+                                },
+                                {
+                                    Modelo: "15 PLUS",
+                                    Valor: vlrCeramica
+                                },
+                                {
+                                    Modelo: "15 PRO",
+                                    Valor: vlrCeramica
+                                },
+                                {
+                                    Modelo: "15 PRO MAX",
                                     Valor: vlrCeramica
                                 }
                             ]
@@ -3158,58 +3290,115 @@ sap.ui.define([
                             Modelo: "Apple",
                             Categoria: [
                                 {
-                                    Modelo: "5",
+                                    Modelo: "6 PRETO",
                                     Valor: vlrCeramica
-                                }, {
-                                    Modelo: "5 ( Traseira )",
+                                },
+                                {
+                                    Modelo: "7 / 8 PRETO",
                                     Valor: vlrCeramica
-                                }, {
-                                    Modelo: "6 / 6S",
+                                },
+                                {
+                                    Modelo: "6 BRANCO",
                                     Valor: vlrCeramica
-                                }, {
-                                    Modelo: "6 / 6S ( Traseira )",
+                                },
+                                {
+                                    Modelo: "7 / 8 BRANCO",
                                     Valor: vlrCeramica
-                                }, {
-                                    Modelo: "6 PLUS",
+                                },
+                                {
+                                    Modelo: "6 PLUS PRETO",
                                     Valor: vlrCeramica
-                                }, {
-                                    Modelo: "7 / 8",
+                                },
+                                {
+                                    Modelo: "7 / 8 PLUS PRETO",
                                     Valor: vlrCeramica
-                                }, {
-                                    Modelo: "7 PLUS / 8 PLUS",
+                                },
+                                {
+                                    Modelo: "6 PLUS BRANCO",
                                     Valor: vlrCeramica
-                                }, {
+                                },
+                                {
+                                    Modelo: "7 / 8 PLUS BRANCO",
+                                    Valor: vlrCeramica
+                                },
+                                {
                                     Modelo: "X",
                                     Valor: vlrCeramica
-                                }, {
+                                },
+                                {
                                     Modelo: "XS",
                                     Valor: vlrCeramica
-                                }, {
-                                    Modelo: "XR",
-                                    Valor: vlrCeramica
-                                }, {
+                                },
+                                {
                                     Modelo: "XS MAX",
                                     Valor: vlrCeramica
-                                }, {
+                                },
+                                {
                                     Modelo: "11",
                                     Valor: vlrCeramica
-                                }, {
+                                },
+                                {
                                     Modelo: "11 PRO",
                                     Valor: vlrCeramica
-                                }, {
+                                },
+                                {
                                     Modelo: "11 PRO MAX",
                                     Valor: vlrCeramica
-                                }, {
-                                    Modelo: "12",
-                                    Valor: vlrCeramica
-                                }, {
+                                },
+                                {
                                     Modelo: "12 MINI",
                                     Valor: vlrCeramica
-                                }, {
-                                    Modelo: "12 PRO",
+                                },
+                                {
+                                    Modelo: "12 / 12 PRO",
                                     Valor: vlrCeramica
-                                }, {
+                                },
+                                {
                                     Modelo: "12 PRO MAX",
+                                    Valor: vlrCeramica
+                                },
+                                {
+                                    Modelo: "13 MINI",
+                                    Valor: vlrCeramica
+                                },
+                                {
+                                    Modelo: "13 / 13 PRO",
+                                    Valor: vlrCeramica
+                                },
+                                {
+                                    Modelo: "13 PRO MAX",
+                                    Valor: vlrCeramica
+                                },
+                                {
+                                    Modelo: "14",
+                                    Valor: vlrCeramica
+                                },
+                                {
+                                    Modelo: "14 PLUS",
+                                    Valor: vlrCeramica
+                                },
+                                {
+                                    Modelo: "14 PRO",
+                                    Valor: vlrCeramica
+                                },
+                                {
+                                    Modelo: "14 PRO MAX",
+                                    Valor: vlrCeramica
+                                },
+                                {
+                                    Modelo: "15",
+                                    Valor: vlrCeramica
+                                },
+                                {
+                                    Modelo: "15 PLUS",
+                                    Valor: vlrCeramica
+                                },
+                                {
+                                    Modelo: "15 PRO",
+                                    Valor: vlrCeramica
+                                },
+                                {
+                                    Modelo: "15 PRO MAX",
                                     Valor: vlrCeramica
                                 }
                             ]
@@ -4278,63 +4467,115 @@ sap.ui.define([
                             Modelo: "Apple",
                             Categoria: [
                                 {
-                                    Modelo: "6G BRANCO",
+                                    Modelo: "6 PRETO",
                                     Valor: vlrCeramica
                                 },
                                 {
-                                    Modelo: "6G PRETO",
+                                    Modelo: "7 / 8 PRETO",
                                     Valor: vlrCeramica
                                 },
                                 {
-                                    Modelo: "X / XS BRANCO",
+                                    Modelo: "6 BRANCO",
                                     Valor: vlrCeramica
                                 },
                                 {
-                                    Modelo: "X / XS PRETO",
+                                    Modelo: "7 / 8 BRANCO",
                                     Valor: vlrCeramica
                                 },
                                 {
-                                    Modelo: "XS MAX BRANCO",
+                                    Modelo: "6 PLUS PRETO",
                                     Valor: vlrCeramica
                                 },
                                 {
-                                    Modelo: "XS MAX PRETO",
+                                    Modelo: "7 / 8 PLUS PRETO",
                                     Valor: vlrCeramica
                                 },
                                 {
-                                    Modelo: "11 VERDE MUSGO",
+                                    Modelo: "6 PLUS BRANCO",
                                     Valor: vlrCeramica
                                 },
                                 {
-                                    Modelo: "11 PRO BRANCO",
+                                    Modelo: "7 / 8 PLUS BRANCO",
                                     Valor: vlrCeramica
                                 },
                                 {
-                                    Modelo: "11 PRO VERDE MUSGO",
+                                    Modelo: "X",
                                     Valor: vlrCeramica
                                 },
                                 {
-                                    Modelo: "11 PRO MAX VERDE MUSGO",
+                                    Modelo: "XS",
                                     Valor: vlrCeramica
                                 },
                                 {
-                                    Modelo: "12 MINI BRANCO",
+                                    Modelo: "XS MAX",
                                     Valor: vlrCeramica
                                 },
                                 {
-                                    Modelo: "12 MINI PRETO",
+                                    Modelo: "11",
                                     Valor: vlrCeramica
                                 },
                                 {
-                                    Modelo: "12 / 12 PRO BRANCO",
+                                    Modelo: "11 PRO",
                                     Valor: vlrCeramica
                                 },
                                 {
-                                    Modelo: "12 / 12 PRO PRETO",
+                                    Modelo: "11 PRO MAX",
                                     Valor: vlrCeramica
                                 },
                                 {
-                                    Modelo: "12 PRO MAX PRETO",
+                                    Modelo: "12 MINI",
+                                    Valor: vlrCeramica
+                                },
+                                {
+                                    Modelo: "12 / 12 PRO",
+                                    Valor: vlrCeramica
+                                },
+                                {
+                                    Modelo: "12 PRO MAX",
+                                    Valor: vlrCeramica
+                                },
+                                {
+                                    Modelo: "13 MINI",
+                                    Valor: vlrCeramica
+                                },
+                                {
+                                    Modelo: "13 / 13 PRO",
+                                    Valor: vlrCeramica
+                                },
+                                {
+                                    Modelo: "13 PRO MAX",
+                                    Valor: vlrCeramica
+                                },
+                                {
+                                    Modelo: "14",
+                                    Valor: vlrCeramica
+                                },
+                                {
+                                    Modelo: "14 PLUS",
+                                    Valor: vlrCeramica
+                                },
+                                {
+                                    Modelo: "14 PRO",
+                                    Valor: vlrCeramica
+                                },
+                                {
+                                    Modelo: "14 PRO MAX",
+                                    Valor: vlrCeramica
+                                },
+                                {
+                                    Modelo: "15",
+                                    Valor: vlrCeramica
+                                },
+                                {
+                                    Modelo: "15 PLUS",
+                                    Valor: vlrCeramica
+                                },
+                                {
+                                    Modelo: "15 PRO",
+                                    Valor: vlrCeramica
+                                },
+                                {
+                                    Modelo: "15 PRO MAX",
                                     Valor: vlrCeramica
                                 }
 
@@ -4682,51 +4923,115 @@ sap.ui.define([
                             Modelo: "Apple",
                             Categoria: [
                                 {
-                                    Modelo: "7 / 8 PLUS",
+                                    Modelo: "6 PRETO",
                                     Valor: vlrCeramica
                                 },
                                 {
-                                    Modelo: "XR",
+                                    Modelo: "7 / 8 PRETO",
                                     Valor: vlrCeramica
                                 },
                                 {
-                                    Modelo: "11 PRO / 11 PRO MAX (5.8) / (6.5)",
+                                    Modelo: "6 BRANCO",
                                     Valor: vlrCeramica
                                 },
                                 {
-                                    Modelo: "11 (6.1)",
+                                    Modelo: "7 / 8 BRANCO",
                                     Valor: vlrCeramica
                                 },
                                 {
-                                    Modelo: "12 MINI (5.4)",
+                                    Modelo: "6 PLUS PRETO",
                                     Valor: vlrCeramica
                                 },
                                 {
-                                    Modelo: "12 (6.1)",
+                                    Modelo: "7 / 8 PLUS PRETO",
                                     Valor: vlrCeramica
                                 },
                                 {
-                                    Modelo: "12 PRO (6.1)3C",
+                                    Modelo: "6 PLUS BRANCO",
                                     Valor: vlrCeramica
                                 },
                                 {
-                                    Modelo: "12 PRO MAX (6.7)",
+                                    Modelo: "7 / 8 PLUS BRANCO",
                                     Valor: vlrCeramica
                                 },
                                 {
-                                    Modelo: "13 MINI (5.4)",
+                                    Modelo: "X",
                                     Valor: vlrCeramica
                                 },
                                 {
-                                    Modelo: "13 (6.1) 2C",
+                                    Modelo: "XS",
                                     Valor: vlrCeramica
                                 },
                                 {
-                                    Modelo: "13 PRO ( 6.1 ) 3C",
+                                    Modelo: "XS MAX",
                                     Valor: vlrCeramica
                                 },
                                 {
-                                    Modelo: "13 PRO MAX ( 6.7 )",
+                                    Modelo: "11",
+                                    Valor: vlrCeramica
+                                },
+                                {
+                                    Modelo: "11 PRO",
+                                    Valor: vlrCeramica
+                                },
+                                {
+                                    Modelo: "11 PRO MAX",
+                                    Valor: vlrCeramica
+                                },
+                                {
+                                    Modelo: "12 MINI",
+                                    Valor: vlrCeramica
+                                },
+                                {
+                                    Modelo: "12 / 12 PRO",
+                                    Valor: vlrCeramica
+                                },
+                                {
+                                    Modelo: "12 PRO MAX",
+                                    Valor: vlrCeramica
+                                },
+                                {
+                                    Modelo: "13 MINI",
+                                    Valor: vlrCeramica
+                                },
+                                {
+                                    Modelo: "13 / 13 PRO",
+                                    Valor: vlrCeramica
+                                },
+                                {
+                                    Modelo: "13 PRO MAX",
+                                    Valor: vlrCeramica
+                                },
+                                {
+                                    Modelo: "14",
+                                    Valor: vlrCeramica
+                                },
+                                {
+                                    Modelo: "14 PLUS",
+                                    Valor: vlrCeramica
+                                },
+                                {
+                                    Modelo: "14 PRO",
+                                    Valor: vlrCeramica
+                                },
+                                {
+                                    Modelo: "14 PRO MAX",
+                                    Valor: vlrCeramica
+                                },
+                                {
+                                    Modelo: "15",
+                                    Valor: vlrCeramica
+                                },
+                                {
+                                    Modelo: "15 PLUS",
+                                    Valor: vlrCeramica
+                                },
+                                {
+                                    Modelo: "15 PRO",
+                                    Valor: vlrCeramica
+                                },
+                                {
+                                    Modelo: "15 PRO MAX",
                                     Valor: vlrCeramica
                                 }
                             ]
@@ -6213,88 +6518,116 @@ sap.ui.define([
                             Modelo: "Apple",
                             Categoria: [
                                 {
-                                    Modelo: "6",
-                                    Valor: vlr3Dantigo
+                                    Modelo: "6 PRETO",
+                                    Valor: vlrCeramica
                                 },
                                 {
-                                    Modelo: "7G / 8G",
-                                    Valor: vlr3Dantigo
+                                    Modelo: "7 / 8 PRETO",
+                                    Valor: vlrCeramica
                                 },
                                 {
-                                    Modelo: "7 PLUS / 8",
-                                    Valor: vlr3Dantigo
+                                    Modelo: "6 BRANCO",
+                                    Valor: vlrCeramica
                                 },
                                 {
-                                    Modelo: "X / XS",
-                                    Valor: vlr3Dantigo
+                                    Modelo: "7 / 8 BRANCO",
+                                    Valor: vlrCeramica
                                 },
                                 {
-                                    Modelo: "XR",
-                                    Valor: vlr3Dantigo
+                                    Modelo: "6 PLUS PRETO",
+                                    Valor: vlrCeramica
+                                },
+                                {
+                                    Modelo: "7 / 8 PLUS PRETO",
+                                    Valor: vlrCeramica
+                                },
+                                {
+                                    Modelo: "6 PLUS BRANCO",
+                                    Valor: vlrCeramica
+                                },
+                                {
+                                    Modelo: "7 / 8 PLUS BRANCO",
+                                    Valor: vlrCeramica
+                                },
+                                {
+                                    Modelo: "X",
+                                    Valor: vlrCeramica
+                                },
+                                {
+                                    Modelo: "XS",
+                                    Valor: vlrCeramica
                                 },
                                 {
                                     Modelo: "XS MAX",
-                                    Valor: vlr3Dantigo
+                                    Valor: vlrCeramica
                                 },
                                 {
                                     Modelo: "11",
-                                    Valor: vlr3Dantigo
+                                    Valor: vlrCeramica
                                 },
                                 {
                                     Modelo: "11 PRO",
-                                    Valor: vlr3Dantigo
+                                    Valor: vlrCeramica
                                 },
                                 {
                                     Modelo: "11 PRO MAX",
-                                    Valor: vlr3Dantigo
+                                    Valor: vlrCeramica
                                 },
                                 {
-                                    Modelo: "12 5.4",
-                                    Valor: vlr3Dantigo
+                                    Modelo: "12 MINI",
+                                    Valor: vlrCeramica
                                 },
                                 {
-                                    Modelo: "12",
-                                    Valor: vlr3Dantigo
+                                    Modelo: "12 / 12 PRO",
+                                    Valor: vlrCeramica
                                 },
                                 {
-                                    Modelo: "12 PRO",
-                                    Valor: vlr3Dantigo
-                                },
-                                {
-                                    Modelo: "12 6.7",
-                                    Valor: vlr3Dantigo
+                                    Modelo: "12 PRO MAX",
+                                    Valor: vlrCeramica
                                 },
                                 {
                                     Modelo: "13 MINI",
-                                    Valor: vlr3Dantigo
+                                    Valor: vlrCeramica
                                 },
                                 {
-                                    Modelo: "13",
-                                    Valor: vlr3Dantigo
-                                },
-                                {
-                                    Modelo: "13 PRO",
-                                    Valor: vlr3Dantigo
+                                    Modelo: "13 / 13 PRO",
+                                    Valor: vlrCeramica
                                 },
                                 {
                                     Modelo: "13 PRO MAX",
-                                    Valor: vlr3Dantigo
+                                    Valor: vlrCeramica
                                 },
                                 {
                                     Modelo: "14",
-                                    Valor: vlr3Dantigo
+                                    Valor: vlrCeramica
+                                },
+                                {
+                                    Modelo: "14 PLUS",
+                                    Valor: vlrCeramica
                                 },
                                 {
                                     Modelo: "14 PRO",
-                                    Valor: vlr3Dantigo
+                                    Valor: vlrCeramica
                                 },
                                 {
                                     Modelo: "14 PRO MAX",
-                                    Valor: vlr3Dantigo
+                                    Valor: vlrCeramica
                                 },
                                 {
-                                    Modelo: "14 PRO MAX PLUS",
-                                    Valor: vlr3Dantigo
+                                    Modelo: "15",
+                                    Valor: vlrCeramica
+                                },
+                                {
+                                    Modelo: "15 PLUS",
+                                    Valor: vlrCeramica
+                                },
+                                {
+                                    Modelo: "15 PRO",
+                                    Valor: vlrCeramica
+                                },
+                                {
+                                    Modelo: "15 PRO MAX",
+                                    Valor: vlrCeramica
                                 }
                             ]
                         }, {
@@ -6715,12 +7048,116 @@ sap.ui.define([
                             Modelo: "Apple",
                             Categoria: [
                                 {
-                                    Modelo: "11",
-                                    Valor: vlr3Dantigo
+                                    Modelo: "6 PRETO",
+                                    Valor: vlrCeramica
                                 },
                                 {
-                                    Modelo: "12",
-                                    Valor: vlr3Dantigo
+                                    Modelo: "7 / 8 PRETO",
+                                    Valor: vlrCeramica
+                                },
+                                {
+                                    Modelo: "6 BRANCO",
+                                    Valor: vlrCeramica
+                                },
+                                {
+                                    Modelo: "7 / 8 BRANCO",
+                                    Valor: vlrCeramica
+                                },
+                                {
+                                    Modelo: "6 PLUS PRETO",
+                                    Valor: vlrCeramica
+                                },
+                                {
+                                    Modelo: "7 / 8 PLUS PRETO",
+                                    Valor: vlrCeramica
+                                },
+                                {
+                                    Modelo: "6 PLUS BRANCO",
+                                    Valor: vlrCeramica
+                                },
+                                {
+                                    Modelo: "7 / 8 PLUS BRANCO",
+                                    Valor: vlrCeramica
+                                },
+                                {
+                                    Modelo: "X",
+                                    Valor: vlrCeramica
+                                },
+                                {
+                                    Modelo: "XS",
+                                    Valor: vlrCeramica
+                                },
+                                {
+                                    Modelo: "XS MAX",
+                                    Valor: vlrCeramica
+                                },
+                                {
+                                    Modelo: "11",
+                                    Valor: vlrCeramica
+                                },
+                                {
+                                    Modelo: "11 PRO",
+                                    Valor: vlrCeramica
+                                },
+                                {
+                                    Modelo: "11 PRO MAX",
+                                    Valor: vlrCeramica
+                                },
+                                {
+                                    Modelo: "12 MINI",
+                                    Valor: vlrCeramica
+                                },
+                                {
+                                    Modelo: "12 / 12 PRO",
+                                    Valor: vlrCeramica
+                                },
+                                {
+                                    Modelo: "12 PRO MAX",
+                                    Valor: vlrCeramica
+                                },
+                                {
+                                    Modelo: "13 MINI",
+                                    Valor: vlrCeramica
+                                },
+                                {
+                                    Modelo: "13 / 13 PRO",
+                                    Valor: vlrCeramica
+                                },
+                                {
+                                    Modelo: "13 PRO MAX",
+                                    Valor: vlrCeramica
+                                },
+                                {
+                                    Modelo: "14",
+                                    Valor: vlrCeramica
+                                },
+                                {
+                                    Modelo: "14 PLUS",
+                                    Valor: vlrCeramica
+                                },
+                                {
+                                    Modelo: "14 PRO",
+                                    Valor: vlrCeramica
+                                },
+                                {
+                                    Modelo: "14 PRO MAX",
+                                    Valor: vlrCeramica
+                                },
+                                {
+                                    Modelo: "15",
+                                    Valor: vlrCeramica
+                                },
+                                {
+                                    Modelo: "15 PLUS",
+                                    Valor: vlrCeramica
+                                },
+                                {
+                                    Modelo: "15 PRO",
+                                    Valor: vlrCeramica
+                                },
+                                {
+                                    Modelo: "15 PRO MAX",
+                                    Valor: vlrCeramica
                                 }
                             ]
                         },

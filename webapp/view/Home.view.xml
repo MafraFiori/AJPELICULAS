@@ -473,6 +473,84 @@
                                                                         <l:VerticalLayout
                                                                         >
                                                                             <ObjectIdentifier
+                                                                                title="CERÂMICA FOSCA"
+                                                                                tooltip="CERÂMICA FOSCA"
+                                                                                titleActive="true"
+                                                                                titlePress="onCeramica"
+                                                                                class="sapUiTinyMarginBottom"
+                                                                            />
+                                                                        </l:VerticalLayout>
+                                                                    </FlexBox>
+                                                                    <FlexBox
+                                                                        renderType="Bare"
+                                                                        justifyContent="Center"
+                                                                    >
+                                                                        <Image
+                                                                            src="../Imagens/PELICULACERAMICA.png"
+                                                                            width="30%"
+                                                                            height="30%"
+                                                                            press="onCeramica"
+                                                                        />
+                                                                    </FlexBox>
+                                                                    <Button
+                                                                        tooltip="CERÂMICA FOSCA"
+                                                                        press="onCeramica"
+                                                                        text="Modelos"
+                                                                        type="Emphasized"
+                                                                        visible="true"
+                                                                    >
+                                                                        <layoutData
+                                                                        >
+                                                                            <l:GridData
+                                                                                span="XL4 L4 M4 S4"
+                                                                            />
+                                                                        </layoutData>
+                                                                    </Button>
+                                                                    <ObjectListItem
+                                                                        class="welcomePrice"
+                                                                        number="R$ 4,30"
+                                                                        numberUnit="A unidade"
+                                                                    >
+                                                                        <layoutData
+                                                                        >
+                                                                            <l:GridData
+                                                                                span="XL8 L8 M8 S8"
+                                                                            />
+                                                                        </layoutData>
+                                                                    </ObjectListItem>
+                                                                </l:Grid>
+                                                            </l:BlockLayoutCell>
+                                                        </l:content>
+                                                    </l:BlockLayoutRow>
+                                                </l:BlockLayout>
+                                            </Panel>
+                                        </f:FormElement>
+                                    </f:formElements>
+                                </f:FormContainer>
+                                <f:FormContainer>
+                                    <f:formElements>
+                                        <f:FormElement>
+                                            <Panel>
+                                                <l:BlockLayout
+                                                    background="Dashboard"
+                                                >
+                                                    <l:BlockLayoutRow>
+                                                        <l:content>
+                                                            <l:BlockLayoutCell
+                                                                class="sapUiContentPadding"
+                                                            >
+                                                                <l:Grid
+                                                                    defaultSpan="XL12 L12 M12 S12"
+                                                                    vSpacing="0"
+                                                                    hSpacing="0"
+                                                                >
+                                                                    <FlexBox
+                                                                        height="2.5rem"
+                                                                        renderType="Bare"
+                                                                    >
+                                                                        <l:VerticalLayout
+                                                                        >
+                                                                            <ObjectIdentifier
                                                                                 title="CAMÊRA CELULARES IPHONE"
                                                                                 tooltip="CAMÊRA CELULARES IPHONE"
                                                                                 titleActive="true"
@@ -586,7 +664,7 @@
                                                                     </Button>
                                                                     <ObjectListItem
                                                                         class="welcomePrice"
-                                                                        number="R$ 1,50"
+                                                                        number="R$ 4,85"
                                                                         numberUnit="A unidade"
                                                                     >
                                                                         <layoutData
@@ -925,7 +1003,7 @@
                                                                     </Button>
                                                                     <ObjectListItem
                                                                         class="welcomePrice"
-                                                                        number="R$ 4,20"
+                                                                        number="R$ 4,00"
                                                                         numberUnit="A unidade"
                                                                     >
                                                                         <layoutData
@@ -1315,7 +1393,7 @@
                                                                     </Button>
                                                                     <ObjectListItem
                                                                         class="welcomePrice"
-                                                                        number="R$ 6,50"
+                                                                        number="R$ 8,00"
                                                                         numberUnit="A unidade"
                                                                     >
                                                                         <layoutData
@@ -1393,7 +1471,7 @@
                                                                     </Button>
                                                                     <ObjectListItem
                                                                         class="welcomePrice"
-                                                                        number="R$ 8,00"
+                                                                        number="R$ 5,70"
                                                                         numberUnit="A unidade"
                                                                     >
                                                                         <layoutData
@@ -1471,7 +1549,7 @@
                                                                     </Button>
                                                                     <ObjectListItem
                                                                         class="welcomePrice"
-                                                                        number="R$ 8,00"
+                                                                        number="R$ 24,00"
                                                                         numberUnit="A unidade"
                                                                     >
                                                                         <layoutData
@@ -1550,6 +1628,162 @@
                                                                     <ObjectListItem
                                                                         class="welcomePrice"
                                                                         number="R$ 29,00"
+                                                                        numberUnit="A unidade"
+                                                                    >
+                                                                        <layoutData
+                                                                        >
+                                                                            <l:GridData
+                                                                                span="XL8 L8 M8 S8"
+                                                                            />
+                                                                        </layoutData>
+                                                                    </ObjectListItem>
+                                                                </l:Grid>
+                                                            </l:BlockLayoutCell>
+                                                        </l:content>
+                                                    </l:BlockLayoutRow>
+                                                </l:BlockLayout>
+                                            </Panel>
+                                        </f:FormElement>
+                                    </f:formElements>
+                                </f:FormContainer>
+                                <f:FormContainer>
+                                    <f:formElements>
+                                        <f:FormElement>
+                                            <Panel>
+                                                <l:BlockLayout
+                                                    background="Dashboard"
+                                                >
+                                                    <l:BlockLayoutRow>
+                                                        <l:content>
+                                                            <l:BlockLayoutCell
+                                                                class="sapUiContentPadding"
+                                                            >
+                                                                <l:Grid
+                                                                    defaultSpan="XL12 L12 M12 S12"
+                                                                    vSpacing="0"
+                                                                    hSpacing="0"
+                                                                >
+                                                                    <FlexBox
+                                                                        height="2.5rem"
+                                                                        renderType="Bare"
+                                                                    >
+                                                                        <l:VerticalLayout
+                                                                        >
+                                                                            <ObjectIdentifier
+                                                                                title="Meg Safe Colorida"
+                                                                                tooltip="Meg Safe Colorida"
+                                                                                titleActive="true"
+                                                                                titlePress="onMegSafe"
+                                                                                class="sapUiTinyMarginBottom"
+                                                                            />
+                                                                        </l:VerticalLayout>
+                                                                    </FlexBox>
+                                                                    <FlexBox
+                                                                        renderType="Bare"
+                                                                        justifyContent="Center"
+                                                                    >
+                                                                        <Image
+                                                                            src="../Imagens/MegSafeColorida.png"
+                                                                            width="30%"
+                                                                            height="30%"
+                                                                            press="onMegSafe"
+                                                                        />
+                                                                    </FlexBox>
+                                                                    <Button
+                                                                        tooltip="COURO IP"
+                                                                        press="onMegSafe"
+                                                                        text="Modelos"
+                                                                        type="Emphasized"
+                                                                        visible="true"
+                                                                    >
+                                                                        <layoutData
+                                                                        >
+                                                                            <l:GridData
+                                                                                span="XL4 L4 M4 S4"
+                                                                            />
+                                                                        </layoutData>
+                                                                    </Button>
+                                                                    <ObjectListItem
+                                                                        class="welcomePrice"
+                                                                        number="R$ 14,00"
+                                                                        numberUnit="A unidade"
+                                                                    >
+                                                                        <layoutData
+                                                                        >
+                                                                            <l:GridData
+                                                                                span="XL8 L8 M8 S8"
+                                                                            />
+                                                                        </layoutData>
+                                                                    </ObjectListItem>
+                                                                </l:Grid>
+                                                            </l:BlockLayoutCell>
+                                                        </l:content>
+                                                    </l:BlockLayoutRow>
+                                                </l:BlockLayout>
+                                            </Panel>
+                                        </f:FormElement>
+                                    </f:formElements>
+                                </f:FormContainer>
+                                <f:FormContainer>
+                                    <f:formElements>
+                                        <f:FormElement>
+                                            <Panel>
+                                                <l:BlockLayout
+                                                    background="Dashboard"
+                                                >
+                                                    <l:BlockLayoutRow>
+                                                        <l:content>
+                                                            <l:BlockLayoutCell
+                                                                class="sapUiContentPadding"
+                                                            >
+                                                                <l:Grid
+                                                                    defaultSpan="XL12 L12 M12 S12"
+                                                                    vSpacing="0"
+                                                                    hSpacing="0"
+                                                                >
+                                                                    <FlexBox
+                                                                        height="2.5rem"
+                                                                        renderType="Bare"
+                                                                    >
+                                                                        <l:VerticalLayout
+                                                                        >
+                                                                            <ObjectIdentifier
+                                                                                title="Meg Safe c/ películas de camêra"
+                                                                                tooltip="Meg Safe c/ películas de camêra"
+                                                                                titleActive="true"
+                                                                                titlePress="onMegSafe"
+                                                                                class="sapUiTinyMarginBottom"
+                                                                            />
+                                                                        </l:VerticalLayout>
+                                                                    </FlexBox>
+                                                                    <FlexBox
+                                                                        renderType="Bare"
+                                                                        justifyContent="Center"
+                                                                    >
+                                                                        <Image
+                                                                            src="../Imagens/MEGSAFECAMERA.png"
+                                                                            width="30%"
+                                                                            height="30%"
+                                                                            press="onMegSafe"
+                                                                        />
+                                                                    </FlexBox>
+                                                                    <Button
+                                                                        tooltip="COURO IP"
+                                                                        press="onMegSafe"
+                                                                        text="Modelos"
+                                                                        type="Emphasized"
+                                                                        visible="true"
+                                                                    >
+                                                                        <layoutData
+                                                                        >
+                                                                            <l:GridData
+                                                                                span="XL4 L4 M4 S4"
+                                                                            />
+                                                                        </layoutData>
+                                                                    </Button>
+                                                                    <ObjectListItem
+                                                                        class="welcomePrice"
+                                                                        number="R$ 26,00"
                                                                         numberUnit="A unidade"
                                                                     >
                                                                         <layoutData
@@ -1933,6 +2167,160 @@
                                 />
                             </f:layout>
                             <f:formContainers>
+                            <f:FormContainer>
+                                    <f:formElements>
+                                        <f:FormElement>
+                                            <Panel>
+                                                <l:BlockLayout
+                                                    background="Dashboard"
+                                                >
+                                                    <l:BlockLayoutRow>
+                                                        <l:content>
+                                                            <l:BlockLayoutCell
+                                                                class="sapUiContentPadding"
+                                                            >
+                                                                <l:Grid
+                                                                    defaultSpan="XL12 L12 M12 S12"
+                                                                    vSpacing="0"
+                                                                    hSpacing="0"
+                                                                >
+                                                                    <FlexBox
+                                                                        height="2.5rem"
+                                                                        renderType="Bare"
+                                                                    >
+                                                                        <l:VerticalLayout
+                                                                        >
+                                                                            <ObjectIdentifier
+                                                                                title="COPO STANLEY"
+                                                                                tooltip="COPO STANLEY"
+                                                                                titleActive="true"
+                                                                                class="sapUiTinyMarginBottom"
+                                                                            />
+                                                                        </l:VerticalLayout>
+                                                                    </FlexBox>
+                                                                    <FlexBox
+                                                                        renderType="Bare"
+                                                                        justifyContent="Center"
+                                                                    >
+                                                                        <Image
+                                                                            src="../Imagens/Copos_Stanley16.png"
+                                                                            width="30%"
+                                                                            height="30%"
+                                                                            press=".onSelectProduct"
+                                                                        />
+                                                                    </FlexBox>
+                                                                    <Button
+                                                                        tooltip="COPO STANLEY"
+                                                                        press=".onAddToCart"
+                                                                        icon="sap-icon://cart-3"
+                                                                        type="Emphasized"
+                                                                        visible="false"
+                                                                    >
+                                                                        <layoutData
+                                                                        >
+                                                                            <l:GridData
+                                                                                span="XL4 L4 M4 S4"
+                                                                            />
+                                                                        </layoutData>
+                                                                    </Button>
+                                                                    <ObjectListItem
+                                                                        class="welcomePrice"
+                                                                        number="R$ 47,00"
+                                                                        numberUnit="A unidade"
+                                                                    >
+                                                                        <layoutData
+                                                                        >
+                                                                            <l:GridData
+                                                                                span="XL8 L8 M8 S8"
+                                                                            />
+                                                                        </layoutData>
+                                                                    </ObjectListItem>
+                                                                </l:Grid>
+                                                            </l:BlockLayoutCell>
+                                                        </l:content>
+                                                    </l:BlockLayoutRow>
+                                                </l:BlockLayout>
+                                            </Panel>
+                                        </f:FormElement>
+                                    </f:formElements>
+                                </f:FormContainer>
+                            <f:FormContainer>
+                                    <f:formElements>
+                                        <f:FormElement>
+                                            <Panel>
+                                                <l:BlockLayout
+                                                    background="Dashboard"
+                                                >
+                                                    <l:BlockLayoutRow>
+                                                        <l:content>
+                                                            <l:BlockLayoutCell
+                                                                class="sapUiContentPadding"
+                                                            >
+                                                                <l:Grid
+                                                                    defaultSpan="XL12 L12 M12 S12"
+                                                                    vSpacing="0"
+                                                                    hSpacing="0"
+                                                                >
+                                                                    <FlexBox
+                                                                        height="2.5rem"
+                                                                        renderType="Bare"
+                                                                    >
+                                                                        <l:VerticalLayout
+                                                                        >
+                                                                            <ObjectIdentifier
+                                                                                title="KIT STANLEY"
+                                                                                tooltip="KIT STANLEY"
+                                                                                titleActive="true"
+                                                                                class="sapUiTinyMarginBottom"
+                                                                            />
+                                                                        </l:VerticalLayout>
+                                                                    </FlexBox>
+                                                                    <FlexBox
+                                                                        renderType="Bare"
+                                                                        justifyContent="Center"
+                                                                    >
+                                                                        <Image
+                                                                            src="../Imagens/KITSTANLEY.png"
+                                                                            width="30%"
+                                                                            height="30%"
+                                                                            press=".onSelectProduct"
+                                                                        />
+                                                                    </FlexBox>
+                                                                    <Button
+                                                                        tooltip="KIT STANLEY"
+                                                                        press=".onAddToCart"
+                                                                        icon="sap-icon://cart-3"
+                                                                        type="Emphasized"
+                                                                        visible="false"
+                                                                    >
+                                                                        <layoutData
+                                                                        >
+                                                                            <l:GridData
+                                                                                span="XL4 L4 M4 S4"
+                                                                            />
+                                                                        </layoutData>
+                                                                    </Button>
+                                                                    <ObjectListItem
+                                                                        class="welcomePrice"
+                                                                        number="R$ 90,00"
+                                                                        numberUnit="A unidade"
+                                                                    >
+                                                                        <layoutData
+                                                                        >
+                                                                            <l:GridData
+                                                                                span="XL8 L8 M8 S8"
+                                                                            />
+                                                                        </layoutData>
+                                                                    </ObjectListItem>
+                                                                </l:Grid>
+                                                            </l:BlockLayoutCell>
+                                                        </l:content>
+                                                    </l:BlockLayoutRow>
+                                                </l:BlockLayout>
+                                            </Panel>
+                                        </f:FormElement>
+                                    </f:formElements>
+                                </f:FormContainer>
                                 <f:FormContainer>
                                     <f:formElements>
                                         <f:FormElement>
@@ -1992,7 +2380,7 @@
                                                                     </Button>
                                                                     <ObjectListItem
                                                                         class="welcomePrice"
-                                                                        number="R$ 22,00"
+                                                                        number="R$ 18,00"
                                                                         numberUnit="A unidade"
                                                                     >
                                                                         <layoutData
@@ -2070,7 +2458,7 @@
                                                                     </Button>
                                                                     <ObjectListItem
                                                                         class="welcomePrice"
-                                                                        number="R$ 85,00"
+                                                                        number="R$ 48,00"
                                                                         numberUnit="A unidade"
                                                                     >
                                                                         <layoutData
@@ -2226,7 +2614,7 @@
                                                                     </Button>
                                                                     <ObjectListItem
                                                                         class="welcomePrice"
-                                                                        number="R$ 35,00"
+                                                                        number="R$ 32,00"
                                                                         numberUnit="A unidade"
                                                                     >
                                                                         <layoutData
@@ -2460,7 +2848,7 @@
                                                                     </Button>
                                                                     <ObjectListItem
                                                                         class="welcomePrice"
-                                                                        number="R$ 35,00"
+                                                                        number="R$ 30,00"
                                                                         numberUnit="A unidade"
                                                                     >
                                                                         <layoutData
@@ -2538,7 +2926,7 @@
                                                                     </Button>
                                                                     <ObjectListItem
                                                                         class="welcomePrice"
-                                                                        number="R$ 47,00"
+                                                                        number="R$ 45,00"
                                                                         numberUnit="A unidade"
                                                                     >
                                                                         <layoutData
@@ -2616,7 +3004,7 @@
                                                                     </Button>
                                                                     <ObjectListItem
                                                                         class="welcomePrice"
-                                                                        number="R$ 55,00"
+                                                                        number="R$ 45,00"
                                                                         numberUnit="A unidade"
                                                                     >
                                                                         <layoutData
@@ -2694,7 +3082,7 @@
                                                                     </Button>
                                                                     <ObjectListItem
                                                                         class="welcomePrice"
-                                                                        number="R$ 73,00"
+                                                                        number="R$ 70,00"
                                                                         numberUnit="A unidade"
                                                                     >
                                                                         <layoutData
