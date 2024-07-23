@@ -17,7 +17,7 @@
         <content>
             <ObjectHeader
                 title="AJ PELICULAS"
-                icon="../Imagens/logo.jpeg"
+                icon="https://ajpeliculas.com.br/Imagens/logo.jpeg"
                 iconDensityAware="false"
                 imageShape="Circle"
                 responsive="true"
@@ -66,7 +66,7 @@
                                     >
                                         <card:StandardListItem
                                             description="Vendedora"
-                                            image="../Imagens/ju.jpg"
+                                            image="https://ajpeliculas.com.br/Imagens/ju.jpg"
                                             text="Ju"
                                         />
                                     </card:List>
@@ -84,7 +84,7 @@
                                     >
                                         <card:StandardListItem
                                             description="Vendedora"
-                                            image="../Imagens/Leticia.jpg"
+                                            image="https://ajpeliculas.com.br/Imagens/Leticia.jpg"
                                             text="Leticia"
                                         />
                                     </card:List>
@@ -102,7 +102,7 @@
                                     >
                                         <card:StandardListItem
                                             description="Vendedora"
-                                            image="../Imagens/Julia.png"
+                                            image="https://ajpeliculas.com.br/Imagens/Julia.png"
                                             text="Júlia"
                                         />
                                     </card:List>
@@ -174,7 +174,7 @@
                                                                         justifyContent="Center"
                                                                     >
                                                                         <Image
-                                                                            src="../Imagens/PELICULA3D.png"
+                                                                            src="https://ajpeliculas.com.br/Imagens/PELICULA3D.png"
                                                                             width="30%"
                                                                             height="30%"
                                                                             press="onModelos3D"
@@ -252,7 +252,7 @@
                                                                         justifyContent="Center"
                                                                     >
                                                                         <Image
-                                                                            src="../Imagens/PELICULA3D.png"
+                                                                            src="https://ajpeliculas.com.br/Imagens/PELICULA3D.png"
                                                                             width="30%"
                                                                             height="30%"
                                                                             press="onModelos3DLancamentos"
@@ -330,7 +330,7 @@
                                                                         justifyContent="Center"
                                                                     >
                                                                         <Image
-                                                                            src="../Imagens/PELICULAPRIVACIDADE.png"
+                                                                            src="https://ajpeliculas.com.br/Imagens/PELICULAPRIVACIDADE.png"
                                                                             width="30%"
                                                                             height="30%"
                                                                             press="onPrivacidade"
@@ -408,7 +408,7 @@
                                                                         justifyContent="Center"
                                                                     >
                                                                         <Image
-                                                                            src="../Imagens/PELICULACERAMICA.png"
+                                                                            src="https://ajpeliculas.com.br/Imagens/PELICULACERAMICA.png"
                                                                             width="30%"
                                                                             height="30%"
                                                                             press="onCeramica"
@@ -486,7 +486,7 @@
                                                                         justifyContent="Center"
                                                                     >
                                                                         <Image
-                                                                            src="../Imagens/PELICULACERAMICA.png"
+                                                                            src="https://ajpeliculas.com.br/Imagens/PELICULACERAMICA.png"
                                                                             width="30%"
                                                                             height="30%"
                                                                             press="onCeramica"
@@ -564,7 +564,7 @@
                                                                         justifyContent="Center"
                                                                     >
                                                                         <Image
-                                                                            src="../Imagens/CAMERAIPHONE.png"
+                                                                            src="https://ajpeliculas.com.br/Imagens/CAMERAIPHONE.png"
                                                                             width="30%"
                                                                             height="30%"
                                                                             press="onCameraIphone"
@@ -642,7 +642,7 @@
                                                                         justifyContent="Center"
                                                                     >
                                                                         <Image
-                                                                            src="../Imagens/PELICULASCERAMICAPRIVACIDADE.png"
+                                                                            src="https://ajpeliculas.com.br/Imagens/PELICULASCERAMICAPRIVACIDADE.png"
                                                                             width="30%"
                                                                             height="30%"
                                                                             press="onCeramicaPrivacidade"
@@ -720,7 +720,7 @@
                                                                         justifyContent="Center"
                                                                     >
                                                                         <Image
-                                                                            src="../Imagens/PELICULASVIDRO.png"
+                                                                            src="https://ajpeliculas.com.br/Imagens/PELICULASVIDRO.png"
                                                                             width="30%"
                                                                             height="30%"
                                                                             press="onModelosVidros"
@@ -798,7 +798,7 @@
                                                                         justifyContent="Center"
                                                                     >
                                                                         <Image
-                                                                            src="../Imagens/PELICULATRASEIRACERAMICA.png"
+                                                                            src="https://ajpeliculas.com.br/Imagens/PELICULATRASEIRACERAMICA.png"
                                                                             width="30%"
                                                                             height="30%"
                                                                             press="onTraseiraCeramica"
@@ -876,7 +876,7 @@
                                                                         justifyContent="Center"
                                                                     >
                                                                         <Image
-                                                                            src="../Imagens/PROTETORCAMERA.png"
+                                                                            src="https://ajpeliculas.com.br/Imagens/PROTETORCAMERA.png"
                                                                             width="30%"
                                                                             height="30%"
                                                                             press="onCameras"
@@ -981,7 +981,7 @@
                                                                         justifyContent="Center"
                                                                     >
                                                                         <Image
-                                                                            src="../Imagens/SILICON.png"
+                                                                            src="https://ajpeliculas.com.br/Imagens/SILICON.png"
                                                                             width="30%"
                                                                             height="30%"
                                                                             press="onCapaSilicone"
@@ -1059,7 +1059,7 @@
                                                                         justifyContent="Center"
                                                                     >
                                                                         <Image
-                                                                            src="../Imagens/CAPAANTICHOQUE.png"
+                                                                            src="https://ajpeliculas.com.br/Imagens/CAPAANTICHOQUE.png"
                                                                             width="30%"
                                                                             height="30%"
                                                                             press="onAntiChoque"
@@ -1137,7 +1137,7 @@
                                                                         justifyContent="Center"
                                                                     >
                                                                         <Image
-                                                                            src="../Imagens/CARTEIRA.png"
+                                                                            src="https://ajpeliculas.com.br/Imagens/CARTEIRA.png"
                                                                             width="30%"
                                                                             height="30%"
                                                                             press="onCarteira"
@@ -1215,7 +1215,7 @@
                                                                         justifyContent="Center"
                                                                     >
                                                                         <Image
-                                                                            src="../Imagens/SPACE.png"
+                                                                            src="https://ajpeliculas.com.br/Imagens/SPACE.png"
                                                                             width="30%"
                                                                             height="30%"
                                                                             press="onSpace"
@@ -1293,7 +1293,7 @@
                                                                         justifyContent="Center"
                                                                     >
                                                                         <Image
-                                                                            src="../Imagens/MAGSAFE.png"
+                                                                            src="https://ajpeliculas.com.br/Imagens/MAGSAFE.png"
                                                                             width="30%"
                                                                             height="30%"
                                                                             press="onMegSafe"
@@ -1371,7 +1371,7 @@
                                                                         justifyContent="Center"
                                                                     >
                                                                         <Image
-                                                                            src="../Imagens/CASEIPHONE.png"
+                                                                            src="https://ajpeliculas.com.br/Imagens/CASEIPHONE.png"
                                                                             width="30%"
                                                                             height="30%"
                                                                             press="onCaseIphone"
@@ -1449,7 +1449,7 @@
                                                                         justifyContent="Center"
                                                                     >
                                                                         <Image
-                                                                            src="../Imagens/CASEIPHONEABERTO.png"
+                                                                            src="https://ajpeliculas.com.br/Imagens/CASEIPHONEABERTO.png"
                                                                             width="30%"
                                                                             height="30%"
                                                                             press="onCaseIphone"
@@ -1527,7 +1527,7 @@
                                                                         justifyContent="Center"
                                                                     >
                                                                         <Image
-                                                                            src="../Imagens/GLASS.png"
+                                                                            src="https://ajpeliculas.com.br/Imagens/GLASS.png"
                                                                             width="30%"
                                                                             height="30%"
                                                                             press="onAcrilocoGlass"
@@ -1605,7 +1605,7 @@
                                                                         justifyContent="Center"
                                                                     >
                                                                         <Image
-                                                                            src="../Imagens/COURO.png"
+                                                                            src="https://ajpeliculas.com.br/Imagens/COURO.png"
                                                                             width="30%"
                                                                             height="30%"
                                                                             press="onCouroIP"
@@ -1683,7 +1683,7 @@
                                                                         justifyContent="Center"
                                                                     >
                                                                         <Image
-                                                                            src="../Imagens/MegSafeColorida.png"
+                                                                            src="https://ajpeliculas.com.br/Imagens/MegSafeColorida.png"
                                                                             width="30%"
                                                                             height="30%"
                                                                             press="onMegSafe"
@@ -1761,7 +1761,7 @@
                                                                         justifyContent="Center"
                                                                     >
                                                                         <Image
-                                                                            src="../Imagens/MEGSAFECAMERA.png"
+                                                                            src="https://ajpeliculas.com.br/Imagens/MEGSAFECAMERA.png"
                                                                             width="30%"
                                                                             height="30%"
                                                                             press="onMegSafe"
@@ -1866,7 +1866,7 @@
                                                                         justifyContent="Center"
                                                                     >
                                                                         <Image
-                                                                            src="../Imagens/PORTACARTAO.png"
+                                                                            src="https://ajpeliculas.com.br/Imagens/PORTACARTAO.png"
                                                                             width="30%"
                                                                             height="30%"
                                                                             press=".onSelectProduct"
@@ -1944,7 +1944,7 @@
                                                                         justifyContent="Center"
                                                                     >
                                                                         <Image
-                                                                            src="../Imagens/MICANGAS.png"
+                                                                            src="https://ajpeliculas.com.br/Imagens/MICANGAS.png"
                                                                             width="30%"
                                                                             height="30%"
                                                                             press=".onSelectProduct"
@@ -2022,7 +2022,7 @@
                                                                         justifyContent="Center"
                                                                     >
                                                                         <Image
-                                                                            src="../Imagens/POP_SOCKET.png"
+                                                                            src="https://ajpeliculas.com.br/Imagens/POP_SOCKET.png"
                                                                             width="30%"
                                                                             height="30%"
                                                                             press=".onSelectProduct"
@@ -2100,7 +2100,7 @@
                                                                         justifyContent="Center"
                                                                     >
                                                                         <Image
-                                                                            src="../Imagens/correntinhas.png"
+                                                                            src="https://ajpeliculas.com.br/Imagens/correntinhas.png"
                                                                             width="30%"
                                                                             height="30%"
                                                                             press=".onSelectProduct"
@@ -2203,7 +2203,7 @@
                                                                         justifyContent="Center"
                                                                     >
                                                                         <Image
-                                                                            src="../Imagens/Copos_Stanley16.png"
+                                                                            src="https://ajpeliculas.com.br/Imagens/Copos_Stanley16.png"
                                                                             width="30%"
                                                                             height="30%"
                                                                             press=".onSelectProduct"
@@ -2280,7 +2280,7 @@
                                                                         justifyContent="Center"
                                                                     >
                                                                         <Image
-                                                                            src="../Imagens/KITSTANLEY.png"
+                                                                            src="https://ajpeliculas.com.br/Imagens/KITSTANLEY.png"
                                                                             width="30%"
                                                                             height="30%"
                                                                             press=".onSelectProduct"
@@ -2358,7 +2358,7 @@
                                                                         justifyContent="Center"
                                                                     >
                                                                         <Image
-                                                                            src="../Imagens/Copos_Stanley.png"
+                                                                            src="https://ajpeliculas.com.br/Imagens/Copos_Stanley.png"
                                                                             width="30%"
                                                                             height="30%"
                                                                             press=".onSelectProduct"
@@ -2436,7 +2436,7 @@
                                                                         justifyContent="Center"
                                                                     >
                                                                         <Image
-                                                                            src="../Imagens/Copo_Som.png"
+                                                                            src="https://ajpeliculas.com.br/Imagens/Copo_Som.png"
                                                                             width="30%"
                                                                             height="30%"
                                                                             press=".onSelectProduct"
@@ -2514,7 +2514,7 @@
                                                                         justifyContent="Center"
                                                                     >
                                                                         <Image
-                                                                            src="../Imagens/CanecaStanley.png"
+                                                                            src="https://ajpeliculas.com.br/Imagens/CanecaStanley.png"
                                                                             width="30%"
                                                                             height="30%"
                                                                             press=".onSelectProduct"
@@ -2592,7 +2592,7 @@
                                                                         justifyContent="Center"
                                                                     >
                                                                         <Image
-                                                                            src="../Imagens/PortaLongNeck.png"
+                                                                            src="https://ajpeliculas.com.br/Imagens/PortaLongNeck.png"
                                                                             width="30%"
                                                                             height="30%"
                                                                             press=".onSelectProduct"
@@ -2670,7 +2670,7 @@
                                                                         justifyContent="Center"
                                                                     >
                                                                         <Image
-                                                                            src="../Imagens/GarrafaStanley.png"
+                                                                            src="https://ajpeliculas.com.br/Imagens/GarrafaStanley.png"
                                                                             width="30%"
                                                                             height="30%"
                                                                             press=".onSelectProduct"
@@ -2748,7 +2748,7 @@
                                                                         justifyContent="Center"
                                                                     >
                                                                         <Image
-                                                                            src="../Imagens/GarrafaStanleyTampa.png"
+                                                                            src="https://ajpeliculas.com.br/Imagens/GarrafaStanleyTampa.png"
                                                                             width="30%"
                                                                             height="30%"
                                                                             press=".onSelectProduct"
@@ -2826,7 +2826,7 @@
                                                                         justifyContent="Center"
                                                                     >
                                                                         <Image
-                                                                            src="../Imagens/KIT3GARRAFAS.png"
+                                                                            src="https://ajpeliculas.com.br/Imagens/KIT3GARRAFAS.png"
                                                                             width="30%"
                                                                             height="30%"
                                                                             press=".onSelectProduct"
@@ -2904,7 +2904,7 @@
                                                                         justifyContent="Center"
                                                                     >
                                                                         <Image
-                                                                            src="../Imagens/GarrafaTermicaStanley.png"
+                                                                            src="https://ajpeliculas.com.br/Imagens/GarrafaTermicaStanley.png"
                                                                             width="30%"
                                                                             height="30%"
                                                                             press=".onSelectProduct"
@@ -2982,7 +2982,7 @@
                                                                         justifyContent="Center"
                                                                     >
                                                                         <Image
-                                                                            src="../Imagens/GarrafaTermicaBico.png"
+                                                                            src="https://ajpeliculas.com.br/Imagens/GarrafaTermicaBico.png"
                                                                             width="30%"
                                                                             height="30%"
                                                                             press=".onSelectProduct"
@@ -3060,7 +3060,7 @@
                                                                         justifyContent="Center"
                                                                     >
                                                                         <Image
-                                                                            src="../Imagens/GarrafaTermicaStanleyNew.png"
+                                                                            src="https://ajpeliculas.com.br/Imagens/GarrafaTermicaStanleyNew.png"
                                                                             width="30%"
                                                                             height="30%"
                                                                             press=".onSelectProduct"
@@ -3138,7 +3138,7 @@
                                                                         justifyContent="Center"
                                                                     >
                                                                         <Image
-                                                                            src="../Imagens/GarrafaPlastico.png"
+                                                                            src="https://ajpeliculas.com.br/Imagens/GarrafaPlastico.png"
                                                                             width="30%"
                                                                             height="30%"
                                                                             press=".onSelectProduct"
@@ -3216,7 +3216,7 @@
                                                                         justifyContent="Center"
                                                                     >
                                                                         <Image
-                                                                            src="../Imagens/GarrafaPlastico2.png"
+                                                                            src="https://ajpeliculas.com.br/Imagens/GarrafaPlastico2.png"
                                                                             width="30%"
                                                                             height="30%"
                                                                             press=".onSelectProduct"
