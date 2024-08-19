@@ -155,7 +155,7 @@
                                                                     hSpacing="0"
                                                                 >
                                                                     <FlexBox
-                                                                        height="2.5rem"
+                                                                        height="3.5rem"
                                                                         renderType="Bare"
                                                                     >
                                                                         <l:VerticalLayout
@@ -175,10 +175,12 @@
                                                                     >
                                                                         <Image
                                                                             src="https://ajpeliculas.com.br/Imagens/PELICULA3D.png"
-                                                                            width="30%"
-                                                                            height="30%"
+                                                                            densityAware="false"
+                                                                            width="100px"
+                                                                            height="100px"
                                                                             press="onModelos3D"
                                                                         />
+                                                                       
                                                                     </FlexBox>
                                                                     <Button
                                                                         tooltip="3D"
@@ -233,7 +235,7 @@
                                                                     hSpacing="0"
                                                                 >
                                                                     <FlexBox
-                                                                        height="2.5rem"
+                                                                        height="3.5rem"
                                                                         renderType="Bare"
                                                                     >
                                                                         <l:VerticalLayout
@@ -253,8 +255,9 @@
                                                                     >
                                                                         <Image
                                                                             src="https://ajpeliculas.com.br/Imagens/PELICULA3D.png"
-                                                                            width="30%"
-                                                                            height="30%"
+                                                                            densityAware="false"
+                                                                            width="100px"
+                                                                            height="100px"
                                                                             press="onModelos3DLancamentos"
                                                                         />
                                                                     </FlexBox>
@@ -331,8 +334,8 @@
                                                                     >
                                                                         <Image
                                                                             src="https://ajpeliculas.com.br/Imagens/PELICULAPRIVACIDADE.png"
-                                                                            width="30%"
-                                                                            height="30%"
+                                                                            width="100px"
+                                                                            height="100px"
                                                                             press="onPrivacidade"
                                                                         />
                                                                     </FlexBox>
@@ -409,8 +412,8 @@
                                                                     >
                                                                         <Image
                                                                             src="https://ajpeliculas.com.br/Imagens/PELICULACERAMICA.png"
-                                                                            width="30%"
-                                                                            height="30%"
+                                                                            width="100px"
+                                                                            height="100px"
                                                                             press="onCeramica"
                                                                         />
                                                                     </FlexBox>
@@ -487,8 +490,8 @@
                                                                     >
                                                                         <Image
                                                                             src="https://ajpeliculas.com.br/Imagens/PELICULACERAMICA.png"
-                                                                            width="30%"
-                                                                            height="30%"
+                                                                            width="100px"
+                                                                            height="100px"
                                                                             press="onCeramica"
                                                                         />
                                                                     </FlexBox>
@@ -565,8 +568,8 @@
                                                                     >
                                                                         <Image
                                                                             src="https://ajpeliculas.com.br/Imagens/CAMERAIPHONE.png"
-                                                                            width="30%"
-                                                                            height="30%"
+                                                                            width="100px"
+                                                                            height="100px"
                                                                             press="onCameraIphone"
                                                                         />
                                                                     </FlexBox>
@@ -643,8 +646,8 @@
                                                                     >
                                                                         <Image
                                                                             src="https://ajpeliculas.com.br/Imagens/PELICULASCERAMICAPRIVACIDADE.png"
-                                                                            width="30%"
-                                                                            height="30%"
+                                                                            width="100px"
+                                                                            height="100px"
                                                                             press="onCeramicaPrivacidade"
                                                                         />
                                                                     </FlexBox>
@@ -721,8 +724,8 @@
                                                                     >
                                                                         <Image
                                                                             src="https://ajpeliculas.com.br/Imagens/PELICULASVIDRO.png"
-                                                                            width="30%"
-                                                                            height="30%"
+                                                                            width="100px"
+                                                                            height="100px"
                                                                             press="onModelosVidros"
                                                                         />
                                                                     </FlexBox>
@@ -799,8 +802,8 @@
                                                                     >
                                                                         <Image
                                                                             src="https://ajpeliculas.com.br/Imagens/PELICULATRASEIRACERAMICA.png"
-                                                                            width="30%"
-                                                                            height="30%"
+                                                                            width="100px"
+                                                                            height="100px"
                                                                             press="onTraseiraCeramica"
                                                                         />
                                                                     </FlexBox>
@@ -877,8 +880,8 @@
                                                                     >
                                                                         <Image
                                                                             src="https://ajpeliculas.com.br/Imagens/PROTETORCAMERA.png"
-                                                                            width="30%"
-                                                                            height="30%"
+                                                                            width="100px"
+                                                                            height="100px"
                                                                             press="onCameras"
                                                                         />
                                                                     </FlexBox>
@@ -919,7 +922,6 @@
                                 </f:FormContainer>
                             </f:formContainers>
                         </f:Form>
-                        
                     </IconTabFilter>
                     <IconTabFilter
                         key="Capas"
@@ -982,8 +984,8 @@
                                                                     >
                                                                         <Image
                                                                             src="https://ajpeliculas.com.br/Imagens/SILICON.png"
-                                                                            width="30%"
-                                                                            height="30%"
+                                                                            width="100px"
+                                                                            height="100px"
                                                                             press="onCapaSilicone"
                                                                         />
                                                                     </FlexBox>
@@ -1060,8 +1062,8 @@
                                                                     >
                                                                         <Image
                                                                             src="https://ajpeliculas.com.br/Imagens/CAPAANTICHOQUE.png"
-                                                                            width="30%"
-                                                                            height="30%"
+                                                                            width="100px"
+                                                                            height="100px"
                                                                             press="onAntiChoque"
                                                                         />
                                                                     </FlexBox>
@@ -1138,8 +1140,8 @@
                                                                     >
                                                                         <Image
                                                                             src="https://ajpeliculas.com.br/Imagens/CARTEIRA.png"
-                                                                            width="30%"
-                                                                            height="30%"
+                                                                            width="100px"
+                                                                            height="100px"
                                                                             press="onCarteira"
                                                                         />
                                                                     </FlexBox>
@@ -1216,8 +1218,8 @@
                                                                     >
                                                                         <Image
                                                                             src="https://ajpeliculas.com.br/Imagens/SPACE.png"
-                                                                            width="30%"
-                                                                            height="30%"
+                                                                            width="100px"
+                                                                            height="100px"
                                                                             press="onSpace"
                                                                         />
                                                                     </FlexBox>
@@ -1294,8 +1296,8 @@
                                                                     >
                                                                         <Image
                                                                             src="https://ajpeliculas.com.br/Imagens/MAGSAFE.png"
-                                                                            width="30%"
-                                                                            height="30%"
+                                                                            width="100px"
+                                                                            height="100px"
                                                                             press="onMegSafe"
                                                                         />
                                                                     </FlexBox>
@@ -1372,8 +1374,8 @@
                                                                     >
                                                                         <Image
                                                                             src="https://ajpeliculas.com.br/Imagens/CASEIPHONE.png"
-                                                                            width="30%"
-                                                                            height="30%"
+                                                                            width="100px"
+                                                                            height="100px"
                                                                             press="onCaseIphone"
                                                                         />
                                                                     </FlexBox>
@@ -1450,8 +1452,8 @@
                                                                     >
                                                                         <Image
                                                                             src="https://ajpeliculas.com.br/Imagens/CASEIPHONEABERTO.png"
-                                                                            width="30%"
-                                                                            height="30%"
+                                                                            width="100px"
+                                                                            height="100px"
                                                                             press="onCaseIphone"
                                                                         />
                                                                     </FlexBox>
@@ -1528,8 +1530,8 @@
                                                                     >
                                                                         <Image
                                                                             src="https://ajpeliculas.com.br/Imagens/GLASS.png"
-                                                                            width="30%"
-                                                                            height="30%"
+                                                                            width="100px"
+                                                                            height="100px"
                                                                             press="onAcrilocoGlass"
                                                                         />
                                                                     </FlexBox>
@@ -1606,8 +1608,8 @@
                                                                     >
                                                                         <Image
                                                                             src="https://ajpeliculas.com.br/Imagens/COURO.png"
-                                                                            width="30%"
-                                                                            height="30%"
+                                                                            width="100px"
+                                                                            height="100px"
                                                                             press="onCouroIP"
                                                                         />
                                                                     </FlexBox>
@@ -1684,8 +1686,8 @@
                                                                     >
                                                                         <Image
                                                                             src="https://ajpeliculas.com.br/Imagens/MegSafeColorida.png"
-                                                                            width="30%"
-                                                                            height="30%"
+                                                                            width="100px"
+                                                                            height="100px"
                                                                             press="onMegSafe"
                                                                         />
                                                                     </FlexBox>
@@ -1762,8 +1764,8 @@
                                                                     >
                                                                         <Image
                                                                             src="https://ajpeliculas.com.br/Imagens/MEGSAFECAMERA.png"
-                                                                            width="30%"
-                                                                            height="30%"
+                                                                            width="100px"
+                                                                            height="100px"
                                                                             press="onMegSafe"
                                                                         />
                                                                     </FlexBox>
@@ -1804,7 +1806,6 @@
                                 </f:FormContainer>
                             </f:formContainers>
                         </f:Form>
-                        
                     </IconTabFilter>
                     <IconTabFilter
                         key="Variedades"
@@ -1867,8 +1868,8 @@
                                                                     >
                                                                         <Image
                                                                             src="https://ajpeliculas.com.br/Imagens/PORTACARTAO.png"
-                                                                            width="30%"
-                                                                            height="30%"
+                                                                            width="100px"
+                                                                            height="100px"
                                                                             press=".onSelectProduct"
                                                                         />
                                                                     </FlexBox>
@@ -1945,8 +1946,8 @@
                                                                     >
                                                                         <Image
                                                                             src="https://ajpeliculas.com.br/Imagens/MICANGAS.png"
-                                                                            width="30%"
-                                                                            height="30%"
+                                                                            width="100px"
+                                                                            height="100px"
                                                                             press=".onSelectProduct"
                                                                         />
                                                                     </FlexBox>
@@ -2023,8 +2024,8 @@
                                                                     >
                                                                         <Image
                                                                             src="https://ajpeliculas.com.br/Imagens/POP_SOCKET.png"
-                                                                            width="30%"
-                                                                            height="30%"
+                                                                            width="100px"
+                                                                            height="100px"
                                                                             press=".onSelectProduct"
                                                                         />
                                                                     </FlexBox>
@@ -2101,8 +2102,8 @@
                                                                     >
                                                                         <Image
                                                                             src="https://ajpeliculas.com.br/Imagens/correntinhas.png"
-                                                                            width="30%"
-                                                                            height="30%"
+                                                                            width="100px"
+                                                                            height="100px"
                                                                             press=".onSelectProduct"
                                                                         />
                                                                     </FlexBox>
@@ -2167,7 +2168,7 @@
                                 />
                             </f:layout>
                             <f:formContainers>
-                            <f:FormContainer>
+                                <f:FormContainer>
                                     <f:formElements>
                                         <f:FormElement>
                                             <Panel>
@@ -2204,8 +2205,8 @@
                                                                     >
                                                                         <Image
                                                                             src="https://ajpeliculas.com.br/Imagens/Copos_Stanley16.png"
-                                                                            width="30%"
-                                                                            height="30%"
+                                                                            width="100px"
+                                                                            height="100px"
                                                                             press=".onSelectProduct"
                                                                         />
                                                                     </FlexBox>
@@ -2244,7 +2245,7 @@
                                         </f:FormElement>
                                     </f:formElements>
                                 </f:FormContainer>
-                            <f:FormContainer>
+                                <f:FormContainer>
                                     <f:formElements>
                                         <f:FormElement>
                                             <Panel>
@@ -2281,8 +2282,8 @@
                                                                     >
                                                                         <Image
                                                                             src="https://ajpeliculas.com.br/Imagens/KITSTANLEY.png"
-                                                                            width="30%"
-                                                                            height="30%"
+                                                                            width="100px"
+                                                                            height="100px"
                                                                             press=".onSelectProduct"
                                                                         />
                                                                     </FlexBox>
@@ -2359,8 +2360,8 @@
                                                                     >
                                                                         <Image
                                                                             src="https://ajpeliculas.com.br/Imagens/Copos_Stanley.png"
-                                                                            width="30%"
-                                                                            height="30%"
+                                                                            width="100px"
+                                                                            height="100px"
                                                                             press=".onSelectProduct"
                                                                         />
                                                                     </FlexBox>
@@ -2437,8 +2438,8 @@
                                                                     >
                                                                         <Image
                                                                             src="https://ajpeliculas.com.br/Imagens/Copo_Som.png"
-                                                                            width="30%"
-                                                                            height="30%"
+                                                                            width="100px"
+                                                                            height="100px"
                                                                             press=".onSelectProduct"
                                                                         />
                                                                     </FlexBox>
@@ -2515,8 +2516,8 @@
                                                                     >
                                                                         <Image
                                                                             src="https://ajpeliculas.com.br/Imagens/CanecaStanley.png"
-                                                                            width="30%"
-                                                                            height="30%"
+                                                                            width="100px"
+                                                                            height="100px"
                                                                             press=".onSelectProduct"
                                                                         />
                                                                     </FlexBox>
@@ -2593,8 +2594,8 @@
                                                                     >
                                                                         <Image
                                                                             src="https://ajpeliculas.com.br/Imagens/PortaLongNeck.png"
-                                                                            width="30%"
-                                                                            height="30%"
+                                                                            width="100px"
+                                                                            height="100px"
                                                                             press=".onSelectProduct"
                                                                         />
                                                                     </FlexBox>
@@ -2671,8 +2672,8 @@
                                                                     >
                                                                         <Image
                                                                             src="https://ajpeliculas.com.br/Imagens/GarrafaStanley.png"
-                                                                            width="30%"
-                                                                            height="30%"
+                                                                            width="100px"
+                                                                            height="100px"
                                                                             press=".onSelectProduct"
                                                                         />
                                                                     </FlexBox>
@@ -2749,8 +2750,8 @@
                                                                     >
                                                                         <Image
                                                                             src="https://ajpeliculas.com.br/Imagens/GarrafaStanleyTampa.png"
-                                                                            width="30%"
-                                                                            height="30%"
+                                                                            width="100px"
+                                                                            height="100px"
                                                                             press=".onSelectProduct"
                                                                         />
                                                                     </FlexBox>
@@ -2827,8 +2828,8 @@
                                                                     >
                                                                         <Image
                                                                             src="https://ajpeliculas.com.br/Imagens/KIT3GARRAFAS.png"
-                                                                            width="30%"
-                                                                            height="30%"
+                                                                            width="100px"
+                                                                            height="100px"
                                                                             press=".onSelectProduct"
                                                                         />
                                                                     </FlexBox>
@@ -2905,8 +2906,8 @@
                                                                     >
                                                                         <Image
                                                                             src="https://ajpeliculas.com.br/Imagens/GarrafaTermicaStanley.png"
-                                                                            width="30%"
-                                                                            height="30%"
+                                                                            width="100px"
+                                                                            height="100px"
                                                                             press=".onSelectProduct"
                                                                         />
                                                                     </FlexBox>
@@ -2983,8 +2984,8 @@
                                                                     >
                                                                         <Image
                                                                             src="https://ajpeliculas.com.br/Imagens/GarrafaTermicaBico.png"
-                                                                            width="30%"
-                                                                            height="30%"
+                                                                            width="100px"
+                                                                            height="100px"
                                                                             press=".onSelectProduct"
                                                                         />
                                                                     </FlexBox>
@@ -3061,8 +3062,8 @@
                                                                     >
                                                                         <Image
                                                                             src="https://ajpeliculas.com.br/Imagens/GarrafaTermicaStanleyNew.png"
-                                                                            width="30%"
-                                                                            height="30%"
+                                                                            width="100px"
+                                                                            height="100px"
                                                                             press=".onSelectProduct"
                                                                         />
                                                                     </FlexBox>
@@ -3139,8 +3140,8 @@
                                                                     >
                                                                         <Image
                                                                             src="https://ajpeliculas.com.br/Imagens/GarrafaPlastico.png"
-                                                                            width="30%"
-                                                                            height="30%"
+                                                                            width="100px"
+                                                                            height="100px"
                                                                             press=".onSelectProduct"
                                                                         />
                                                                     </FlexBox>
@@ -3217,8 +3218,8 @@
                                                                     >
                                                                         <Image
                                                                             src="https://ajpeliculas.com.br/Imagens/GarrafaPlastico2.png"
-                                                                            width="30%"
-                                                                            height="30%"
+                                                                            width="100px"
+                                                                            height="100px"
                                                                             press=".onSelectProduct"
                                                                         />
                                                                     </FlexBox>

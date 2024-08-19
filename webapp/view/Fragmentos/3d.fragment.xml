@@ -16,7 +16,6 @@
                 selectionMode="None"
                 enableSelectAll="false"
                 ariaLabelledBy="title"
-                visibleRowCount="10"
                 alternateRowColors="true"
             >
                 <table:columns>

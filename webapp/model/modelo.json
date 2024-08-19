@@ -1,0 +1,2784 @@
+{
+	"d": [
+		{"Modelo": "Xiaomi","Categoria": 
+			[
+                {"Modelo": "Pocophone F1","Valor": "R$ 1,50"},
+                {"Modelo": "RED MI GO","Valor": "R$ 1,50"},
+                {"Modelo": "RED MI S2","Varlor": "R$ 1,50"},
+                {"Modelo": "XIAO MI A3","Varlor": "R$ 1,50"},
+                {"Modelo": "XIAO MI A3 LITE","Varlor": "R$ 1,50"},
+                {"Modelo": "RED MI 6/6A","Varlor": "R$ 1,50"},
+                {"Modelo": "XIAO MI NOTE 6 PRO","Varlor": "R$ 1,50"},
+                {"Modelo": "RED MI 7","Varlor": "R$ 1,50"},
+                {"Modelo": "RED MI 7A","Varlor": "R$ 1,50"},
+                {"Modelo": "RED MI NOTE 7/NOTE PRO","Varlor": "R$ 1,50"},
+                {"Modelo": "XIAO MI 8","Varlor": "R$ 1,50"},
+                {"Modelo": "RED MI 8/8A","Varlor": "R$ 1,50"},
+                {"Modelo": "XIAO MI 8 LITE / NOTE 6","Varlor": "R$ 1,50"},
+                {"Modelo": "XIAO MI 8 PRO","Varlor": "R$ 1,50"},
+                {"Modelo": "RED MI NOTE 8","Varlor": "R$ 1,50"},
+                {"Modelo": "RED MI NOTE 8 2021","Varlor": "R$ 1,50"},
+                {"Modelo": "XIAO MI NOTE 8T","Varlor": "R$ 1,50"},
+                {"Modelo": "XIAO MI NOTE 8 PRO","Varlor": "R$ 1,50"},
+                {"Modelo": "XIAO MI 9/9 LITE","Varlor": "R$ 1,50"},
+                {"Modelo": "XIAO MI 9/9 PRO","Varlor": "R$ 1,50"},
+                {"Modelo": "XIAO MI 9T/9T PRO","Varlor": "R$ 1,50"},
+                {"Modelo": "RED MI 9","Varlor": "R$ 1,50"},
+                {"Modelo": "RED MI 9A/9C","Varlor": "R$ 1,50"},
+                {"Modelo": "RED MI NOTE 9","Varlor": "R$ 1,50"},
+                {"Modelo": "NOTE 9S/NOTE 9 PRO/ NOTE 9 PRO MAX","Varlor": "R$ 1,50"},
+                {"Modelo": "RED MI 9T / 9 POWER","Varlor": "R$ 1,50"},
+                {"Modelo": "XIAO MI NOTE 9T","Varlor": "R$ 1,50"},
+                {"Modelo": "RED MI NOTE 10","Varlor": "R$ 1,50"},
+                {"Modelo": "RED MI NOTE 10S","Varlor": "R$ 1,50"},
+                {"Modelo": "RED MI NOTE 10S 5G","Varlor": "R$ 1,50"},
+                {"Modelo": "XIAO MI 10T LITE","Varlor": "R$ 1,50"},
+                {"Modelo": "RED MI NOTE 10 PRO / NOTE 10 PRO MAX","Varlor": "R$ 1,50"},
+                {"Modelo": "XIAOMI MI POCO C3","Varlor": "R$ 1,50"},
+                {"Modelo": "XIAOMI MI POCO M3","Varlor": "R$ 1,50"},
+                {"Modelo": "XIAOMI MI POCO F3","Varlor": "R$ 1,50"},
+                {"Modelo": "XIAOMI MI POCO X3","Varlor": "R$ 1,50"},
+                {"Modelo": "XIAOMI MI POCO X3 PRO","Varlor": "R$ 1,50"},
+                {"Modelo": "XIAOMI MI POCO M3 PRO","Varlor": "R$ 1,50"},
+                {"Modelo": "XIAOMI MI POCO M3 PRO 5G","Varlor": "R$ 1,50"}
+            ]
+        },
+        {"Modelo": "Apple","Categoria": 
+			[
+                {"Modelo": "6 PRETO","Varlor": "R$ 3,85"},
+                {"Modelo": "7 / 8 PRETO","Varlor": "R$ 3,85"},
+                {"Modelo": "6 BRANCO","Varlor": "R$ 3,85"},
+                {"Modelo": "7 / 8 BRANCO","Varlor": "R$ 3,85"},
+                {"Modelo": "6 PLUS PRETO","Varlor": "R$ 3,85"},
+                {"Modelo": "7 / 8 PLUS PRETO","Varlor": "R$ 3,85"},
+                {"Modelo": "6 PLUS BRANCO","Varlor": "R$ 3,85"},
+                {"Modelo": "7 / 8 PLUS BRANCO","Varlor": "R$ 3,85"},
+                {"Modelo": "X","Varlor": "R$ 3,85"},
+                {"Modelo": "XS","Varlor": "R$ 3,85"},
+                {"Modelo": "XS MAX","Varlor": "R$ 3,85"},
+                {"Modelo": "11","Varlor": "R$ 3,85"},
+                {"Modelo": "11 PRO","Varlor": "R$ 3,85"},
+                {"Modelo": "11 PRO MAX","Varlor": "R$ 3,85"},
+                {"Modelo": "12 MINI","Varlor": "R$ 3,85"},
+                {"Modelo": "12 / 12 PRO","Varlor": "R$ 3,85"},
+                {"Modelo": "12 PRO MAX","Varlor": "R$ 3,85"},
+                {"Modelo": "13 MINI","Varlor": "R$ 3,85"},
+                {"Modelo": "13 / 13 PRO","Varlor": "R$ 3,85"},
+                {"Modelo": "13 PRO MAX","Varlor": "R$ 3,85"},
+                {"Modelo": "14","Varlor": "R$ 3,85"},
+                {"Modelo": "14 PLUS","Varlor": "R$ 3,85"},
+                {"Modelo": "14 PRO","Varlor": "R$ 3,85"},
+                {"Modelo": "14 PRO MAX","Varlor": "R$ 3,85"},
+                {"Modelo": "15","Varlor": "R$ 3,85"},
+                {"Modelo": "15 PLUS","Varlor": "R$ 3,85"},
+                {"Modelo": "15 PRO","Varlor": "R$ 3,85"},
+                {"Modelo": "15 PRO MAX","Varlor": "R$ 3,85"}
+            ]
+        },
+        {"Modelo": "Samsumg","Categoria": 
+			[
+                {"Modelo": "A7 2018","Varlor": "R$ 1,50"},
+				{"Modelo": "A8 2018","Varlor": "R$ 1,50"},
+				{"Modelo": "A8 PLUS","Varlor": "R$ 1,50"},
+				{"Modelo": "A9 2018","Varlor": "R$ 1,50"},
+				{"Modelo": "A10","Varlor": "R$ 1,50"},
+				{"Modelo": "A20/A30/A50","Varlor": "R$ 1,50"},
+				{"Modelo": "A70","Varlor": "R$ 1,50"},
+				{"Modelo": "A80/A90","Varlor": "R$ 1,50"},
+				{"Modelo": "M10","Varlor": "R$ 1,50"},
+				{"Modelo": "M20","Varlor": "R$ 1,50"},
+				{"Modelo": "M21/M31","Varlor": "R$ 1,50"},
+				{"Modelo": "M21S","Varlor": "R$ 1,50"},
+				{"Modelo": "M30","Varlor": "R$ 1,50"},
+				{"Modelo": "M31","Varlor": "R$ 1,50"},
+				{"Modelo": "M51","Varlor": "R$ 1,50"},
+				{"Modelo": "M71","Varlor": "R$ 1,50"},
+				{"Modelo": "GALAXY S10E","Varlor": "R$ 1,50"},
+				{"Modelo": "GALAXY A81/ NOTE 10 LITE","Varlor": "R$ 1,50"},
+				{"Modelo": "GALAXY A91/S10 LITE","Varlor": "R$ 1,50"},
+				{"Modelo": "GALAXY S21","Varlor": "R$ 1,50"},
+				{"Modelo": "S21 PLUS","Varlor": "R$ 1,50"},
+				{"Modelo": "J2 PRIME","Varlor": "R$ 1,50"},
+				{"Modelo": "J2 CORE","Varlor": "R$ 1,50"},
+				{"Modelo": "J4","Varlor": "R$ 1,50"},
+				{"Modelo": "J4 PLUS/J4 CORE","Varlor": "R$ 1,50"},
+				{"Modelo": "J5 PRIME (P)","Varlor": "R$ 1,50"},
+				{"Modelo": "J5 PRIME (B)","Varlor": "R$ 1,50"},
+				{"Modelo": "J5 PRO (P)","Varlor": "R$ 1,50"},
+				{"Modelo": "J5 PRO (B)","Varlor": "R$ 1,50"},
+				{"Modelo": "J5 PRO (D)","Varlor": "R$ 1,50"},
+				{"Modelo": "J6","Varlor": "R$ 1,50"},
+				{"Modelo": "J6 PLUS / J6 PRIME","Varlor": "R$ 1,50"},
+				{"Modelo": "J7","Varlor": "R$ 1,50"},
+				{"Modelo": "J7 PRIME (P)","Varlor": "R$ 1,50"},
+				{"Modelo": "J7 PRIME (B)","Varlor": "R$ 1,50"},
+				{"Modelo": "J7 PRO (P)","Varlor": "R$ 1,50"},
+				{"Modelo": "J7 PRO (B)","Varlor": "R$ 1,50"},
+				{"Modelo": "J7 (D)","Varlor": "R$ 1,50"},
+				{"Modelo": "J8","Varlor": "R$ 1,50"},
+				{"Modelo": "M02","Varlor": "R$ 1,50"},
+				{"Modelo": "M02S","Varlor": "R$ 1,50"},
+				{"Modelo": "M02S","Varlor": "R$ 1,50"},
+				{"Modelo": "M12","Varlor": "R$ 1,50"},
+				{"Modelo": "M31S","Varlor": "R$ 1,50"},
+				{"Modelo": "M32 (4G)","Varlor": "R$ 1,50"},
+				{"Modelo": "M42 (5G)","Varlor": "R$ 1,50"},
+				{"Modelo": "M52","Varlor": "R$ 1,50"},
+				{"Modelo": "M62","Varlor": "R$ 1,50"},
+				{"Modelo": "A02","Varlor": "R$ 1,50"},
+				{"Modelo": "A02S","Varlor": "R$ 1,50"},
+				{"Modelo": "A12","Varlor": "R$ 1,50"},
+				{"Modelo": "A22 (4G)","Varlor": "R$ 1,50"},
+				{"Modelo": "A22 (5G)","Varlor": "R$ 1,50"},
+				{"Modelo": "A32 (4G)","Varlor": "R$ 1,50"},
+				{"Modelo": "A52","Varlor": "R$ 1,50"},
+				{"Modelo": "A72","Varlor": "R$ 1,50"},
+				{"Modelo": "S20FE","Varlor": "R$ 1,50"},
+				{"Modelo": "S21 FE","Varlor": "R$ 1,50"},
+				{"Modelo": "F02","Varlor": "R$ 1,50"},
+				{"Modelo": "F02S","Varlor": "R$ 1,50"},
+				{"Modelo": "F12","Varlor": "R$ 1,50"},
+				{"Modelo": "F42","Varlor": "R$ 1,50"},
+				{"Modelo": "F52","Varlor": "R$ 1,50"},
+				{"Modelo": "F62","Varlor": "R$ 1,50"}
+            ]
+        },
+        {"Modelo": "Motorola","Categoria": 
+			[
+				{"Modelo": "Z2 PLAY","Varlor": "R$ 1,50"},
+				{"Modelo": "Z3 PLAY (P)","Varlor": "R$ 1,50"},
+				{"Modelo": "Z3 PLAY (B)","Varlor": "R$ 1,50"},
+				{"Modelo": "Z4 PLAY","Varlor": "R$ 1,50"},
+				{"Modelo": "ONE","Varlor": "R$ 1,50"},
+				{"Modelo": "ONE VISION","Varlor": "R$ 1,50"},
+				{"Modelo": "ONE ACTION","Varlor": "R$ 1,50"},
+				{"Modelo": "ONE ZOOM","Varlor": "R$ 1,50"},
+				{"Modelo": "ONE MACRO","Varlor": "R$ 1,50"},
+				{"Modelo": "ONE HYPER","Varlor": "R$ 1,50"},
+				{"Modelo": "ONE FUSION","Varlor": "R$ 1,50"},
+				{"Modelo": "ONE FUSION PLUS","Varlor": "R$ 1,50"},
+				{"Modelo": "E 2020","Varlor": "R$ 1,50"},
+				{"Modelo": "E5 PLAY","Varlor": "R$ 1,50"},
+				{"Modelo": "E6","Varlor": "R$ 1,50"},
+				{"Modelo": "E6 PLAY","Varlor": "R$ 1,50"},
+				{"Modelo": "E6 PLUS","Varlor": "R$ 1,50"},
+				{"Modelo": "E6S","Varlor": "R$ 1,50"},
+				{"Modelo": "E6I","Varlor": "R$ 1,50"},
+				{"Modelo": "G5","Varlor": "R$ 1,50"},
+				{"Modelo": "G5 PLUS","Varlor": "R$ 1,50"},
+				{"Modelo": "G5S","Varlor": "R$ 1,50"},
+				{"Modelo": "G5S PLUS","Varlor": "R$ 1,50"},
+				{"Modelo": "G6","Varlor": "R$ 1,50"},
+				{"Modelo": "G6 PLAY/E5 (P)","Varlor": "R$ 1,50"},
+				{"Modelo": "G6 PLAY/E5 (D)","Varlor": "R$ 1,50"},
+				{"Modelo": "G6 PLUS","Varlor": "R$ 1,50"},
+				{"Modelo": "G7/G7 PLUS","Varlor": "R$ 1,50"},
+				{"Modelo": "G7 PLAY","Varlor": "R$ 1,50"},
+				{"Modelo": "G7 POWER","Varlor": "R$ 1,50"},
+				{"Modelo": "G8","Varlor": "R$ 1,50"},
+				{"Modelo": "G8 PLAY","Varlor": "R$ 1,50"},
+				{"Modelo": "G8 PLUS","Varlor": "R$ 1,50"},
+				{"Modelo": "G8 POWER","Varlor": "R$ 1,50"},
+				{"Modelo": "G8 POWER LITE","Varlor": "R$ 1,50"},
+				{"Modelo": "G9","Varlor": "R$ 1,50"},
+				{"Modelo": "G9 PLAY","Varlor": "R$ 1,50"},
+				{"Modelo": "G9 PLUS","Varlor": "R$ 1,50"},
+				{"Modelo": "G9 POWER","Varlor": "R$ 1,50"},
+				{"Modelo": "G FAST","Varlor": "R$ 1,50"},
+				{"Modelo": "G PRO","Varlor": "R$ 1,50"},
+				{"Modelo": "G STYLUS","Varlor": "R$ 1,50"},
+				{"Modelo": "G POWER","Varlor": "R$ 1,50"},
+				{"Modelo": "G10","Varlor": "R$ 1,50"},
+				{"Modelo": "G10 PLAY","Varlor": "R$ 1,50"},
+				{"Modelo": "G10 POWER","Varlor": "R$ 1,50"},
+				{"Modelo": "G20","Varlor": "R$ 1,50"},
+				{"Modelo": "G30","Varlor": "R$ 1,50"},
+				{"Modelo": "G40 FUSION","Varlor": "R$ 1,50"},
+				{"Modelo": "G41","Varlor": "R$ 1,50"},
+				{"Modelo": "G50","Varlor": "R$ 1,50"},
+				{"Modelo": "G51","Varlor": "R$ 1,50"},
+				{"Modelo": "G60","Varlor": "R$ 1,50"},
+				{"Modelo": "G60S","Varlor": "R$ 1,50"},
+				{"Modelo": "G100","Varlor": "R$ 1,50"},
+				{"Modelo": "E7 PLAY","Varlor": "R$ 1,50"},
+				{"Modelo": "E7 PLUS","Varlor": "R$ 1,50"},
+				{"Modelo": "E7 POWER","Varlor": "R$ 1,50"},
+				{"Modelo": "E7 2021","Varlor": "R$ 1,50"},
+				{"Modelo": "E7 iPOWER","Varlor": "R$ 1,50"},
+				{"Modelo": "EDGE","Varlor": "R$ 1,50"},
+				{"Modelo": "EDGE S","Varlor": "R$ 1,50"},
+				{"Modelo": "G20","Varlor": "R$ 1,50"}
+            ]
+        },
+        {"Modelo": "LG","Categoria": 
+			[
+				{"Modelo": "K8 PLUS","Varlor": "R$ 1,50"},
+				{"Modelo": "K9","Varlor": "R$ 1,50"},
+				{"Modelo": "10","Varlor": "R$ 1,50"},
+				{"Modelo": "K10 POWER","Varlor": "R$ 1,50"},
+				{"Modelo": "K10 2017","Varlor": "R$ 1,50"},
+				{"Modelo": "K11 / K11 PLUS / K10 2018","Varlor": "R$ 1,50"},
+				{"Modelo": "K12 / K12 PLUS / K40","Varlor": "R$ 1,50"},
+				{"Modelo": "K12 MAX / K12 PRIME / K50","Varlor": "R$ 1,50"},
+				{"Modelo": "K22 / K22 PLUS","Varlor": "R$ 1,50"},
+				{"Modelo": "K40S","Varlor": "R$ 1,50"},
+				{"Modelo": "K41S","Varlor": "R$ 1,50"},
+				{"Modelo": "K42 / K52 / K62","Varlor": "R$ 1,50"},
+				{"Modelo": "K50S","Varlor": "R$ 1,50"},
+				{"Modelo": "K51S","Varlor": "R$ 1,50"},
+				{"Modelo": "K61","Varlor": "R$ 1,50"},
+				{"Modelo": "K71","Varlor": "R$ 1,50"}
+            ]
+        },
+        {"Modelo": "ASUS","Categoria": 
+			[
+				{"Modelo": "ZF LIVE 2017 ( ZB501KL )","Varlor": "R$ 1,50"},
+				{"Modelo": "ZF LIVE L1 ( ZA550KL )","Varlor": "R$ 1,50"},
+				{"Modelo": "ZF LIVE L2 ( ZB556KL )","Varlor": "R$ 1,50"},
+				{"Modelo": "ZF MAX M1 ( ZB555KL )","Varlor": "R$ 1,50"},
+				{"Modelo": "ZF MAX M2 ( ZB633KL )","Varlor": "R$ 1,50"},
+				{"Modelo": "ZF MAX PRO M1 ( ZB601KL / ZB602KL )","Varlor": "R$ 1,50"},
+				{"Modelo": "ZF MAX PLUS M1 ( ZB570KL )","Varlor": "R$ 1,50"},
+				{"Modelo": "ZF MAX PRO M2 ( ZB631KL )","Varlor": "R$ 1,50"},
+				{"Modelo": "ZF 5Z ( ZB620KL )","Varlor": "R$ 1,50"},
+				{"Modelo": "ZF 5 SELFE ( ZB600KL )","Varlor": "R$ 1,50"},
+				{"Modelo": "ZF MAX SHOT / MAX PLUS M2 ( ZB634KL )","Varlor": "R$ 1,50"},
+				{"Modelo": "ZF 6 ( ZB630KL )","Varlor": "R$ 1,50"}
+            ]
+        }, 
+		{"Modelo": "REALME","Categoria": 
+			[
+				{"Modelo": "C11","Varlor": "R$ 1,50"},
+				{"Modelo": "C25","Varlor": "R$ 1,50"},
+				{"Modelo": "6 PRO","Varlor": "R$ 1,50"},
+				{"Modelo": "7","Varlor": "R$ 1,50"},
+				{"Modelo": "7 5G","Varlor": "R$ 1,50"},
+				{"Modelo": "7 PRO","Varlor": "R$ 1,50"},
+				{"Modelo": "8 5G","Varlor": "R$ 1,50"},
+				{"Modelo": "8 PRO","Varlor": "R$ 1,50"},
+				{"Modelo": "XT","Varlor": "R$ 1,50"},
+				{"Modelo": "GT 5G","Varlor": "R$ 1,50"}
+            ]
+        }
+    ],
+    "Dnova": [
+        {"Modelo": "Xiaomi","Categoria": 
+			[
+				{"Modelo": "POCO X3 GT","Varlor": "R$ 2,80"},
+				{"Modelo": "REDMI NOTE 11","Varlor": "R$ 2,80"},
+				{"Modelo": "XIAO MI 11","Varlor": "R$ 2,80"},
+				{"Modelo": "XIAO MI 11 LITE","Varlor": "R$ 2,80"},
+				{"Modelo": "XIAO MI 11X","Varlor": "R$ 2,80"},
+				{"Modelo": "XIAO MI 11T","Varlor": "R$ 2,80"},
+				{"Modelo": "XIAO MI 11 ULTRA","Varlor": "R$ 2,80"},
+				{"Modelo": "XM POCO M4","Varlor": "R$ 2,80"},
+				{"Modelo": "13C","Varlor": "R$ 2,80"},
+				{"Modelo": "12 T","Varlor": "R$ 2,80"},
+				{"Modelo": "14","Varlor": "R$ 2,80"}
+            ]
+        },
+        {"Modelo": "Apple","Categoria": 
+			[
+				{"Modelo": "13 MINI (5.4)","Varlor": "R$ 2,80"},
+				{"Modelo": "13 / 13 PRO (6.1)","Varlor": "R$ 2,80"},
+				{"Modelo": "13 / 13 PRO MAX(6.7)","Varlor": "R$ 2,80"},
+				{"Modelo": "14","Varlor": "R$ 2,80"},
+				{"Modelo": "14 PRO","Varlor": "R$ 2,80"},
+				{"Modelo": "14 PRO MAX","Varlor": "R$ 2,80"},
+				{"Modelo": "14 MAX / 14 PLUS","Varlor": "R$ 2,80"},
+				{"Modelo": "15","Varlor": "R$ 2,80"},
+				{"Modelo": "15 PRO","Varlor": "R$ 2,80"},
+				{"Modelo": "15 PRO MAX","Varlor": "R$ 2,80"},
+				{"Modelo": "15 PLUS","Varlor": "R$ 2,80"}
+            ]
+        },
+        {"Modelo": "Samsumg","Categoria": 
+			[
+				{"Modelo": "A03","Varlor": "R$ 2,80"},
+				{"Modelo": "A03S","Varlor": "R$ 2,80"},
+				{"Modelo": "A03CORE","Varlor": "R$ 2,80"},
+				{"Modelo": "A13 4G/A13 5G","Varlor": "R$ 2,80"},
+				{"Modelo": "A23","Varlor": "R$ 2,80"},
+				{"Modelo": "A33","Varlor": "R$ 2,80"},
+				{"Modelo": "A52S 5G","Varlor": "R$ 2,80"},
+				{"Modelo": "A53","Varlor": "R$ 2,80"},
+				{"Modelo": "A73","Varlor": "R$ 2,80"},
+				{"Modelo": "S22","Varlor": "R$ 2,80"},
+				{"Modelo": "S22 PLUS","Varlor": "R$ 2,80"},
+				{"Modelo": "S22 ULTRA","Varlor": "R$ 2,80"},
+				{"Modelo": "A52","Varlor": "R$ 2,80"},
+				{"Modelo": "A54","Varlor": "R$ 2,80"},
+				{"Modelo": "A55","Varlor": "R$ 2,80"},
+				{"Modelo": "A15","Varlor": "R$ 2,80"},
+				{"Modelo": "A25","Varlor": "R$ 2,80"},
+				{"Modelo": "A32","Varlor": "R$ 2,80"},
+				{"Modelo": "A53","Varlor": "R$ 2,80"},
+				{"Modelo": "A13","Varlor": "R$ 2,80"},
+				{"Modelo": "A24","Varlor": "R$ 2,80"},
+				{"Modelo": "A14","Varlor": "R$ 2,80"},
+				{"Modelo": "A72","Varlor": "R$ 2,80"},
+				{"Modelo": "S24","Varlor": "R$ 2,80"},
+				{"Modelo": "S24 PLUS","Varlor": "R$ 2,80"},
+				{"Modelo": "S24 ULTRA","Varlor": "R$ 2,80"},
+				{"Modelo": "A05","Varlor": "R$ 2,80"},
+				{"Modelo": "A15","Varlor": "R$ 2,80"},
+				{"Modelo": "M34","Varlor": "R$ 2,80"},
+				{"Modelo": "A05S","Varlor": "R$ 2,80"},
+				{"Modelo": "A04E","Varlor": "R$ 2,80"},
+				{"Modelo": "A25","Varlor": "R$ 2,80"},
+				{"Modelo": "A53","Varlor": "R$ 2,80"},
+				{"Modelo": "A05","Varlor": "R$ 2,80"}
+            ]
+		},
+        {"Modelo": "Motorola","Categoria": 
+			[
+				{"Modelo": "E20","Varlor": "R$ 2,80"},
+				{"Modelo": "E30","Varlor": "R$ 2,80"},
+				{"Modelo": "E40","Varlor": "R$ 2,80"},
+				{"Modelo": "EDGE 20","Varlor": "R$ 2,80"},
+				{"Modelo": "EDGE 20 LITE","Varlor": "R$ 2,80"},
+				{"Modelo": "EDGE 20 PRO","Varlor": "R$ 2,80"},
+				{"Modelo": "EDGE 30","Varlor": "R$ 2,80"},
+				{"Modelo": "EDGE 30 PRO","Varlor": "R$ 2,80"},
+				{"Modelo": "G22","Varlor": "R$ 2,80"},
+				{"Modelo": "G31","Varlor": "R$ 2,80"},
+				{"Modelo": "G41","Varlor": "R$ 2,80"},
+				{"Modelo": "G71","Varlor": "R$ 2,80"},
+				{"Modelo": "G82","Varlor": "R$ 2,80"},
+				{"Modelo": "G62","Varlor": "R$ 2,80"},
+				{"Modelo": "G200","Varlor": "R$ 2,80"},
+				{"Modelo": "G24","Varlor": "R$ 2,80"}, 
+				{"Modelo": "G43","Varlor": "R$ 2,80"},
+				{"Modelo": "G54","Varlor": "R$ 2,80"}, 
+				{"Modelo": "G14","Varlor": "R$ 2,80"}, 
+				{"Modelo": "G13","Varlor": "R$ 2,80"}, 
+				{"Modelo": "G53","Varlor": "R$ 2,80"}, 
+				{"Modelo": "G50","Varlor": "R$ 2,80"}, 
+				{"Modelo": "G60","Varlor": "R$ 2,80"}, 
+				{"Modelo": "G51","Varlor": "R$ 2,80"}, 
+				{"Modelo": "G32","Varlor": "R$ 2,80"}, 
+				{"Modelo": "G54","Varlor": "R$ 2,80"},
+				{"Modelo": "G71","Varlor": "R$ 2,80"},
+				{"Modelo": "G73","Varlor": "R$ 2,80"},
+				{"Modelo": "G34","Varlor": "R$ 2,80"},
+				{"Modelo": "EDGE 40","Varlor": "R$ 2,80"},
+				{"Modelo": "EDGE 40 PRO","Varlor": "R$ 2,80"},
+				{"Modelo": "EDGE 40 NEO","Varlor": "R$ 2,80"},
+				{"Modelo": "G04","Varlor": "R$ 2,80"},
+				{"Modelo": "E 6S","Varlor": "R$ 2,80"}
+            ]
+		}
+    ],
+    "Privacidade": [
+		{"Modelo": "Apple","Categoria": 
+			[
+				{"Modelo": "6 PRETO","Varlor": "R$ 3,85"},
+				{"Modelo": "7 / 8 PRETO","Varlor": "R$ 3,85"},
+				{"Modelo": "6 BRANCO","Varlor": "R$ 3,85"},
+				{"Modelo": "7 / 8 BRANCO","Varlor": "R$ 3,85"},
+				{"Modelo": "6 PLUS PRETO","Varlor": "R$ 3,85"},
+				{"Modelo": "7 / 8 PLUS PRETO","Varlor": "R$ 3,85"},
+				{"Modelo": "6 PLUS BRANCO","Varlor": "R$ 3,85"},
+				{"Modelo": "7 / 8 PLUS BRANCO","Varlor": "R$ 3,85"},
+				{"Modelo": "X","Varlor": "R$ 3,85"},
+				{"Modelo": "XS","Varlor": "R$ 3,85"},
+				{"Modelo": "XS MAX","Varlor": "R$ 3,85"},
+				{"Modelo": "11","Varlor": "R$ 3,85"},
+				{"Modelo": "11 PRO","Varlor": "R$ 3,85"},
+				{"Modelo": "11 PRO MAX","Varlor": "R$ 3,85"},
+				{"Modelo": "12 MINI","Varlor": "R$ 3,85"},
+				{"Modelo": "12 / 12 PRO","Varlor": "R$ 3,85"},
+				{"Modelo": "12 PRO MAX","Varlor": "R$ 3,85"},
+				{"Modelo": "13 MINI","Varlor": "R$ 3,85"},
+				{"Modelo": "13 / 13 PRO","Varlor": "R$ 3,85"},
+				{"Modelo": "13 PRO MAX","Varlor": "R$ 3,85"},
+				{"Modelo": "14","Varlor": "R$ 3,85"},
+				{"Modelo": "14 PLUS","Varlor": "R$ 3,85"},
+				{"Modelo": "14 PRO","Varlor": "R$ 3,85"},
+				{"Modelo": "14 PRO MAX","Varlor": "R$ 3,85"},
+				{"Modelo": "15","Varlor": "R$ 3,85"},
+				{"Modelo": "15 PLUS","Varlor": "R$ 3,85"},
+				{"Modelo": "15 PRO","Varlor": "R$ 3,85"},
+				{"Modelo": "15 PRO MAX","Varlor": "R$ 3,85"}
+			]
+		},
+		{"Modelo": "Xiaomi","Categoria": 
+			[
+				{"Modelo": "Poco X3","Varlor": "R$ 4,60"},
+				{"Modelo": "Poxo X3 Pro","Varlor": "R$ 4,60"},
+				{"Modelo": "Poco F3","Varlor": "R$ 4,60"},
+				{"Modelo": "Poco C3","Varlor": "R$ 4,60"},
+				{"Modelo": "Poco M2","Varlor": "R$ 4,60"},
+				{"Modelo": "Poco M3","Varlor": "R$ 4,60"},
+				{"Modelo": "Mi S2","Varlor": "R$ 4,60"},
+				{"Modelo": "Redmi Note 7","Varlor": "R$ 4,60"},
+				{"Modelo": "Xiao MI 8 Lite","Varlor": "R$ 4,60"},
+				{"Modelo": "Redmi 8/8A","Varlor": "R$ 4,60"},
+				{"Modelo": "Xiao MI Note 8","Varlor": "R$ 4,60"},
+				{"Modelo": "Xiao MI Note 8 PRO","Varlor": "R$ 4,60"},
+				{"Modelo": "MI 9/ MI9 LITE","Varlor": "R$ 4,60"},
+				{"Modelo": "MI 9 SE","Varlor": "R$ 4,60"},
+				{"Modelo": "Redmi Note 7","Varlor": "R$ 4,60"},
+				{"Modelo": "Redmi 9","Varlor": "R$ 4,60"},
+				{"Modelo": "Redmi 9A/9C","Varlor": "R$ 4,60"},
+				{"Modelo": "Redmi Note 9","Varlor": "R$ 4,60"},
+				{"Modelo": "Redmi Note 9/NOTE 9T","Varlor": "R$ 4,60"},
+				{"Modelo": "Xiao MI 9 PRO","Varlor": "R$ 4,60"},
+				{"Modelo": "REDMI NOTE 9S/NOTE 9 PRO","Varlor": "R$ 4,60"},
+				{"Modelo": "Redmi 10","Varlor": "R$ 4,60"},
+				{"Modelo": "XIAO MI 10T","Varlor": "R$ 4,60"},
+				{"Modelo": "XIAO MI 10T LITE","Varlor": "R$ 4,60"},
+				{"Modelo": "REDMI NOTE 10/NOTE 10S","Varlor": "R$ 4,60"},
+				{"Modelo": "REDMI NOTE 10 PRO/NOTE","Varlor": "R$ 4,60"},
+				{"Modelo": "REDMI 11i","Varlor": "R$ 4,60"},
+				{"Modelo": "REDMI 11 LITE","Varlor": "R$ 4,60"},
+				{"Modelo": "REDMI NOTE 11 4G","Varlor": "R$ 4,60"}
+			]
+		}, 
+		{"Modelo": "LG","Categoria": 
+			[
+				{"Modelo": "K42/K52/K62","Varlor": "R$ 4,60"}
+			]
+		}, 
+		{"Modelo": "SAMSUNG","Categoria": 
+			[
+				{"Modelo": "A03 CORE","Varlor": "R$ 4,60"},
+				{"Modelo": "M22","Varlor": "R$ 4,60"},
+				{"Modelo": "M52","Varlor": "R$ 4,60"},
+				{"Modelo": "J4 PLUS/ J6 PLUS","Varlor": "R$ 4,60"},
+				{"Modelo": "A01","Varlor": "R$ 4,60"},
+				{"Modelo": "A01 CORE","Varlor": "R$ 4,60"},
+				{"Modelo": "A02","Varlor": "R$ 4,60"},
+				{"Modelo": "A02S","Varlor": "R$ 4,60"},
+				{"Modelo": "A03S","Varlor": "R$ 4,60"},
+				{"Modelo": "A10/A10S","Varlor": "R$ 4,60"},
+				{"Modelo": "A20/A30/A50","Varlor": "R$ 4,60"},
+				{"Modelo": "A70","Varlor": "R$ 4,60"},
+				{"Modelo": "J4 PLUS/J6 PLUS","Varlor": "R$ 4,60"},
+				{"Modelo": "A01","Varlor": "R$ 4,60"},
+				{"Modelo": "A01 CORE","Varlor": "R$ 4,60"},
+				{"Modelo": "A02","Varlor": "R$ 4,60"},
+				{"Modelo": "A02S","Varlor": "R$ 4,60"},
+				{"Modelo": "A03S","Varlor": "R$ 4,60"},
+				{"Modelo": "A10/A10S","Varlor": "R$ 4,60"},
+				{"Modelo": "A20/A30/A50","Varlor": "R$ 4,60"},
+				{"Modelo": "A70","Varlor": "R$ 4,60"},
+				{"Modelo": "A11","Varlor": "R$ 4,60"},
+				{"Modelo": "A12","Varlor": "R$ 4,60"},
+				{"Modelo": "A20S","Varlor": "R$ 4,60"},
+				{"Modelo": "A21","Varlor": "R$ 4,60"},
+				{"Modelo": "A21S","Varlor": "R$ 4,60"},
+				{"Modelo": "A30S/A50S","Varlor": "R$ 4,60"},
+				{"Modelo": "A31","Varlor": "R$ 4,60"},
+				{"Modelo": "A22 4G","Varlor": "R$ 4,60"},
+				{"Modelo": "A22 5G","Varlor": "R$ 4,60"},
+				{"Modelo": "A32 4G","Varlor": "R$ 4,60"},
+				{"Modelo": "A32 5G","Varlor": "R$ 4,60"},
+				{"Modelo": "A51","Varlor": "R$ 4,60"},
+				{"Modelo": "A52","Varlor": "R$ 4,60"},
+				{"Modelo": "A72","Varlor": "R$ 4,60"},
+				{"Modelo": "M12","Varlor": "R$ 4,60"},
+				{"Modelo": "M21","Varlor": "R$ 4,60"},
+				{"Modelo": "M21S","Varlor": "R$ 4,60"},
+				{"Modelo": "A62","Varlor": "R$ 4,60"},
+				{"Modelo": "S20 FE","Varlor": "R$ 4,60"},
+				{"Modelo": "S21","Varlor": "R$ 4,60"},
+				{"Modelo": "A21 PLUS","Varlor": "R$ 4,60"},
+				{"Modelo": "M31","Varlor": "R$ 4,60"}
+			]
+        },
+        {"Modelo": "Motorola","Categoria": 
+			[
+				{"Modelo": "EDGE 20","Varlor": "R$ 4,60"},
+				{"Modelo": "EDGE 20 LITE","Varlor": "R$ 4,60"},
+				{"Modelo": "E6 PLAY","Varlor": "R$ 4,60"},
+				{"Modelo": "E6 PLUS","Varlor": "R$ 4,60"},
+				{"Modelo": "G6","Varlor": "R$ 4,60"},
+				{"Modelo": "G6 PLAY(P)","Varlor": "R$ 4,60"},
+				{"Modelo": "G6 PLAY(D)","Varlor": "R$ 4,60"},
+				{"Modelo": "G6 PLUS","Varlor": "R$ 4,60"},
+				{"Modelo": "g7","Varlor": "R$ 4,60"},
+				{"Modelo": "G7 PLAY","Varlor": "R$ 4,60"},
+				{"Modelo": "G8 PLAY","Varlor": "R$ 4,60"},
+				{"Modelo": "G8 PLUS","Varlor": "R$ 4,60"},
+				{"Modelo": "G8 POWER","Varlor": "R$ 4,60"},
+				{"Modelo": "G8 POWER LITE","Varlor": "R$ 4,60"},
+				{"Modelo": "G9/G9 PLAY","Varlor": "R$ 4,60"},
+				{"Modelo": "G9 PLUS","Varlor": "R$ 4,60"},
+				{"Modelo": "G9 POWER","Varlor": "R$ 4,60"},
+				{"Modelo": "G10","Varlor": "R$ 4,60"},
+				{"Modelo": "G10 PLAY","Varlor": "R$ 4,60"},
+				{"Modelo": "G10 POWER","Varlor": "R$ 4,60"},
+				{"Modelo": "G100","Varlor": "R$ 4,60"},
+				{"Modelo": "G20","Varlor": "R$ 4,60"},
+				{"Modelo": "G30","Varlor": "R$ 4,60"},
+				{"Modelo": "G40","Varlor": "R$ 4,60"},
+				{"Modelo": "G50","Varlor": "R$ 4,60"},
+				{"Modelo": "G60","Varlor": "R$ 4,60"},
+				{"Modelo": "G100","Varlor": "R$ 4,60"},
+				{"Modelo": "ONE ACTION","Varlor": "R$ 4,60"},
+				{"Modelo": "ONE MACRO","Varlor": "R$ 4,60"},
+				{"Modelo": "ONE FUSION","Varlor": "R$ 4,60"},
+				{"Modelo": "ONE FUSION PLUS","Varlor": "R$ 4,60"},
+				{"Modelo": "ONE HYPER","Varlor": "R$ 4,60"},
+				{"Modelo": "ONE ZOOM","Varlor": "R$ 4,60"}
+            ]
+        }
+    ],
+    "Ceramica": [
+        {"Modelo": "Realme","Categoria": 
+			[
+				{"Modelo": "7 5G/7 PRO","Varlor": "R$ 3,85"},
+				{"Modelo": "8 4G/ 8 PRO 4G","Varlor": "R$ 3,85"},
+				{"Modelo": "GT 5G/GT NEO/GT NEO FLASH","Varlor": "R$ 3,85"}
+            ]
+        },
+        {"Modelo": "Xiaomi","Categoria": 
+			[
+				{"Modelo": "POCO C3","Varlor": "R$ 3,85"},
+				{"Modelo": "POCO M3","Varlor": "R$ 3,85"},
+				{"Modelo": "POCO M3 PRO","Varlor": "R$ 3,85"},
+				{"Modelo": "POCO F3","Varlor": "R$ 3,85"},
+				{"Modelo": "POCO X2 / X3 / X3 NFC","Varlor": "R$ 3,85"},
+				{"Modelo": "NOTE 7 / NOTE 7 PRO","Varlor": "R$ 3,85"},
+				{"Modelo": "REDMI 8 / 8A","Varlor": "R$ 3,85"},
+				{"Modelo": "NOTE 8 / XT","Varlor": "R$ 3,85"},
+				{"Modelo": "REDMI NOTE 8 / NOTE 8T","Varlor": "R$ 3,85"},
+				{"Modelo": "NOTE 8 PRO / F11","Varlor": "R$ 3,85"},
+				{"Modelo": "REDMI NOTE 8 PRO / POCO M3 / REDMI 9T","Varlor": "R$ 3,85"},
+				{"Modelo": "REDMI K22 / K22 PRO / 9T","Varlor": "R$ 3,85"},
+				{"Modelo": "REDMI 9A / 9C","Varlor": "R$ 3,85"},
+				{"Modelo": "REDMI 9 / 9I / 9A / 9C / Y5S / POCO M2","Varlor": "R$ 3,85"},
+				{"Modelo": "REDMI NOTE 9","Varlor": "R$ 3,85"},
+				{"Modelo": "REDMI NOTE 9S / NOTE 9 PRO / POCO X3","Varlor": "R$ 3,85"},
+				{"Modelo": "REDMI NOTE 9T","Varlor": "R$ 3,85"},
+				{"Modelo": "REDMI NOTE 10 4G/ NOTE 10 5G / NOTE 10S","Varlor": "R$ 3,85"},
+				{"Modelo": "REDMI NOTE 10 5G","Varlor": "R$ 3,85"},
+				{"Modelo": "REDMI NOTE 10 PRO / POCO F3 / NOTE 10 PRO MAX / K40 / K40 PRO","Varlor": "R$ 3,85"},
+				{"Modelo": "MI 10 T/ REDMI K30S / K30 PRO / K30","Varlor": "R$ 3,85"},
+				{"Modelo": "11 / 11 PRO","Varlor": "R$ 3,85"},
+				{"Modelo": "K20 / K2 PRO / 9T","Varlor": "R$ 3,85"},
+				{"Modelo": "10 T","Varlor": "R$ 3,85"},
+				{"Modelo": "11","Varlor": "R$ 3,85"},
+				{"Modelo": "11 LITE","Varlor": "R$ 3,85"},
+				{"Modelo": "POCO M4 PRO (5G)","Varlor": "R$ 3,85"},
+				{"Modelo": "POCO F3 (5G)","Varlor": "R$ 3,85"},
+				{"Modelo": "REDMI 10A / 9A","Varlor": "R$ 3,85"},
+				{"Modelo": "REDMI 10C","Varlor": "R$ 3,85"},
+				{"Modelo": "REDMI NOTE 11 (4G)","Varlor": "R$ 3,85"},
+				{"Modelo": "REDMI NOTE 11 / NOTE 11 PRO","Varlor": "R$ 3,85"}
+            ]
+        },
+        {"Modelo": "Apple","Categoria": 
+			[
+				{"Modelo": "6 PRETO","Varlor": "R$ 3,85"},
+				{"Modelo": "7 / 8 PRETO","Varlor": "R$ 3,85"},
+				{"Modelo": "6 BRANCO","Varlor": "R$ 3,85"},
+				{"Modelo": "7 / 8 BRANCO","Varlor": "R$ 3,85"},
+				{"Modelo": "6 PLUS PRETO","Varlor": "R$ 3,85"},
+				{"Modelo": "7 / 8 PLUS PRETO","Varlor": "R$ 3,85"},
+				{"Modelo": "6 PLUS BRANCO","Varlor": "R$ 3,85"},
+				{"Modelo": "7 / 8 PLUS BRANCO","Varlor": "R$ 3,85"},
+				{"Modelo": "X","Varlor": "R$ 3,85"},
+				{"Modelo": "XS","Varlor": "R$ 3,85"},
+				{"Modelo": "XS MAX","Varlor": "R$ 3,85"},
+				{"Modelo": "11","Varlor": "R$ 3,85"},
+				{"Modelo": "11 PRO","Varlor": "R$ 3,85"},
+				{"Modelo": "11 PRO MAX","Varlor": "R$ 3,85"},
+				{"Modelo": "12 MINI","Varlor": "R$ 3,85"},
+				{"Modelo": "12 / 12 PRO","Varlor": "R$ 3,85"},
+				{"Modelo": "12 PRO MAX","Varlor": "R$ 3,85"},
+				{"Modelo": "13 MINI","Varlor": "R$ 3,85"},
+				{"Modelo": "13 / 13 PRO","Varlor": "R$ 3,85"},
+				{"Modelo": "13 PRO MAX","Varlor": "R$ 3,85"},
+				{"Modelo": "14","Varlor": "R$ 3,85"},
+				{"Modelo": "14 PLUS","Varlor": "R$ 3,85"},
+				{"Modelo": "14 PRO","Varlor": "R$ 3,85"},
+				{"Modelo": "14 PRO MAX","Varlor": "R$ 3,85"},
+				{"Modelo": "15","Varlor": "R$ 3,85"},
+				{"Modelo": "15 PLUS","Varlor": "R$ 3,85"},
+				{"Modelo": "15 PRO","Varlor": "R$ 3,85"},
+				{"Modelo": "15 PRO MAX","Varlor": "R$ 3,85"}
+            ]
+        },
+        {"Modelo": "Samsung","Categoria": 
+			[
+				{"Modelo": "A01","Varlor": "R$ 3,85"},
+				{"Modelo": "A10 CORE","Varlor": "R$ 3,85"},
+				{"Modelo": "A10 / M10","Varlor": "R$ 3,85"},
+				{"Modelo": "A11 / M11","Varlor": "R$ 3,85"},
+				{"Modelo": "A12 / A42 / A02 / A02S / A32 (5G)","Varlor": "R$ 3,85"},
+				{"Modelo": "A20 / A30 / A50 / M30","Varlor": "R$ 3,85"},
+				{"Modelo": "A20S","Varlor": "R$ 3,85"},
+				{"Modelo": "A03S / A22 (5G)","Varlor": "R$ 3,85"},
+				{"Modelo": "A21S","Varlor": "R$ 3,85"},
+				{"Modelo": "A22 4G","Varlor": "R$ 3,85"},
+				{"Modelo": "A31 / A32 4G","Varlor": "R$ 3,85"},
+				{"Modelo": "A51","Varlor": "R$ 3,85"},
+				{"Modelo": "A52 4G","Varlor": "R$ 3,85"},
+				{"Modelo": "A71 / A80 / A91 / S10 LITE / NOTE 10 LITE","Varlor": "R$ 3,85"},
+				{"Modelo": "A72 4G","Varlor": "R$ 3,85"},
+				{"Modelo": "M21 / M21S / M31","Varlor": "R$ 3,85"},
+				{"Modelo": "M31S","Varlor": "R$ 3,85"},
+				{"Modelo": "M12","Varlor": "R$ 3,85"},
+				{"Modelo": "M32","Varlor": "R$ 3,85"},
+				{"Modelo": "M52","Varlor": "R$ 3,85"},
+				{"Modelo": "M51 / M62 / A71 / A72","Varlor": "R$ 3,85"},
+				{"Modelo": "S8 / S9","Varlor": "R$ 3,85"},
+				{"Modelo": "S8 PLUS / S9 PLUS","Varlor": "R$ 3,85"},
+				{"Modelo": "S10","Varlor": "R$ 3,85"},
+				{"Modelo": "S10 LITE","Varlor": "R$ 3,85"},
+				{"Modelo": "S10 PLUS","Varlor": "R$ 3,85"},
+				{"Modelo": "S11E/S20","Varlor": "R$ 3,85"},
+				{"Modelo": "S20 FE","Varlor": "R$ 3,85"},
+				{"Modelo": "S11 PLUS / S20 ULTRA / S20 PLUS","Varlor": "R$ 3,85"},
+				{"Modelo": "S21","Varlor": "R$ 3,85"},
+				{"Modelo": "S21 PLUS","Varlor": "R$ 3,85"},
+				{"Modelo": "S21 ULTRA","Varlor": "R$ 3,85"},
+				{"Modelo": "NOTE 10","Varlor": "R$ 3,85"},
+				{"Modelo": "NOTE 10 LITE","Varlor": "R$ 3,85"},
+				{"Modelo": "NOTE 10 PLUS","Varlor": "R$ 3,85"},
+				{"Modelo": "NOTE 20","Varlor": "R$ 3,85"},
+				{"Modelo": "NOTE 20 ULTRA","Varlor": "R$ 3,85"},
+				{"Modelo": "A13","Varlor": "R$ 3,85"},
+				{"Modelo": "A23 / M23","Varlor": "R$ 3,85"},
+				{"Modelo": "M53 (5G) / M52 (5G)","Varlor": "R$ 3,85"},
+				{"Modelo": "A33","Varlor": "R$ 3,85"},
+				{"Modelo": "A73","Varlor": "R$ 3,85"},
+				{"Modelo": "S22","Varlor": "R$ 3,85"},
+				{"Modelo": "S22 PLUS","Varlor": "R$ 3,85"},
+				{"Modelo": "S22 ULTRA","Varlor": "R$ 3,85"}
+            ]
+        },
+        {"Modelo": "Motorola","Categoria": 
+			[
+				{"Modelo": "MOTO G PLAY (2021)","Varlor": "R$ 3,85"},
+				{"Modelo": "MOTO G FAST","Varlor": "R$ 3,85"},
+				{"Modelo": "MOTO ONE FUSION","Varlor": "R$ 3,85"},
+				{"Modelo": "MOTO ONE FUSION PLUS","Varlor": "R$ 3,85"},
+				{"Modelo": "MOTO E 2020","Varlor": "R$ 3,85"},
+				{"Modelo": "MOTO E6 PLAY","Varlor": "R$ 3,85"},
+				{"Modelo": "MOTO E6 PLUS","Varlor": "R$ 3,85"},
+				{"Modelo": "MOTO E7 2021 / E7 PLAY","Varlor": "R$ 3,85"},
+				{"Modelo": "MOTO G 5G","Varlor": "R$ 3,85"},
+				{"Modelo": "MOTO G7 / G7 PLUS","Varlor": "R$ 3,85"},
+				{"Modelo": "MOTO G7 POWER","Varlor": "R$ 3,85"},
+				{"Modelo": "MOTO G8","Varlor": "R$ 3,85"},
+				{"Modelo": "MOTO G8 PLAY / ONE MACRO","Varlor": "R$ 3,85"},
+				{"Modelo": "MOTO G8 PLUS","Varlor": "R$ 3,85"},
+				{"Modelo": "MOTO G8 POWER","Varlor": "R$ 3,85"},
+				{"Modelo": "MOTO G8 POWER LITE","Varlor": "R$ 3,85"},
+				{"Modelo": "MOTO G9","Varlor": "R$ 3,85"},
+				{"Modelo": "MOTO G9 PLAY","Varlor": "R$ 3,85"},
+				{"Modelo": "MOTO G9 / G9 PLAY / E7 PLUS","Varlor": "R$ 3,85"},
+				{"Modelo": "MOTO G9 PLUS","Varlor": "R$ 3,85"},
+				{"Modelo": "MOTO G9 POWER","Varlor": "R$ 3,85"},
+				{"Modelo": "MOTO G10 / G20 / G30 / G50 / G10 POWER","Varlor": "R$ 3,85"},
+				{"Modelo": "MOTO G60 / G40 FUSION","Varlor": "R$ 3,85"},
+				{"Modelo": "MOTO G10 PLAY","Varlor": "R$ 3,85"},
+				{"Modelo": "MOTO G100 / G5 PLUS","Varlor": "R$ 3,85"},
+				{"Modelo": "MOTO EDGE 20 LITE","Varlor": "R$ 3,85"},
+				{"Modelo": "MOTO EDGE 20 / 20 PLUS / 20 PRO","Varlor": "R$ 3,85"},
+				{"Modelo": "MOTO E40","Varlor": "R$ 3,85"},
+				{"Modelo": "MOTO G22","Varlor": "R$ 3,85"},
+				{"Modelo": "MOTO G 71","Varlor": "R$ 3,85"},
+				{"Modelo": "MOTO G 51","Varlor": "R$ 3,85"},
+				{"Modelo": "MOTO G 52","Varlor": "R$ 3,85"},
+				{"Modelo": "MOTO G200","Varlor": "R$ 3,85"},
+				{"Modelo": "MOTO G 31 / G 41","Varlor": "R$ 3,85"}
+
+            ]
+        }, 
+		{"Modelo": "LG","Categoria": 
+			[
+				{"Modelo": "K8 PLUS","Varlor": "R$ 3,85"},
+				{"Modelo": "K40 S","Varlor": "R$ 3,85"},
+				{"Modelo": "K42 / K52 / K62","Varlor": "R$ 3,85"},
+				{"Modelo": "K41 S","Varlor": "R$ 3,85"},
+				{"Modelo": "K50 S","Varlor": "R$ 3,85"},
+				{"Modelo": "K51 S","Varlor": "R$ 3,85"},
+				{"Modelo": "K61 / K60 / K61S","Varlor": "R$ 3,85"},
+				{"Modelo": "K71","Varlor": "R$ 3,85"}
+            ]
+        }
+    ],
+    "CeramicaPrivacidade": 
+		[
+			{"Modelo": "Samsung","Categoria": 
+				[
+					{"Modelo": "A01","Varlor": "R$ 3,85"},
+					{"Modelo": "A01 CORE","Varlor": "R$ 3,85"},
+					{"Modelo": "A02","Varlor": "R$ 3,85"},
+					{"Modelo": "A02 S","Varlor": "R$ 3,85"},
+					{"Modelo": "A03","Varlor": "R$ 3,85"},
+					{"Modelo": "A03 S","Varlor": "R$ 3,85"},
+					{"Modelo": "A03 CORE","Varlor": "R$ 3,85"},
+					{"Modelo": "A04","Varlor": "R$ 3,85"},
+					{"Modelo": "A04 S","Varlor": "R$ 3,85"},
+					{"Modelo": "A04 CORE","Varlor": "R$ 3,85"},
+					{"Modelo": "A04 E","Varlor": "R$ 3,85"},
+					{"Modelo": "A10","Varlor": "R$ 3,85"},
+					{"Modelo": "A10 S","Varlor": "R$ 3,85"},
+					{"Modelo": "A11","Varlor": "R$ 3,85"},
+					{"Modelo": "A12","Varlor": "R$ 3,85"},
+					{"Modelo": "A13","Varlor": "R$ 3,85"},
+					{"Modelo": "A14","Varlor": "R$ 3,85"},
+					{"Modelo": "A20","Varlor": "R$ 3,85"},
+					{"Modelo": "A20 S","Varlor": "R$ 3,85"},
+					{"Modelo": "A21","Varlor": "R$ 3,85"},
+					{"Modelo": "A21 S","Varlor": "R$ 3,85"},
+					{"Modelo": "A22 4G","Varlor": "R$ 3,85"},
+					{"Modelo": "A24","Varlor": "R$ 3,85"},
+					{"Modelo": "A30","Varlor": "R$ 3,85"},
+					{"Modelo": "A30S","Varlor": "R$ 3,85"}, 
+					{"Modelo": "A31","Varlor": "R$ 3,85"}, 
+					{"Modelo": "A32 4G","Varlor": "R$ 3,85"}, 
+					{"Modelo": "A32 5G","Varlor": "R$ 3,85"}, 
+					{"Modelo": "A33","Varlor": "R$ 3,85"}, 
+					{"Modelo": "A34","Varlor": "R$ 3,85"}, 
+					{"Modelo": "A41","Varlor": "R$ 3,85"}, 
+					{"Modelo": "A42 5G","Varlor": "R$ 3,85"}, 
+					{"Modelo": "A50","Varlor": "R$ 3,85"}, 
+					{"Modelo": "A50 S","Varlor": "R$ 3,85"}, 
+					{"Modelo": "A51","Varlor": "R$ 3,85"}, 
+					{"Modelo": "A52","Varlor": "R$ 3,85"}, 
+					{"Modelo": "A52 S","Varlor": "R$ 3,85"}, 
+					{"Modelo": "A53","Varlor": "R$ 3,85"}, 
+					{"Modelo": "A54","Varlor": "R$ 3,85"}, 
+					{"Modelo": "A70","Varlor": "R$ 3,85"}, 
+					{"Modelo": "A70S","Varlor": "R$ 3,85"}, 
+					{"Modelo": "A71","Varlor": "R$ 3,85"}, 
+					{"Modelo": "A72","Varlor": "R$ 3,85"}, 
+					{"Modelo": "A73","Varlor": "R$ 3,85"}, 
+					{"Modelo": "A80/NOTE 10 LITE","Varlor": "R$ 3,85"}, 
+					{"Modelo": "M01","Varlor": "R$ 3,85"}, 
+					{"Modelo": "M11","Varlor": "R$ 3,85"}, 
+					{"Modelo": "M12","Varlor": "R$ 3,85"}, 
+					{"Modelo": "M13","Varlor": "R$ 3,85"}, 
+					{"Modelo": "M14","Varlor": "R$ 3,85"}, 
+					{"Modelo": "M21","Varlor": "R$ 3,85"}, 
+					{"Modelo": "M23","Varlor": "R$ 3,85"}, 
+					{"Modelo": "M33","Varlor": "R$ 3,85"}, 
+					{"Modelo": "M51","Varlor": "R$ 3,85"}, 
+					{"Modelo": "M52","Varlor": "R$ 3,85"}, 
+					{"Modelo": "M53","Varlor": "R$ 3,85"}, 
+					{"Modelo": "M54","Varlor": "R$ 3,85"}, 
+					{"Modelo": "M62","Varlor": "R$ 3,85"}, 
+					{"Modelo": "S10E","Varlor": "R$ 3,85"}, 
+					{"Modelo": "S20FE","Varlor": "R$ 3,85"}, 
+					{"Modelo": "S21FE","Varlor": "R$ 3,85"}, 
+					{"Modelo": "S21","Varlor": "R$ 3,85"}, 
+					{"Modelo": "S21 PLUS","Varlor": "R$ 3,85"}, 
+					{"Modelo": "S22","Varlor": "R$ 3,85"}, 
+					{"Modelo": "S22 PLUS","Varlor": "R$ 3,85"}, 
+					{"Modelo": "S23 PLUS","Varlor": "R$ 3,85"}, 
+					{"Modelo": "S23","Varlor": "R$ 3,85"}, 
+					{"Modelo": "J4 PLUS","Varlor": "R$ 3,85"}, 
+					{"Modelo": "J5 PRIME","Varlor": "R$ 3,85"}, 
+					{"Modelo": "J6 PLUS","Varlor": "R$ 3,85"}, 
+					{"Modelo": "J7 PRIME","Varlor": "R$ 3,85"}, 
+					{"Modelo": "J8 PLUS","Varlor": "R$ 3,85"}
+				]
+			}, 
+		{"Modelo": "Motorola","Categoria": 
+			[
+				{"Modelo": "G 5G","Varlor": "R$ 3,85"},
+				{"Modelo": "G7","Varlor": "R$ 3,85"},
+				{"Modelo": "G7 PLAY","Varlor": "R$ 3,85"},
+				{"Modelo": "G7 PLUS","Varlor": "R$ 3,85"},
+				{"Modelo": "G8","Varlor": "R$ 3,85"},
+				{"Modelo": "G8 PLU","Varlor": "R$ 3,85"},
+				{"Modelo": "G8 PLAY","Varlor": "R$ 3,85"},
+				{"Modelo": "G8 POWER","Varlor": "R$ 3,85"},
+				{"Modelo": "G8 POWER LITE","Varlor": "R$ 3,85"},
+				{"Modelo": "G9","Varlor": "R$ 3,85"},
+				{"Modelo": "G9 PLAY","Varlor": "R$ 3,85"},
+				{"Modelo": "G9 POWER","Varlor": "R$ 3,85"},
+				{"Modelo": "G9 PLUS","Varlor": "R$ 3,85"},
+				{"Modelo": "G10","Varlor": "R$ 3,85"},
+				{"Modelo": "G13","Varlor": "R$ 3,85"},
+				{"Modelo": "G20","Varlor": "R$ 3,85"},
+				{"Modelo": "G22","Varlor": "R$ 3,85"},
+				{"Modelo": "G23","Varlor": "R$ 3,85"},
+				{"Modelo": "G30","Varlor": "R$ 3,85"},
+				{"Modelo": "G31","Varlor": "R$ 3,85"},
+				{"Modelo": "G32","Varlor": "R$ 3,85"},
+				{"Modelo": "G40","Varlor": "R$ 3,85"},
+				{"Modelo": "G41","Varlor": "R$ 3,85"},
+				{"Modelo": "G50","Varlor": "R$ 3,85"},
+				{"Modelo": "G51","Varlor": "R$ 3,85"},
+				{"Modelo": "G52","Varlor": "R$ 3,85"},
+				{"Modelo": "G53","Varlor": "R$ 3,85"},
+				{"Modelo": "G60","Varlor": "R$ 3,85"},
+				{"Modelo": "G60 S","Varlor": "R$ 3,85"},
+				{"Modelo": "G62","Varlor": "R$ 3,85"},
+				{"Modelo": "G71","Varlor": "R$ 3,85"},
+				{"Modelo": "G72","Varlor": "R$ 3,85"},
+				{"Modelo": "G73","Varlor": "R$ 3,85"},
+				{"Modelo": "G82","Varlor": "R$ 3,85"},
+				{"Modelo": "G200","Varlor": "R$ 3,85"},
+				{"Modelo": "g7","Varlor": "R$ 3,85"},
+				{"Modelo": "MOTO ONE","Varlor": "R$ 3,85"},
+				{"Modelo": "ONE VISION","Varlor": "R$ 3,85"},
+				{"Modelo": "ONE ACTION","Varlor": "R$ 3,85"},
+				{"Modelo": "ONE HYPER","Varlor": "R$ 3,85"},
+				{"Modelo": "ONE FUSION","Varlor": "R$ 3,85"},
+				{"Modelo": "E7","Varlor": "R$ 3,85"},
+				{"Modelo": "E7 PLAY","Varlor": "R$ 3,85"},
+				{"Modelo": "E13","Varlor": "R$ 3,85"},
+				{"Modelo": "E20","Varlor": "R$ 3,85"},
+				{"Modelo": "E21","Varlor": "R$ 3,85"},
+				{"Modelo": "E22","Varlor": "R$ 3,85"},
+				{"Modelo": "E22 S","Varlor": "R$ 3,85"},
+				{"Modelo": "E30","Varlor": "R$ 3,85"},
+				{"Modelo": "E32","Varlor": "R$ 3,85"},
+				{"Modelo": "E40","Varlor": "R$ 3,85"},
+				{"Modelo": "EDGE 20","Varlor": "R$ 3,85"},
+				{"Modelo": "EDGE 20 PRO","Varlor": "R$ 3,85"},
+				{"Modelo": "EDGE 20 PLUS","Varlor": "R$ 3,85"},
+				{"Modelo": "EDGE 20 LITE","Varlor": "R$ 3,85"},
+				{"Modelo": "EDGE 30","Varlor": "R$ 3,85"},
+				{"Modelo": "EDGE 30 FUSION","Varlor": "R$ 3,85"},
+				{"Modelo": "EDGE 30 PRO","Varlor": "R$ 3,85"},
+				{"Modelo": "EDGE 30 NEO","Varlor": "R$ 3,85"},
+				{"Modelo": "EDGE 30 LITE","Varlor": "R$ 3,85"},
+				{"Modelo": "EDGE 40","Varlor": "R$ 3,85"},
+				{"Modelo": "EDGE 40 PRO","Varlor": "R$ 3,85"}
+            ]
+        }, 
+		{"Modelo": "Xiaomi","Categoria": 
+			[
+				{"Modelo": "NOTE 7","Varlor": "R$ 3,85"},
+				{"Modelo": "NOTE 8","Varlor": "R$ 3,85"},
+				{"Modelo": "NOTE 8 PRO","Varlor": "R$ 3,85"},
+				{"Modelo": "NOTE 9 / 9T / 10X","Varlor": "R$ 3,85"},
+				{"Modelo": "NOTE 9S","Varlor": "R$ 3,85"},
+				{"Modelo": "NOTE 9 PRO","Varlor": "R$ 3,85"},
+				{"Modelo": "NOTE 9 MAX","Varlor": "R$ 3,85"},
+				{"Modelo": "NOTE 10","Varlor": "R$ 3,85"},
+				{"Modelo": "NOTE 10 4G","Varlor": "R$ 3,85"},
+				{"Modelo": "NOTE 10S","Varlor": "R$ 3,85"},
+				{"Modelo": "NOTE 11 4G","Varlor": "R$ 3,85"},
+				{"Modelo": "NOTE 11 S","Varlor": "R$ 3,85"},
+				{"Modelo": "NOTE 10 5G / M3 PRO","Varlor": "R$ 3,85"},
+				{"Modelo": "NOTE 10 PRO","Varlor": "R$ 3,85"},
+				{"Modelo": "NOTE 10 MAX","Varlor": "R$ 3,85"},
+				{"Modelo": "NOTE 11 5G","Varlor": "R$ 3,85"},
+				{"Modelo": "NOTE 11 PRO","Varlor": "R$ 3,85"},
+				{"Modelo": "NOTE 11E","Varlor": "R$ 3,85"},
+				{"Modelo": "NOTE 12","Varlor": "R$ 3,85"},
+				{"Modelo": "NOTE 12 PRO","Varlor": "R$ 3,85"},
+				{"Modelo": "X4 PRO","Varlor": "R$ 3,85"},
+				{"Modelo": "X3GT","Varlor": "R$ 3,85"},
+				{"Modelo": "X4","Varlor": "R$ 3,85"},
+				{"Modelo": "X4 GT","Varlor": "R$ 3,85"},
+				{"Modelo": "X5","Varlor": "R$ 3,85"},
+				{"Modelo": "X5 PRO","Varlor": "R$ 3,85"},
+				{"Modelo": "M3","Varlor": "R$ 3,85"},
+				{"Modelo": "M4","Varlor": "R$ 3,85"},
+				{"Modelo": "M4 PRO","Varlor": "R$ 3,85"},
+				{"Modelo": "M5","Varlor": "R$ 3,85"},
+				{"Modelo": "F4","Varlor": "R$ 3,85"},
+				{"Modelo": "F4 GT","Varlor": "R$ 3,85"},
+				{"Modelo": "F5","Varlor": "R$ 3,85"},
+				{"Modelo": "C3","Varlor": "R$ 3,85"},
+				{"Modelo": "REDMI A1 / A1 PLUS","Varlor": "R$ 3,85"},
+				{"Modelo": "REDMI A2 / A2 PLUS","Varlor": "R$ 3,85"},
+				{"Modelo": "REDMI 10 / 10 PRIME","Varlor": "R$ 3,85"},
+				{"Modelo": "MI 10 LITE","Varlor": "R$ 3,85"},
+				{"Modelo": "MI 10C / 12C/ C55 / C40","Varlor": "R$ 3,85"},
+				{"Modelo": "MI 11 LITE","Varlor": "R$ 3,85"},
+				{"Modelo": "MI 11","Varlor": "R$ 3,85"},
+				{"Modelo": "MI 11 PRO","Varlor": "R$ 3,85"},
+				{"Modelo": "MI 11 ULTRA","Varlor": "R$ 3,85"},
+				{"Modelo": "MI 12 LITE","Varlor": "R$ 3,85"},
+				{"Modelo": "MI 13","Varlor": "R$ 3,85"}
+            ]
+        }, 
+		{"Modelo": "Apple","Categoria": 
+			[
+				{"Modelo": "6 PRETO","Varlor": "R$ 3,85"},
+				{"Modelo": "7 / 8 PRETO","Varlor": "R$ 3,85"},
+				{"Modelo": "6 BRANCO","Varlor": "R$ 3,85"},
+				{"Modelo": "7 / 8 BRANCO","Varlor": "R$ 3,85"},
+				{"Modelo": "6 PLUS PRETO","Varlor": "R$ 3,85"},
+				{"Modelo": "7 / 8 PLUS PRETO","Varlor": "R$ 3,85"},
+				{"Modelo": "6 PLUS BRANCO","Varlor": "R$ 3,85"},
+				{"Modelo": "7 / 8 PLUS BRANCO","Varlor": "R$ 3,85"},
+				{"Modelo": "X","Varlor": "R$ 3,85"},
+				{"Modelo": "XS","Varlor": "R$ 3,85"},
+				{"Modelo": "XS MAX","Varlor": "R$ 3,85"},
+				{"Modelo": "11","Varlor": "R$ 3,85"},
+				{"Modelo": "11 PRO","Varlor": "R$ 3,85"},
+				{"Modelo": "11 PRO MAX","Varlor": "R$ 3,85"},
+				{"Modelo": "12 MINI","Varlor": "R$ 3,85"},
+				{"Modelo": "12 / 12 PRO","Varlor": "R$ 3,85"},
+				{"Modelo": "12 PRO MAX","Varlor": "R$ 3,85"},
+				{"Modelo": "13 MINI","Varlor": "R$ 3,85"},
+				{"Modelo": "13 / 13 PRO","Varlor": "R$ 3,85"},
+				{"Modelo": "13 PRO MAX","Varlor": "R$ 3,85"},
+				{"Modelo": "14","Varlor": "R$ 3,85"},
+				{"Modelo": "14 PLUS","Varlor": "R$ 3,85"},
+				{"Modelo": "14 PRO","Varlor": "R$ 3,85"},
+				{"Modelo": "14 PRO MAX","Varlor": "R$ 3,85"},
+				{"Modelo": "15","Varlor": "R$ 3,85"},
+				{"Modelo": "15 PLUS","Varlor": "R$ 3,85"},
+				{"Modelo": "15 PRO","Varlor": "R$ 3,85"},
+				{"Modelo": "15 PRO MAX","Varlor": "R$ 3,85"},
+				{"Modelo": "15 ULRA","Varlor": "R$ 3,85"}
+            ]
+        }
+    ],
+    "Vidro": [
+        {"Modelo": "Apple","Categoria": 
+			[
+				{"Modelo": "6 PRETO","Varlor": "R$ 3,85"},
+				{"Modelo": "7 / 8 PRETO","Varlor": "R$ 3,85"},
+				{"Modelo": "6 BRANCO","Varlor": "R$ 3,85"},
+				{"Modelo": "7 / 8 BRANCO","Varlor": "R$ 3,85"},
+				{"Modelo": "6 PLUS PRETO","Varlor": "R$ 3,85"},
+				{"Modelo": "7 / 8 PLUS PRETO","Varlor": "R$ 3,85"},
+				{"Modelo": "6 PLUS BRANCO","Varlor": "R$ 3,85"},
+				{"Modelo": "7 / 8 PLUS BRANCO","Varlor": "R$ 3,85"},
+				{"Modelo": "X","Varlor": "R$ 3,85"},
+				{"Modelo": "XS","Varlor": "R$ 3,85"},
+				{"Modelo": "XS MAX","Varlor": "R$ 3,85"},
+				{"Modelo": "11","Varlor": "R$ 3,85"},
+				{"Modelo": "11 PRO","Varlor": "R$ 3,85"},
+				{"Modelo": "11 PRO MAX","Varlor": "R$ 3,85"},
+				{"Modelo": "12 MINI","Varlor": "R$ 3,85"},
+				{"Modelo": "12 / 12 PRO","Varlor": "R$ 3,85"},
+				{"Modelo": "12 PRO MAX","Varlor": "R$ 3,85"},
+				{"Modelo": "13 MINI","Varlor": "R$ 3,85"},
+				{"Modelo": "13 / 13 PRO","Varlor": "R$ 3,85"},
+				{"Modelo": "13 PRO MAX","Varlor": "R$ 3,85"},
+				{"Modelo": "14","Varlor": "R$ 3,85"},
+				{"Modelo": "14 PLUS","Varlor": "R$ 3,85"},
+				{"Modelo": "14 PRO","Varlor": "R$ 3,85"},
+				{"Modelo": "14 PRO MAX","Varlor": "R$ 3,85"},
+				{"Modelo": "15","Varlor": "R$ 3,85"},
+				{"Modelo": "15 PLUS","Varlor": "R$ 3,85"},
+				{"Modelo": "15 PRO","Varlor": "R$ 3,85"},
+				{"Modelo": "15 PRO MAX","Varlor": "R$ 3,85"}
+            ]
+        }, 
+		{"Modelo": "Xiaomi","Categoria": 
+			[
+				{"Modelo": "REDMI S2","Varlor": "R$ 3,85"},
+				{"Modelo": "G8","Varlor": "R$ 3,85"},
+				{"Modelo": "G8","Varlor": "R$ 3,85"},
+				{"Modelo": "PLAY","Varlor": "R$ 3,85"},
+				{"Modelo": "MIX 2","Varlor": "R$ 3,85"},
+				{"Modelo": "MIX 3","Varlor": "R$ 3,85"},
+				{"Modelo": "MAX 3","Varlor": "R$ 3,85"},
+				{"Modelo": "REDMI A1","Varlor": "R$ 3,85"},
+				{"Modelo": "REDMI A2","Varlor": "R$ 3,85"},
+				{"Modelo": "REDMI A2 LITE","Varlor": "R$ 3,85"},
+				{"Modelo": "A3","Varlor": "R$ 3,85"},
+				{"Modelo": "A3 LITE","Varlor": "R$ 3,85"},
+				{"Modelo": "REDMI 4A","Varlor": "R$ 3,85"},
+				{"Modelo": "REDMI 4X","Varlor": "R$ 3,85"},
+				{"Modelo": "NOTE 4","Varlor": "R$ 3,85"},
+				{"Modelo": "REDMI NOTE 4X","Varlor": "R$ 3,85"},
+				{"Modelo": "REDMI 5","Varlor": "R$ 3,85"},
+				{"Modelo": "REDMI 5A","Varlor": "R$ 3,85"},
+				{"Modelo": "REDMI 5 PLUS","Varlor": "R$ 3,85"},
+				{"Modelo": "REDMI NOTE 5","Varlor": "R$ 3,85"},
+				{"Modelo": "REDMI NOTE 5A","Varlor": "R$ 3,85"},
+				{"Modelo": "REDMI NOTE 5A PRIME","Varlor": "R$ 3,85"},
+				{"Modelo": "REDMI 6","Varlor": "R$ 3,85"},
+				{"Modelo": "REDMI 6A","Varlor": "R$ 3,85"},
+				{"Modelo": "REDMI 6 PRO / A2 LITE","Varlor": "R$ 3,85"},
+				{"Modelo": "NOTE 6 / 8 LITE","Varlor": "R$ 3,85"},
+				{"Modelo": "NOTE 6 PRO","Varlor": "R$ 3,85"},
+				{"Modelo": "7","Varlor": "R$ 3,85"},
+				{"Modelo": "7A","Varlor": "R$ 3,85"},
+				{"Modelo": "NOTE 7","Varlor": "R$ 3,85"},
+				{"Modelo": "NOTE 7 PRO","Varlor": "R$ 3,85"},
+				{"Modelo": "8","Varlor": "R$ 3,85"},
+				{"Modelo": "REDMI 8","Varlor": "R$ 3,85"},
+				{"Modelo": "REDMI 8A","Varlor": "R$ 3,85"},
+				{"Modelo": "8 LITE","Varlor": "R$ 3,85"},
+				{"Modelo": "8 PRO","Varlor": "R$ 3,85"},
+				{"Modelo": "NOTE 8","Varlor": "R$ 3,85"},
+				{"Modelo": "REDMI NOTE 8T","Varlor": "R$ 3,85"},
+				{"Modelo": "REDMI NOTE 8 PRO","Varlor": "R$ 3,85"},
+				{"Modelo": "NOTE 8 PRO","Varlor": "R$ 3,85"},
+				{"Modelo": "9","Varlor": "R$ 3,85"},
+				{"Modelo": "REDMI 9","Varlor": "R$ 3,85"},
+				{"Modelo": "REDMI 9A","Varlor": "R$ 3,85"},
+				{"Modelo": "REDMI 9C","Varlor": "R$ 3,85"},
+				{"Modelo": "REDMI 9I","Varlor": "R$ 3,85"},
+				{"Modelo": "REDMI 9T","Varlor": "R$ 3,85"},
+				{"Modelo": "9 SE","Varlor": "R$ 3,85"},
+				{"Modelo": "9 PRO","Varlor": "R$ 3,85"},
+				{"Modelo": "9 T","Varlor": "R$ 3,85"},
+				{"Modelo": "9 T PRO","Varlor": "R$ 3,85"},
+				{"Modelo": "9 LITE","Varlor": "R$ 3,85"},
+				{"Modelo": "NOTE 9","Varlor": "R$ 3,85"},
+				{"Modelo": "NOTE 9S","Varlor": "R$ 3,85"},
+				{"Modelo": "NOTE 9 PRO","Varlor": "R$ 3,85"},
+				{"Modelo": "NOTE 9 PRO MAX","Varlor": "R$ 3,85"},
+				{"Modelo": "10T","Varlor": "R$ 3,85"},
+				{"Modelo": "NOTE 10","Varlor": "R$ 3,85"},
+				{"Modelo": "NOTE 10 PRO","Varlor": "R$ 3,85"},
+				{"Modelo": "NOTE 10 5G LITE","Varlor": "R$ 3,85"},
+				{"Modelo": "REDMI NOTE 10","Varlor": "R$ 3,85"},
+				{"Modelo": "REDMI NOTE 10S","Varlor": "R$ 3,85"},
+				{"Modelo": "REDMI NOTE 5G","Varlor": "R$ 3,85"},
+				{"Modelo": "REDMI NOTE 10 PRO","Varlor": "R$ 3,85"},
+				{"Modelo": "11","Varlor": "R$ 3,85"},
+				{"Modelo": "11 LITE","Varlor": "R$ 3,85"},
+				{"Modelo": "POCOPHONE F1","Varlor": "R$ 3,85"},
+				{"Modelo": "POCOPHONE F2","Varlor": "R$ 3,85"},
+				{"Modelo": "POCOPHONE F3","Varlor": "R$ 3,85"},
+				{"Modelo": "POCOPHONE C3","Varlor": "R$ 3,85"},
+				{"Modelo": "POCOPHONE C3 PRO","Varlor": "R$ 3,85"},
+				{"Modelo": "POCOPHONE M3","Varlor": "R$ 3,85"},
+				{"Modelo": "POCOPHONE M3 PRO","Varlor": "R$ 3,85"},
+				{"Modelo": "POCOPHONE X3","Varlor": "R$ 3,85"},
+				{"Modelo": "POCOPHONE X3 PRO","Varlor": "R$ 3,85"}
+            ]
+        }, 
+		{"Modelo": "Samsung","Categoria": [
+				{"Modelo": "J1","Varlor": "R$ 3,85"},
+				{"Modelo": "J1 MINI","Varlor": "R$ 3,85"},
+				{"Modelo": "J1 2016","Varlor": "R$ 3,85"},
+				{"Modelo": "J2","Varlor": "R$ 3,85"},
+				{"Modelo": "J2 CORE","Varlor": "R$ 3,85"},
+				{"Modelo": "J2 PRIME","Varlor": "R$ 3,85"},
+				{"Modelo": "J3","Varlor": "R$ 3,85"},
+				{"Modelo": "J4","Varlor": "R$ 3,85"},
+				{"Modelo": "J4 PLUS","Varlor": "R$ 3,85"},
+				{"Modelo": "J4 CORE","Varlor": "R$ 3,85"},
+				{"Modelo": "J5","Varlor": "R$ 3,85"},
+				{"Modelo": "J5 2016","Varlor": "R$ 3,85"},
+				{"Modelo": "J5 PRIME","Varlor": "R$ 3,85"},
+				{"Modelo": "J5 PRO","Varlor": "R$ 3,85"},
+				{"Modelo": "J6","Varlor": "R$ 3,85"},
+				{"Modelo": "J6 PLUS","Varlor": "R$ 3,85"},
+				{"Modelo": "J PRIME","Varlor": "R$ 3,85"},
+				{"Modelo": "J7","Varlor": "R$ 3,85"},
+				{"Modelo": "J7 NEO","Varlor": "R$ 3,85"},
+				{"Modelo": "J7 2016","Varlor": "R$ 3,85"},
+				{"Modelo": "J7 PRIME","Varlor": "R$ 3,85"},
+				{"Modelo": "J7 PRO","Varlor": "R$ 3,85"},
+				{"Modelo": "J8","Varlor": "R$ 3,85"},
+				{"Modelo": "J8 PLUS","Varlor": "R$ 3,85"},
+				{"Modelo": "A01","Varlor": "R$ 3,85"},
+				{"Modelo": "A01 CORE","Varlor": "R$ 3,85"},
+				{"Modelo": "A02","Varlor": "R$ 3,85"},
+				{"Modelo": "A02 S","Varlor": "R$ 3,85"},
+				{"Modelo": "A03 S","Varlor": "R$ 3,85"},
+				{"Modelo": "A03 CORE","Varlor": "R$ 3,85"},
+				{"Modelo": "A10","Varlor": "R$ 3,85"},
+				{"Modelo": "A10 S","Varlor": "R$ 3,85"},
+				{"Modelo": "A11","Varlor": "R$ 3,85"},
+				{"Modelo": "A12","Varlor": "R$ 3,85"},
+				{"Modelo": "A20","Varlor": "R$ 3,85"},
+				{"Modelo": "A20 S","Varlor": "R$ 3,85"},
+				{"Modelo": "A21","Varlor": "R$ 3,85"},
+				{"Modelo": "A21S","Varlor": "R$ 3,85"},
+				{"Modelo": "A30","Varlor": "R$ 3,85"},
+				{"Modelo": "A30 S","Varlor": "R$ 3,85"},
+				{"Modelo": "A31","Varlor": "R$ 3,85"},
+				{"Modelo": "A32 4G","Varlor": "R$ 3,85"},
+				{"Modelo": "A32 5G","Varlor": "R$ 3,85"},
+				{"Modelo": "A40","Varlor": "R$ 3,85"},
+				{"Modelo": "A42","Varlor": "R$ 3,85"},
+				{"Modelo": "A50","Varlor": "R$ 3,85"},
+				{"Modelo": "A50 S","Varlor": "R$ 3,85"},
+				{"Modelo": "A51","Varlor": "R$ 3,85"},
+				{"Modelo": "A52","Varlor": "R$ 3,85"},
+				{"Modelo": "A70","Varlor": "R$ 3,85"},
+				{"Modelo": "A71","Varlor": "R$ 3,85"},
+				{"Modelo": "A72","Varlor": "R$ 3,85"},
+				{"Modelo": "A80","Varlor": "R$ 3,85"},
+				{"Modelo": "A81","Varlor": "R$ 3,85"},
+				{"Modelo": "A90","Varlor": "R$ 3,85"},
+				{"Modelo": "A91","Varlor": "R$ 3,85"},
+				{"Modelo": "A3 2017","Varlor": "R$ 3,85"},
+				{"Modelo": "A5 2018","Varlor": "R$ 3,85"},
+				{"Modelo": "A6","Varlor": "R$ 3,85"},
+				{"Modelo": "A6 PLUS","Varlor": "R$ 3,85"},
+				{"Modelo": "A7 2018","Varlor": "R$ 3,85"},
+				{"Modelo": "A8 2018","Varlor": "R$ 3,85"},
+				{"Modelo": "A8 PLUS","Varlor": "R$ 3,85"},
+				{"Modelo": "A9 2018","Varlor": "R$ 3,85"},
+				{"Modelo": "M10","Varlor": "R$ 3,85"},
+				{"Modelo": "M20","Varlor": "R$ 3,85"},
+				{"Modelo": "M21","Varlor": "R$ 3,85"},
+				{"Modelo": "M21 S","Varlor": "R$ 3,85"},
+				{"Modelo": "M30","Varlor": "R$ 3,85"},
+				{"Modelo": "M31","Varlor": "R$ 3,85"},
+				{"Modelo": "M31 S","Varlor": "R$ 3,85"},
+				{"Modelo": "M51","Varlor": "R$ 3,85"},
+				{"Modelo": "M62","Varlor": "R$ 3,85"},
+				{"Modelo": "D377","Varlor": "R$ 3,85"},
+				{"Modelo": "7562","Varlor": "R$ 3,85"},
+				{"Modelo": "7273","Varlor": "R$ 3,85"},
+				{"Modelo": "8552","Varlor": "R$ 3,85"},
+				{"Modelo": "8262","Varlor": "R$ 3,85"},
+				{"Modelo": "9082","Varlor": "R$ 3,85"},
+				{"Modelo": "G313","Varlor": "R$ 3,85"},
+				{"Modelo": "G3502","Varlor": "R$ 3,85"},
+				{"Modelo": "G355","Varlor": "R$ 3,85"},
+				{"Modelo": "G360","Varlor": "R$ 3,85"},
+				{"Modelo": "G530","Varlor": "R$ 3,85"},
+				{"Modelo": "H326","Varlor": "R$ 3,85"},
+				{"Modelo": "H422","Varlor": "R$ 3,85"},
+				{"Modelo": "H640","Varlor": "R$ 3,85"},
+				{"Modelo": "H640 XL","Varlor": "R$ 3,85"},
+				{"Modelo": "NOTE 8","Varlor": "R$ 3,85"},
+				{"Modelo": "NOTE 9","Varlor": "R$ 3,85"},
+				{"Modelo": "S3","Varlor": "R$ 3,85"},
+				{"Modelo": "S4 MINI","Varlor": "R$ 3,85"},
+				{"Modelo": "S6 EDGE","Varlor": "R$ 3,85"},
+				{"Modelo": "S7 EDGE","Varlor": "R$ 3,85"},
+				{"Modelo": "S8 PLUS","Varlor": "R$ 3,85"},
+				{"Modelo": "S9 PLUS","Varlor": "R$ 3,85"},
+				{"Modelo": "S10","Varlor": "R$ 3,85"},
+				{"Modelo": "S10 E","Varlor": "R$ 3,85"},
+				{"Modelo": "S10 LITE","Varlor": "R$ 3,85"},
+				{"Modelo": "S20 FE","Varlor": "R$ 3,85"},
+				{"Modelo": "S21","Varlor": "R$ 3,85"},
+				{"Modelo": "S21 PLUS","Varlor": "R$ 3,85"},
+				{"Modelo": "S21 FE","Varlor": "R$ 3,85"}
+            ]
+        }, 
+		{"Modelo": "Motorola","Categoria": [
+				{"Modelo": "MOTO C","Varlor": "R$ 3,85"}, 
+				{"Modelo": "MOTO C PLUS","Varlor": "R$ 3,85"}, 
+				{"Modelo": "MOTO E","Varlor": "R$ 3,85"}, 
+				{"Modelo": "MOTO E 2020","Varlor": "R$ 3,85"}, 
+				{"Modelo": "MOTO E 20","Varlor": "R$ 3,85"}, 
+				{"Modelo": "MOTO E 40","Varlor": "R$ 3,85"}, 
+				{"Modelo": "MOTO E 5","Varlor": "R$ 3,85"}, 
+				{"Modelo": "MOTO E PLUS","Varlor": "R$ 3,85"}, 
+				{"Modelo": "MOTO E 5 PLAY","Varlor": "R$ 3,85"}, 
+				{"Modelo": "MOTO E6","Varlor": "R$ 3,85"}, 
+				{"Modelo": "MOTO E6 PLUS","Varlor": "R$ 3,85"}, 
+				{"Modelo": "MOTO E6 PLAY","Varlor": "R$ 3,85"}, 
+				{"Modelo": "MOTO E6 S","Varlor": "R$ 3,85"}, 
+				{"Modelo": "MOTO E6 I","Varlor": "R$ 3,85"}, 
+				{"Modelo": "MOTO E7 PLUS","Varlor": "R$ 3,85"}, 
+				{"Modelo": "MOTO E7 2021","Varlor": "R$ 3,85"}, 
+				{"Modelo": "MOTO E7 POWER","Varlor": "R$ 3,85"}, 
+				{"Modelo": "MOTO G","Varlor": "R$ 3,85"}, 
+				{"Modelo": "MOTO G2","Varlor": "R$ 3,85"}, 
+				{"Modelo": "MOTO G3","Varlor": "R$ 3,85"}, 
+				{"Modelo": "MOTO G4","Varlor": "R$ 3,85"}, 
+				{"Modelo": "MOTO G4 PLUS","Varlor": "R$ 3,85"}, 
+				{"Modelo": "MOTO G4 PLAY","Varlor": "R$ 3,85"}, 
+				{"Modelo": "MOTO G5","Varlor": "R$ 3,85"}, 
+				{"Modelo": "MOTO G5 PLUS","Varlor": "R$ 3,85"}, 
+				{"Modelo": "MOTO G5 S","Varlor": "R$ 3,85"}, 
+				{"Modelo": "MOTO G5 PLUS","Varlor": "R$ 3,85"}, 
+				{"Modelo": "MOTO G5G","Varlor": "R$ 3,85"}, 
+				{"Modelo": "MOTO G5G PLUS","Varlor": "R$ 3,85"}, 
+				{"Modelo": "MOTO G6","Varlor": "R$ 3,85"}, 
+				{"Modelo": "MOTO G6 PLUS","Varlor": "R$ 3,85"}, 
+				{"Modelo": "MOTO G6 PLAY","Varlor": "R$ 3,85"}, 
+				{"Modelo": "MOTO G7","Varlor": "R$ 3,85"}, 
+				{"Modelo": "MOTO G7 PLUS","Varlor": "R$ 3,85"}, 
+				{"Modelo": "MOTO G7 PLAY","Varlor": "R$ 3,85"}, 
+				{"Modelo": "MOTO G7 POWER","Varlor": "R$ 3,85"}, 
+				{"Modelo": "MOTO G8","Varlor": "R$ 3,85"}, 
+				{"Modelo": "MOTO G8 PLUS","Varlor": "R$ 3,85"}, 
+				{"Modelo": "MOTO G8 PLAY","Varlor": "R$ 3,85"}, 
+				{"Modelo": "MOTO G8 POWER","Varlor": "R$ 3,85"}, 
+				{"Modelo": "MOTO G8 POWER LITE","Varlor": "R$ 3,85"}, 
+				{"Modelo": "MOTO G9","Varlor": "R$ 3,85"}, 
+				{"Modelo": "MOTO G9 PLUS","Varlor": "R$ 3,85"}, 
+				{"Modelo": "MOTO G9 PLAY","Varlor": "R$ 3,85"}, 
+				{"Modelo": "MOTO G9 POWER","Varlor": "R$ 3,85"}, 
+				{"Modelo": "MOTO G10","Varlor": "R$ 3,85"}, 
+				{"Modelo": "MOTO G10 PLAY","Varlor": "R$ 3,85"}, 
+				{"Modelo": "MOTO G10 POWER","Varlor": "R$ 3,85"}, 
+				{"Modelo": "MOTO G20","Varlor": "R$ 3,85"}, 
+				{"Modelo": "MOTO G30","Varlor": "R$ 3,85"}, 
+				{"Modelo": "MOTO G40 FUSION","Varlor": "R$ 3,85"}, 
+				{"Modelo": "MOTO G50","Varlor": "R$ 3,85"}, 
+				{"Modelo": "MOTO G60","Varlor": "R$ 3,85"}, 
+				{"Modelo": "MOTO G100","Varlor": "R$ 3,85"}, 
+				{"Modelo": "MOTO ONE","Varlor": "R$ 3,85"}, 
+				{"Modelo": "MOTO ONE ACTION","Varlor": "R$ 3,85"}, 
+				{"Modelo": "MOTO ONE VISION","Varlor": "R$ 3,85"}, 
+				{"Modelo": "MOTO ONE MACRO","Varlor": "R$ 3,85"}, 
+				{"Modelo": "MOTO ONE HYPER","Varlor": "R$ 3,85"}, 
+				{"Modelo": "MOTO ONE ZOOM","Varlor": "R$ 3,85"}, 
+				{"Modelo": "MOTO ONE FUSION","Varlor": "R$ 3,85"}, 
+				{"Modelo": "MOTO ONE FUSION PLUS","Varlor": "R$ 3,85"}, 
+				{"Modelo": "MOTO G","Varlor": "R$ 3,85"}, 
+				{"Modelo": "MOTO G5","Varlor": "R$ 3,85"}, 
+				{"Modelo": "MOTO X STYLE","Varlor": "R$ 3,85"},
+				{"Modelo": "MOTO Z FORCE","Varlor": "R$ 3,85"}, 
+				{"Modelo": "MOTO Z PLAY","Varlor": "R$ 3,85"}, 
+				{"Modelo": "MOTO Z 4 PLAY","Varlor": "R$ 3,85"}
+            ]
+        }, 
+		{"Modelo": "LG","Categoria": 
+			[
+				{"Modelo": "K22 / K22 PLUS","Varlor": "R$ 3,85"},
+				{"Modelo": "K40","Varlor": "R$ 3,85"},
+				{"Modelo": "K40 S","Varlor": "R$ 3,85"},
+				{"Modelo": "K41 S","Varlor": "R$ 3,85"},
+				{"Modelo": "K42","Varlor": "R$ 3,85"},
+				{"Modelo": "K50","Varlor": "R$ 3,85"},
+				{"Modelo": "K50 S","Varlor": "R$ 3,85"},
+				{"Modelo": "K51 S","Varlor": "R$ 3,85"},
+				{"Modelo": "K52","Varlor": "R$ 3,85"},
+				{"Modelo": "K61","Varlor": "R$ 3,85"},
+				{"Modelo": "K62","Varlor": "R$ 3,85"},
+				{"Modelo": "K7","Varlor": "R$ 3,85"},
+				{"Modelo": "K71","Varlor": "R$ 3,85"},
+				{"Modelo": "K8","Varlor": "R$ 3,85"},
+				{"Modelo": "K8 PLUS","Varlor": "R$ 3,85"},
+				{"Modelo": "K9","Varlor": "R$ 3,85"},
+				{"Modelo": "K10","Varlor": "R$ 3,85"},
+				{"Modelo": "K10 2017","Varlor": "R$ 3,85"},
+				{"Modelo": "K10 2018","Varlor": "R$ 3,85"},
+				{"Modelo": "K10 PRO","Varlor": "R$ 3,85"},
+				{"Modelo": "K10 POWER","Varlor": "R$ 3,85"},
+				{"Modelo": "K11 / K11 PLUS","Varlor": "R$ 3,85"},
+				{"Modelo": "K12 / K12 PLUS","Varlor": "R$ 3,85"},
+				{"Modelo": "K12 MAX / K12 PRIME","Varlor": "R$ 3,85"},
+				{"Modelo": "X SCREEN","Varlor": "R$ 3,85"},
+				{"Modelo": "X CAM","Varlor": "R$ 3,85"},
+				{"Modelo": "X POWER","Varlor": "R$ 3,85"}
+            ]
+        }, 
+		{"Modelo": "ASUS","Categoria": 
+			[
+				{"Modelo": "ZENFONE 3 5.7 (ZS500KL)","Varlor": "R$ 3,85"},
+				{"Modelo": "ZENFONE 3 MAX 5.2 (ZC520TL)","Varlor": "R$ 3,85"},
+				{"Modelo": "ZENFONE 3 MAX 5.5 (ZC553KL)","Varlor": "R$ 3,85"},
+				{"Modelo": "ZENFONE 4 MAX 5.5 (ZC554KL) ","Varlor": "R$ 3,85"},
+				{"Modelo": "ZENFONE 4 SELFIL (ZD553KL)","Varlor": "R$ 3,85"},
+				{"Modelo": "ZENFONE 4 SELFIL PRO (ZD552KL)","Varlor": "R$ 3,85"},
+				{"Modelo": "ZENFONE 5 (A501CG)","Varlor": "R$ 3,85"},
+				{"Modelo": "ZENFONE 5Z (2018)(ZE602KL)","Varlor": "R$ 3,85"},
+				{"Modelo": "ZENFONE 5 SELFIL (ZC600KL)","Varlor": "R$ 3,85"},
+				{"Modelo": "ZENFONE MAX PLUS MI (ZB570TL)","Varlor": "R$ 3,85"},
+				{"Modelo": "ZENFONE MAX PLUS M2 (4C003BR)","Varlor": "R$ 3,85"},
+				{"Modelo": "ZENFONE MAX PRO M2 (ZB631KL)","Varlor": "R$ 3,85"},
+				{"Modelo": "ZENFONE MAX SHOT (ZB634KL)","Varlor": "R$ 3,85"},
+				{"Modelo": "ZENFONE GO MINI (ZB452KG)","Varlor": "R$ 3,85"}
+			]
+        }
+    ],
+    "PeliculaTraseiraCeramica": [
+        {"Modelo": "Apple","Categoria": 
+			[
+				{"Modelo": "6 PRETO","Varlor": "R$ 3,85"},
+				{"Modelo": "7 / 8 PRETO","Varlor": "R$ 3,85"},
+				{"Modelo": "6 BRANCO","Varlor": "R$ 3,85"},
+				{"Modelo": "7 / 8 BRANCO","Varlor": "R$ 3,85"},
+				{"Modelo": "6 PLUS PRETO","Varlor": "R$ 3,85"},
+				{"Modelo": "7 / 8 PLUS PRETO","Varlor": "R$ 3,85"},
+				{"Modelo": "6 PLUS BRANCO","Varlor": "R$ 3,85"},
+				{"Modelo": "7 / 8 PLUS BRANCO","Varlor": "R$ 3,85"},
+				{"Modelo": "X","Varlor": "R$ 3,85"},
+				{"Modelo": "XS","Varlor": "R$ 3,85"},
+				{"Modelo": "XS MAX","Varlor": "R$ 3,85"},
+				{"Modelo": "11","Varlor": "R$ 3,85"},
+				{"Modelo": "11 PRO","Varlor": "R$ 3,85"},
+				{"Modelo": "11 PRO MAX","Varlor": "R$ 3,85"},
+				{"Modelo": "12 MINI","Varlor": "R$ 3,85"},
+				{"Modelo": "12 / 12 PRO","Varlor": "R$ 3,85"},
+				{"Modelo": "12 PRO MAX","Varlor": "R$ 3,85"},
+				{"Modelo": "13 MINI","Varlor": "R$ 3,85"},
+				{"Modelo": "13 / 13 PRO","Varlor": "R$ 3,85"},
+				{"Modelo": "13 PRO MAX","Varlor": "R$ 3,85"},
+				{"Modelo": "14","Varlor": "R$ 3,85"},
+				{"Modelo": "14 PLUS","Varlor": "R$ 3,85"},
+				{"Modelo": "14 PRO","Varlor": "R$ 3,85"},
+				{"Modelo": "14 PRO MAX","Varlor": "R$ 3,85"},
+				{"Modelo": "15","Varlor": "R$ 3,85"},
+				{"Modelo": "15 PLUS","Varlor": "R$ 3,85"},
+				{"Modelo": "15 PRO","Varlor": "R$ 3,85"},
+				{"Modelo": "15 PRO MAX","Varlor": "R$ 3,85"}
+            ]
+        }
+    ],
+    "PeliculaCamera": [
+        {"Modelo": "Xiaomi","Categoria": 
+			[
+				{"Modelo": "3D REALME 7","Varlor": "R$ 3,85"},
+				{"Modelo": "3D REALME 7 PRO","Varlor": "R$ 3,85"},
+				{"Modelo": "3D REALME 8","Varlor": "R$ 3,85"},
+				{"Modelo": "3D REALME 8 PRO","Varlor": "R$ 3,85"},
+				{"Modelo": "3D REALME C11","Varlor": "R$ 3,85"},
+				{"Modelo": "3D REALME C15","Varlor": "R$ 3,85"},
+				{"Modelo": "3D REALME C25","Varlor": "R$ 3,85"},
+				{"Modelo": "3D REDMI NOTE 9","Varlor": "R$ 3,85"},
+				{"Modelo": "3D REDMI NOTE 9S","Varlor": "R$ 3,85"},
+				{"Modelo": "3D REDMI NOTE 9 PRO","Varlor": "R$ 3,85"},
+				{"Modelo": "3D REDMI 9T (4G)","Varlor": "R$ 3,85"},
+				{"Modelo": "3D REDMI NOTE 10 / NOTE 10S","Varlor": "R$ 3,85"},
+				{"Modelo": "3D READMI NOTE 10 (5G)","Varlor": "R$ 3,85"},
+				{"Modelo": "3D REALME NOTE 10 PRO / PRO MAX","Varlor": "R$ 3,85"},
+				{"Modelo": "3D 11","Varlor": "R$ 3,85"},
+				{"Modelo": "3D 11 PRO","Varlor": "R$ 3,85"},
+				{"Modelo": "3D 11 LITE","Varlor": "R$ 3,85"},
+				{"Modelo": "3D 11 ULTRA","Varlor": "R$ 3,85"},
+				{"Modelo": "3D POCOPHONE X3 / X3 PRO","Varlor": "R$ 3,85"},
+				{"Modelo": "3D POCOPHONE F3","Varlor": "R$ 3,85"},
+				{"Modelo": "3D POCOPHONE M3","Varlor": "R$ 3,85"},
+				{"Modelo": "3D POCOPHONE C3","Varlor": "R$ 3,85"}				
+            ]
+        }, 
+		{"Modelo": "Samsung","Categoria": 
+			[
+				{"Modelo": "3D A02","Varlor": "R$ 3,85"},
+				{"Modelo": "3D A02S","Varlor": "R$ 3,85"},
+				{"Modelo": "3D A03S","Varlor": "R$ 3,85"},
+				{"Modelo": "3D A12 / A42","Varlor": "R$ 3,85"},
+				{"Modelo": "3D A13","Varlor": "R$ 3,85"},
+				{"Modelo": "3D A21S","Varlor": "R$ 3,85"},
+				{"Modelo": "3D A22 4G","Varlor": "R$ 3,85"},
+				{"Modelo": "3D A31","Varlor": "R$ 3,85"},
+				{"Modelo": "3D A32 (4G)","Varlor": "R$ 3,85"},
+				{"Modelo": "3D A51","Varlor": "R$ 3,85"},
+				{"Modelo": "3D A52","Varlor": "R$ 3,85"},
+				{"Modelo": "3D A52S","Varlor": "R$ 3,85"},
+				{"Modelo": "3D A71","Varlor": "R$ 3,85"},
+				{"Modelo": "3D A72","Varlor": "R$ 3,85"},
+				{"Modelo": "3D M12","Varlor": "R$ 3,85"},
+				{"Modelo": "3D M22 4G","Varlor": "R$ 3,85"},
+				{"Modelo": "3D M31","Varlor": "R$ 3,85"},
+				{"Modelo": "3D M31S","Varlor": "R$ 3,85"},
+				{"Modelo": "3D M51S","Varlor": "R$ 3,85"},
+				{"Modelo": "3D M62","Varlor": "R$ 3,85"},
+				{"Modelo": "3D NOTE 10","Varlor": "R$ 3,85"},
+				{"Modelo": "3D NOTE LITE","Varlor": "R$ 3,85"},
+				{"Modelo": "3D NOTE 20","Varlor": "R$ 3,85"},
+				{"Modelo": "3D NOTE 20 PRO","Varlor": "R$ 3,85"},
+				{"Modelo": "3D NOTE 20 ULTRA","Varlor": "R$ 3,85"},
+				{"Modelo": "3D S10 LITE","Varlor": "R$ 3,85"},
+				{"Modelo": "3D S20","Varlor": "R$ 3,85"},
+				{"Modelo": "3D S20 PLUS","Varlor": "R$ 3,85"},
+				{"Modelo": "3D S20 LITE","Varlor": "R$ 3,85"},
+				{"Modelo": "3D S20 ULTRA","Varlor": "R$ 3,85"},
+				{"Modelo": "3D S20FE","Varlor": "R$ 3,85"},
+				{"Modelo": "3D S21","Varlor": "R$ 3,85"},
+				{"Modelo": "3D S21 PLUS","Varlor": "R$ 3,85"},
+				{"Modelo": "3D S21 ULTRA","Varlor": "R$ 3,85"},
+				{"Modelo": "3D S21 FE","Varlor": "R$ 3,85"}
+			]
+        }, 
+		{"Modelo": "Motorola","Categoria": 
+			[
+				{"Modelo": "3D G 5G","Varlor": "R$ 3,85"},
+				{"Modelo": "3D G 5G PLUS","Varlor": "R$ 3,85"},
+				{"Modelo": "3D G9","Varlor": "R$ 3,85"},
+				{"Modelo": "3D G9 PLAY","Varlor": "R$ 3,85"},
+				{"Modelo": "3D G9 PLUS","Varlor": "R$ 3,85"},
+				{"Modelo": "3D G9 POWER","Varlor": "R$ 3,85"},
+				{"Modelo": "3D G10","Varlor": "R$ 3,85"},
+				{"Modelo": "3D G10 POWER","Varlor": "R$ 3,85"},
+				{"Modelo": "3D G20","Varlor": "R$ 3,85"},
+				{"Modelo": "3D G30","Varlor": "R$ 3,85"},
+				{"Modelo": "3D G40 FUSION","Varlor": "R$ 3,85"},
+				{"Modelo": "3D G50","Varlor": "R$ 3,85"},
+				{"Modelo": "3D G50 5G","Varlor": "R$ 3,85"},
+				{"Modelo": "3D G60","Varlor": "R$ 3,85"},
+				{"Modelo": "3D G60S","Varlor": "R$ 3,85"},
+				{"Modelo": "3D 100","Varlor": "R$ 3,85"},
+				{"Modelo": "3D E7 PLUS","Varlor": "R$ 3,85"},
+				{"Modelo": "3D E7 POWER","Varlor": "R$ 3,85"},
+				{"Modelo": "3D E20","Varlor": "R$ 3,85"},
+				{"Modelo": "3D E40","Varlor": "R$ 3,85"},
+				{"Modelo": "3D EDGE PLUS","Varlor": "R$ 3,85"},
+				{"Modelo": "3D EDGE 20","Varlor": "R$ 3,85"},
+				{"Modelo": "3D EDGE 20 LITE","Varlor": "R$ 3,85"},
+				{"Modelo": "3D EDGE 20 PRO","Varlor": "R$ 3,85"}
+            ]
+        }, 
+		{"Modelo": "Apple","Categoria": 
+			[
+				{"Modelo": "6 PRETO","Varlor": "R$ 3,85"},
+				{"Modelo": "7 / 8 PRETO","Varlor": "R$ 3,85"},
+				{"Modelo": "6 BRANCO","Varlor": "R$ 3,85"},
+				{"Modelo": "7 / 8 BRANCO","Varlor": "R$ 3,85"},
+				{"Modelo": "6 PLUS PRETO","Varlor": "R$ 3,85"},
+				{"Modelo": "7 / 8 PLUS PRETO","Varlor": "R$ 3,85"},
+				{"Modelo": "6 PLUS BRANCO","Varlor": "R$ 3,85"},
+				{"Modelo": "7 / 8 PLUS BRANCO","Varlor": "R$ 3,85"},
+				{"Modelo": "X","Varlor": "R$ 3,85"},
+				{"Modelo": "XS","Varlor": "R$ 3,85"},
+				{"Modelo": "XS MAX","Varlor": "R$ 3,85"},
+				{"Modelo": "11","Varlor": "R$ 3,85"},
+				{"Modelo": "11 PRO","Varlor": "R$ 3,85"},
+				{"Modelo": "11 PRO MAX","Varlor": "R$ 3,85"},
+				{"Modelo": "12 MINI","Varlor": "R$ 3,85"},
+				{"Modelo": "12 / 12 PRO","Varlor": "R$ 3,85"},
+				{"Modelo": "12 PRO MAX","Varlor": "R$ 3,85"},
+				{"Modelo": "13 MINI","Varlor": "R$ 3,85"},
+				{"Modelo": "13 / 13 PRO","Varlor": "R$ 3,85"},
+				{"Modelo": "13 PRO MAX","Varlor": "R$ 3,85"},
+				{"Modelo": "14","Varlor": "R$ 3,85"},
+				{"Modelo": "14 PLUS","Varlor": "R$ 3,85"},
+				{"Modelo": "14 PRO","Varlor": "R$ 3,85"},
+				{"Modelo": "14 PRO MAX","Varlor": "R$ 3,85"},
+				{"Modelo": "15","Varlor": "R$ 3,85"},
+				{"Modelo": "15 PLUS","Varlor": "R$ 3,85"},
+				{"Modelo": "15 PRO","Varlor": "R$ 3,85"},
+				{"Modelo": "15 PRO MAX","Varlor": "R$ 3,85"}
+			]
+        }
+    ],
+    "CapaSiliconeNova": [
+        {"Modelo": "Motorola","Categoria": 
+			[
+				{"Modelo": "G24","Varlor": "R$ 2,80"},
+				{"Modelo": "G43","Varlor": "R$ 2,80"},
+				{"Modelo": "G54","Varlor": "R$ 2,80"},
+				{"Modelo": "G14","Varlor": "R$ 2,80"},
+				{"Modelo": "G13","Varlor": "R$ 2,80"},
+				{"Modelo": "G53","Varlor": "R$ 2,80"},
+				{"Modelo": "G50","Varlor": "R$ 2,80"},
+				{"Modelo": "G60","Varlor": "R$ 2,80"},
+				{"Modelo": "G51","Varlor": "R$ 2,80"},
+				{"Modelo": "G32","Varlor": "R$ 2,80"},
+				{"Modelo": "G54","Varlor": "R$ 2,80"},
+				{"Modelo": "G71","Varlor": "R$ 2,80"},
+				{"Modelo": "G73","Varlor": "R$ 2,80"},
+				{"Modelo": "G34","Varlor": "R$ 2,80"},
+				{"Modelo": "EDGE 40","Varlor": "R$ 2,80"},
+				{"Modelo": "EDGE 40 PRO","Varlor": "R$ 2,80"},
+				{"Modelo": "EDGE 40 NEO","Varlor": "R$ 2,80"},
+				{"Modelo": "E6S","Varlor": "R$ 2,80"}
+            ]
+        }, 
+		{"Modelo": "Samsung","Categoria": 
+			[
+				{"Modelo": "S24","Varlor": "R$ 2,80"},
+				{"Modelo": "S24 PLUS","Varlor": "R$ 2,80"},
+				{"Modelo": "S24 ULTRA","Varlor": "R$ 2,80"},
+				{"Modelo": "A05","Varlor": "R$ 2,80"},
+				{"Modelo": "A15","Varlor": "R$ 2,80"},
+				{"Modelo": "A05S","Varlor": "R$ 2,80"},
+				{"Modelo": "A04E","Varlor": "R$ 2,80"},
+				{"Modelo": "A25","Varlor": "R$ 2,80"},
+				{"Modelo": "A53","Varlor": "R$ 2,80"},
+				{"Modelo": "A05","Varlor": "R$ 2,80"}
+            ]
+        },
+        {"Modelo": "Xiomi","Categoria": 
+			[
+				{"Modelo": "13C","Varlor": "R$ 2,80"},
+				{"Modelo": "MI 12T","Varlor": "R$ 2,80"},
+				{"Modelo": "MI 14","Varlor": "R$ 2,80"}
+            ]
+        }
+    ],
+    "CapaSilicone": [
+        {"Modelo": "Samsung","Categoria": 
+			[
+				{"Modelo": "J1 2016","Varlor": "R$ 3,85"},
+				{"Modelo": "J1 MINI","Varlor": "R$ 3,85"},
+				{"Modelo": "J2 PRIME","Varlor": "R$ 2,80"},
+				{"Modelo": "J2 CORE","Varlor": "R$ 2,80"},
+				{"Modelo": "J3","Varlor": "R$ 2,80"},
+				{"Modelo": "J4","Varlor": "R$ 2,80"},
+				{"Modelo": "J4 PLUS","Varlor": "R$ 2,80"},
+				{"Modelo": "J5","Varlor": "R$ 2,80"},
+				{"Modelo": "J5 PRO","Varlor": "R$ 2,80"},
+				{"Modelo": "J5 PRIME","Varlor": "R$ 2,80"},
+				{"Modelo": "J6","Varlor": "R$ 2,80"},
+				{"Modelo": "J6 PLUS","Varlor": "R$ 2,80"},
+				{"Modelo": "J7","Varlor": "R$ 2,80"},
+				{"Modelo": "J7 PRIME","Varlor": "R$ 2,80"},
+				{"Modelo": "J7 2016","Varlor": "R$ 2,80"},
+				{"Modelo": "J7 PRO","Varlor": "R$ 2,80"},
+				{"Modelo": "J8","Varlor": "R$ 2,80"},
+				{"Modelo": "A01","Varlor": "R$ 2,80"},
+				{"Modelo": "A01 CORE","Varlor": "R$ 2,80"},
+				{"Modelo": "A02S","Varlor": "R$ 2,80"},
+				{"Modelo": "A03","Varlor": "R$ 2,80"},
+				{"Modelo": "A03S","Varlor": "R$ 2,80"},
+				{"Modelo": "A03 CORE","Varlor": "R$ 2,80"},
+				{"Modelo": "A04","Varlor": "R$ 2,80"},
+				{"Modelo": "A04 E","Varlor": "R$ 2,80"},
+				{"Modelo": "A07 2017","Varlor": "R$ 2,80"},
+				{"Modelo": "A07 2018","Varlor": "R$ 2,80"},
+				{"Modelo": "A08 2018","Varlor": "R$ 2,80"},
+				{"Modelo": "A8 PLUS","Varlor": "R$ 2,80"},
+				{"Modelo": "A9 2018","Varlor": "R$ 2,80"},
+				{"Modelo": "A10","Varlor": "R$ 2,80"},
+				{"Modelo": "A10 S","Varlor": "R$ 2,80"},
+				{"Modelo": "A11","Varlor": "R$ 2,80"},
+				{"Modelo": "A12","Varlor": "R$ 2,80"},
+				{"Modelo": "A13 4G","Varlor": "R$ 2,80"},
+				{"Modelo": "A13 5G / A04S","Varlor": "R$ 2,80"},
+				{"Modelo": "A14","Varlor": "R$ 2,80"},
+				{"Modelo": "A20 / A30","Varlor": "R$ 2,80"},
+				{"Modelo": "A20S","Varlor": "R$ 2,80"},
+				{"Modelo": "A21","Varlor": "R$ 2,80"},
+				{"Modelo": "A21S","Varlor": "R$ 2,80"},
+				{"Modelo": "A22 4G","Varlor": "R$ 2,80"},
+				{"Modelo": "A22 5G","Varlor": "R$ 2,80"},
+				{"Modelo": "A23","Varlor": "R$ 2,80"},
+				{"Modelo": "A30 S / A50","Varlor": "R$ 2,80"},
+				{"Modelo": "A31","Varlor": "R$ 2,80"},
+				{"Modelo": "A32 4G","Varlor": "R$ 2,80"},
+				{"Modelo": "A32 5G","Varlor": "R$ 2,80"},
+				{"Modelo": "A33","Varlor": "R$ 2,80"},
+				{"Modelo": "A34","Varlor": "R$ 2,80"},
+				{"Modelo": "A51","Varlor": "R$ 2,80"},
+				{"Modelo": "A52 / A52S","Varlor": "R$ 2,80"},
+				{"Modelo": "A53","Varlor": "R$ 2,80"},
+				{"Modelo": "A54","Varlor": "R$ 2,80"},
+				{"Modelo": "A70","Varlor": "R$ 2,80"},
+				{"Modelo": "A71","Varlor": "R$ 2,80"},
+				{"Modelo": "A72","Varlor": "R$ 2,80"},
+				{"Modelo": "A73","Varlor": "R$ 2,80"},
+				{"Modelo": "A81 / NOTE 10 LITE","Varlor": "R$ 2,80"},
+				{"Modelo": "A91 / S10 LITE","Varlor": "R$ 2,80"},
+				{"Modelo": "S7","Varlor": "R$ 2,80"},
+				{"Modelo": "S7 EDGE","Varlor": "R$ 2,80"},
+				{"Modelo": "S8","Varlor": "R$ 2,80"},
+				{"Modelo": "S8 PLUS","Varlor": "R$ 2,80"},
+				{"Modelo": "S9","Varlor": "R$ 2,80"},
+				{"Modelo": "S10","Varlor": "R$ 2,80"},
+				{"Modelo": "S10 E","Varlor": "R$ 2,80"},
+				{"Modelo": "S10 PLUS","Varlor": "R$ 2,80"},
+				{"Modelo": "S20","Varlor": "R$ 2,80"},
+				{"Modelo": "S20 ULTRA","Varlor": "R$ 2,80"},
+				{"Modelo": "S20FE","Varlor": "R$ 2,80"},
+				{"Modelo": "S21 PLUS","Varlor": "R$ 2,80"},
+				{"Modelo": "S21 ULTRA","Varlor": "R$ 2,80"},
+				{"Modelo": "S22","Varlor": "R$ 2,80"},
+				{"Modelo": "S22 PLUS / S20 PRO","Varlor": "R$ 2,80"},
+				{"Modelo": "S23","Varlor": "R$ 2,80"},
+				{"Modelo": "S23 PLUS","Varlor": "R$ 2,80"},
+				{"Modelo": "S23 ULTRA","Varlor": "R$ 2,80"},
+				{"Modelo": "SM NOTE 8","Varlor": "R$ 2,80"},
+				{"Modelo": "SM NOTE 9","Varlor": "R$ 2,80"},
+				{"Modelo": "SM NOTE 10","Varlor": "R$ 2,80"},
+				{"Modelo": "SM NOTE 20","Varlor": "R$ 2,80"},
+				{"Modelo": "M13 4G","Varlor": "R$ 2,80"},
+				{"Modelo": "M14 5G","Varlor": "R$ 2,80"},
+				{"Modelo": "M22","Varlor": "R$ 2,80"},
+				{"Modelo": "M23","Varlor": "R$ 2,80"},
+				{"Modelo": "M20","Varlor": "R$ 2,80"},
+				{"Modelo": "M30","Varlor": "R$ 2,80"},
+				{"Modelo": "M31 / M21S","Varlor": "R$ 2,80"},
+				{"Modelo": "M32","Varlor": "R$ 2,80"},
+				{"Modelo": "M33","Varlor": "R$ 2,80"},
+				{"Modelo": "M51","Varlor": "R$ 2,80"},
+				{"Modelo": "M52","Varlor": "R$ 2,80"},
+				{"Modelo": "M54","Varlor": "R$ 2,80"},
+				{"Modelo": "M62","Varlor": "R$ 2,80"},
+				{"Modelo": "A52","Varlor": "R$ 2,80"},
+				{"Modelo": "A54","Varlor": "R$ 2,80"},
+				{"Modelo": "A55","Varlor": "R$ 2,80"},
+				{"Modelo": "A15","Varlor": "R$ 2,80"},
+				{"Modelo": "A25","Varlor": "R$ 2,80"},
+				{"Modelo": "A32","Varlor": "R$ 2,80"},
+				{"Modelo": "A53","Varlor": "R$ 2,80"},
+				{"Modelo": "A13","Varlor": "R$ 2,80"},
+				{"Modelo": "A24","Varlor": "R$ 2,80"},
+				{"Modelo": "A14","Varlor": "R$ 2,80"},
+				{"Modelo": "A72","Varlor": "R$ 2,80"}
+			]
+        }, 
+		{"Modelo": "Motorola","Categoria": 
+			[
+				{"Modelo": "G2","Varlor": "R$ 2,80"},
+				{"Modelo": "G3","Varlor": "R$ 2,80"},
+				{"Modelo": "G4 PLUS","Varlor": "R$ 2,80"},
+				{"Modelo": "G4 PLAY","Varlor": "R$ 2,80"},
+				{"Modelo": "G5 PLUS","Varlor": "R$ 2,80"},
+				{"Modelo": "G5","Varlor": "R$ 2,80"},
+				{"Modelo": "G5 S PLUS","Varlor": "R$ 2,80"},
+				{"Modelo": "G5G","Varlor": "R$ 2,80"},
+				{"Modelo": "G5 G PLUS","Varlor": "R$ 2,80"},
+				{"Modelo": "G6","Varlor": "R$ 2,80"},
+				{"Modelo": "G6 PLAY","Varlor": "R$ 2,80"},
+				{"Modelo": "G6 PLUS","Varlor": "R$ 2,80"},
+				{"Modelo": "G7 POWER","Varlor": "R$ 2,80"},
+				{"Modelo": "G8 POWER","Varlor": "R$ 2,80"},
+				{"Modelo": "G8 POWER LITE","Varlor": "R$ 2,80"},
+				{"Modelo": "G8 PLAY","Varlor": "R$ 2,80"},
+				{"Modelo": "G8 PLUS","Varlor": "R$ 2,80"},
+				{"Modelo": "G9 PLUS","Varlor": "R$ 2,80"},
+				{"Modelo": "G9 PLAY","Varlor": "R$ 2,80"},
+				{"Modelo": "G9 POWER","Varlor": "R$ 2,80"},
+				{"Modelo": "G10 / G20 / G30","Varlor": "R$ 2,80"},
+				{"Modelo": "G22","Varlor": "R$ 2,80"},
+				{"Modelo": "G23 / G13","Varlor": "R$ 2,80"},
+				{"Modelo": "G32","Varlor": "R$ 2,80"},
+				{"Modelo": "G40","Varlor": "R$ 2,80"},
+				{"Modelo": "G41","Varlor": "R$ 2,80"},
+				{"Modelo": "G42","Varlor": "R$ 2,80"},
+				{"Modelo": "G50 4G","Varlor": "R$ 2,80"},
+				{"Modelo": "G50 5G","Varlor": "R$ 2,80"},
+				{"Modelo": "G51","Varlor": "R$ 2,80"},
+				{"Modelo": "G52 / G82","Varlor": "R$ 2,80"},
+				{"Modelo": "G53","Varlor": "R$ 2,80"},
+				{"Modelo": "G60","Varlor": "R$ 2,80"},
+				{"Modelo": "G60 S","Varlor": "R$ 2,80"},
+				{"Modelo": "G62","Varlor": "R$ 2,80"},
+				{"Modelo": "G71","Varlor": "R$ 2,80"},
+				{"Modelo": "G72","Varlor": "R$ 2,80"},
+				{"Modelo": "G73","Varlor": "R$ 2,80"},
+				{"Modelo": "G100","Varlor": "R$ 2,80"},
+				{"Modelo": "G200","Varlor": "R$ 2,80"},
+				{"Modelo": "Z2 PLAY","Varlor": "R$ 2,80"},
+				{"Modelo": "Z3 PLAY","Varlor": "R$ 2,80"},
+				{"Modelo": "E5 PLAY","Varlor": "R$ 2,80"},
+				{"Modelo": "E5 PLUS","Varlor": "R$ 2,80"},
+				{"Modelo": "E 6S","Varlor": "R$ 2,80"},
+				{"Modelo": "E6 PLAY","Varlor": "R$ 2,80"},
+				{"Modelo": "E7 PLUS","Varlor": "R$ 2,80"},
+				{"Modelo": "E7","Varlor": "R$ 2,80"},
+				{"Modelo": "E7 POWER","Varlor": "R$ 2,80"},
+				{"Modelo": "E13","Varlor": "R$ 2,80"},
+				{"Modelo": "E20","Varlor": "R$ 2,80"},
+				{"Modelo": "E22 / E221","Varlor": "R$ 2,80"},
+				{"Modelo": "E30 / E40","Varlor": "R$ 2,80"},
+				{"Modelo": "E32","Varlor": "R$ 2,80"},
+				{"Modelo": "EDGE 2020 ","Varlor": "R$ 2,80"},
+				{"Modelo": "EDGE 20","Varlor": "R$ 2,80"},
+				{"Modelo": "EDGE 20 LITE","Varlor": "R$ 2,80"},
+				{"Modelo": "EDGE 20 PRO","Varlor": "R$ 2,80"},
+				{"Modelo": "EDGE 30","Varlor": "R$ 2,80"},
+				{"Modelo": "EDGE 30 PRO","Varlor": "R$ 2,80"},
+				{"Modelo": "EDGE 30 LITE","Varlor": "R$ 2,80"},
+				{"Modelo": "EDGE 30 NEO","Varlor": "R$ 2,80"},
+				{"Modelo": "EDGE 30 FUSION","Varlor": "R$ 2,80"},
+				{"Modelo": "EDGE 30 ULTRA","Varlor": "R$ 2,80"},
+				{"Modelo": "ONE","Varlor": "R$ 2,80"},
+				{"Modelo": "ONE FUSION","Varlor": "R$ 2,80"},
+				{"Modelo": "ONE VISION","Varlor": "R$ 2,80"},
+				{"Modelo": "PLUS ONE HYPER","Varlor": "R$ 2,80"}
+            ]
+        }, 
+		{"Modelo": "Xiaomi","Categoria": 
+			[
+				{"Modelo": "A2 LITE","Varlor": "R$ 2,80"},
+				{"Modelo": "A3","Varlor": "R$ 2,80"},
+				{"Modelo": "A8 LITE","Varlor": "R$ 2,80"}, 
+				{"Modelo": "9","Varlor": "R$ 2,80"}, 
+				{"Modelo": "9 LITE / CC9","Varlor": "R$ 2,80"},
+				{"Modelo": "9T / K20","Varlor": "R$ 2,80"},
+				{"Modelo": "11","Varlor": "R$ 2,80"},
+				{"Modelo": "10 LITE","Varlor": "R$ 2,80"},
+				{"Modelo": "11 PRO","Varlor": "R$ 2,80"},
+				{"Modelo": "11T","Varlor": "R$ 2,80"},
+				{"Modelo": "PRO 11 ULTRA","Varlor": "R$ 2,80"}, {"Modelo": "12","Varlor": "R$ 2,80"
+}, {"Modelo": "12 PRO","Varlor": "R$ 2,80"
+}, {"Modelo": "12T","Varlor": "R$ 2,80"
+}, {"Modelo": "12T PRO","Varlor": "R$ 2,80"
+}, {"Modelo": "12 LITE","Varlor": "R$ 2,80"
+}, {"Modelo": "13","Varlor": "R$ 2,80"
+}, {"Modelo": "REDMI A1","Varlor": "R$ 2,80"
+}, {"Modelo": "REDMI A2","Varlor": "R$ 2,80"
+}, {"Modelo": "REDMI 7","Varlor": "R$ 2,80"
+}, {"Modelo": "REDMI 7A","Varlor": "R$ 2,80"
+}, {"Modelo": "REDMI 8","Varlor": "R$ 2,80"
+}, {"Modelo": "REDMI 8A","Varlor": "R$ 2,80"
+}, {"Modelo": "REDMI 9","Varlor": "R$ 2,80"
+}, {"Modelo": "REDMI 9A","Varlor": "R$ 2,80"
+}, {"Modelo": "REDMI 9T","Varlor": "R$ 2,80"
+}, {"Modelo": "REDMI 10 4G","Varlor": "R$ 2,80"
+}, {"Modelo": "REDMI 10A","Varlor": "R$ 2,80"
+}, {"Modelo": "REDMI 10C","Varlor": "R$ 2,80"
+}, {"Modelo": "REDMO 10 POWER","Varlor": "R$ 2,80"
+}, {"Modelo": "RM NOTE 7","Varlor": "R$ 2,80"
+}, {"Modelo": "RM NOTE 8","Varlor": "R$ 2,80"
+}, {"Modelo": "RM NOTE 8T","Varlor": "R$ 2,80"
+}, {"Modelo": "RD NOTE 8 PRO","Varlor": "R$ 2,80"
+}, {"Modelo": "RM NOTE 9","Varlor": "R$ 2,80"
+}, {"Modelo": "RM NOTE 10S / NOTE 10 4G","Varlor": "R$ 2,80"
+}, {"Modelo": "RM NOTE 10 PRO MAX","Varlor": "R$ 2,80"
+}, {"Modelo": "NOTE 11 4G","Varlor": "R$ 2,80"
+}, {"Modelo": "NOTE 11T / 5G / POCO M4 PRO","Varlor": "R$ 2,80"
+}, {"Modelo": "NOTE 12 PRO 5G","Varlor": "R$ 2,80"
+}, {"Modelo": "NOTE 12 4G","Varlor": "R$ 2,80"
+}, {"Modelo": "NOTE 12 5G","Varlor": "R$ 2,80"
+}, {"Modelo": "NOTE 12 PRO PLUS","Varlor": "R$ 2,80"
+}, {"Modelo": "RM 12C","Varlor": "R$ 2,80"
+}, {"Modelo": "POCO C3 / RM 9C","Varlor": "R$ 2,80"
+}, {"Modelo": "X3 GT / NOTE 10 PRO 5G","Varlor": "R$ 2,80"
+}, {"Modelo": "POCO F3","Varlor": "R$ 2,80"
+}, {"Modelo": "X3 / X3 PRO","Varlor": "R$ 2,80"
+}, {"Modelo": "X4 PRO 5G","Varlor": "R$ 2,80"
+}, {"Modelo": "X4 GT","Varlor": "R$ 2,80"
+}, {"Modelo": "F4 GT","Varlor": "R$ 2,80"
+}, {"Modelo": "F4","Varlor": "R$ 2,80"
+}, {"Modelo": "M4 5G","Varlor": "R$ 2,80"
+}, {"Modelo": "M4 PRO 4G","Varlor": "R$ 2,80"
+}, {"Modelo": "M4 PRO 5G","Varlor": "R$ 2,80"
+}, {"Modelo": "M5","Varlor": "R$ 2,80"
+}, {"Modelo": "M5S","Varlor": "R$ 2,80"
+}, {"Modelo": "C40","Varlor": "R$ 2,80"
+}, {"Modelo": "X5 / NOTE 12 5G","Varlor": "R$ 2,80"
+}, {"Modelo": "X5 PRO","Varlor": "R$ 2,80"
+}
+            ]
+        }, {
+            "Modelo": "LG",
+            "Categoria": [
+{"Modelo": "K42017","Varlor": "R$ 2,80"
+}, {"Modelo": "K8 PLUS","Varlor": "R$ 2,80"
+}, {"Modelo": "K9","Varlor": "R$ 2,80"
+}, {"Modelo": "K10 2017","Varlor": "R$ 2,80"
+}, {"Modelo": "K11 / K PLUS / K 10 2018","Varlor": "R$ 2,80"
+}, {"Modelo": "K12 / K12 PLUS","Varlor": "R$ 2,80"
+}, {"Modelo": "K12 PRIME","Varlor": "R$ 2,80"
+}, {"Modelo": "K12 MAX","Varlor": "R$ 2,80"
+}, {"Modelo": "K22","Varlor": "R$ 2,80"
+}, {"Modelo": "K40S","Varlor": "R$ 2,80"
+}, {"Modelo": "K1 4S / K51 S","Varlor": "R$ 2,80"
+}, {"Modelo": "K50S","Varlor": "R$ 2,80"
+}, {"Modelo": "K52 / K42","Varlor": "R$ 2,80"
+}, {"Modelo": "K61","Varlor": "R$ 2,80"
+}, {"Modelo": "K62","Varlor": "R$ 2,80"
+}
+            ]
+        }, {
+            "Modelo": "REALME",
+            "Categoria": [
+{"Modelo": "7","Varlor": "R$ 2,80"
+}, {"Modelo": "9I","Varlor": "R$ 2,80"
+}, {"Modelo": "C3","Varlor": "R$ 2,80"
+}, {"Modelo": "C11 2021","Varlor": "R$ 2,80"
+}, {"Modelo": "C15","Varlor": "R$ 2,80"
+}, {"Modelo": "C21Y","Varlor": "R$ 2,80"
+}, {"Modelo": "C25Y","Varlor": "R$ 2,80"
+}, {"Modelo": "C35","Varlor": "R$ 2,80"
+}, {"Modelo": "C55","Varlor": "R$ 2,80"
+}
+            ]
+        }, {
+            "Modelo": "ASUS",
+            "Categoria": [
+{"Modelo": "ZENFONE ZB634","Varlor": "R$ 2,80"
+}
+            ]
+        }
+    ],
+    "CapaTransparente": [
+
+        {
+            "Modelo": "Samsung",
+            "Categoria": [
+{"Modelo": "A01","Varlor": "R$ 1,50"
+}, {"Modelo": "A01 CORE","Varlor": "R$ 1,50"
+}, {"Modelo": "A02","Varlor": "R$ 1,50"
+}, {"Modelo": "A02S","Varlor": "R$ 1,50"
+}, {"Modelo": "A03","Varlor": "R$ 1,50"
+}, {"Modelo": "A03S","Varlor": "R$ 1,50"
+}, {"Modelo": "A03 CORE","Varlor": "R$ 1,50"
+}, {"Modelo": "A04","Varlor": "R$ 1,50"
+}, {"Modelo": "A04S","Varlor": "R$ 1,50"
+}, {"Modelo": "A04E","Varlor": "R$ 1,50"
+}, {"Modelo": "A6S","Varlor": "R$ 1,50"
+}, {"Modelo": "A6 2018","Varlor": "R$ 1,50"
+}, {"Modelo": "A9 2018","Varlor": "R$ 1,50"
+}, {"Modelo": "A10 / M10","Varlor": "R$ 1,50"
+}, {"Modelo": "A10S","Varlor": "R$ 1,50"
+}, {"Modelo": "A11","Varlor": "R$ 1,50"
+}, {"Modelo": "A12N","Varlor": "R$ 1,50"
+}, {"Modelo": "A13 4G","Varlor": "R$ 1,50"
+}, {"Modelo": "A13 5G","Varlor": "R$ 1,50"
+}, {"Modelo": "A14","Varlor": "R$ 1,50"
+}, {"Modelo": "A20 / A30","Varlor": "R$ 1,50"
+}, {"Modelo": "A20S","Varlor": "R$ 1,50"
+}, {"Modelo": "A21","Varlor": "R$ 1,50"
+}, {"Modelo": "A21 S","Varlor": "R$ 1,50"
+}, {"Modelo": "A22 4G","Varlor": "R$ 1,50"
+}, {"Modelo": "A22 5G","Varlor": "R$ 1,50"
+}, {"Modelo": "A23","Varlor": "R$ 1,50"
+}, {"Modelo": "A30S","Varlor": "R$ 1,50"
+}, {"Modelo": "A31","Varlor": "R$ 1,50"
+}, {"Modelo": "A32 4G","Varlor": "R$ 1,50"
+}, {"Modelo": "A32 5G","Varlor": "R$ 1,50"
+}, {"Modelo": "A33 5G","Varlor": "R$ 1,50"
+}, {"Modelo": "A34","Varlor": "R$ 1,50"
+}, {"Modelo": "A50","Varlor": "R$ 1,50"
+}, {"Modelo": "A50S","Varlor": "R$ 1,50"
+}, {"Modelo": "A51","Varlor": "R$ 1,50"
+}, {"Modelo": "A52S20 FE","Varlor": "R$ 1,50"
+}, {"Modelo": "A53S21 PLUS","Varlor": "R$ 1,50"
+}, {"Modelo": "A54S21 ULTRA","Varlor": "R$ 1,50"
+}, {"Modelo": "A70S22","Varlor": "R$ 1,50"
+}, {"Modelo": "A71S22 PLUS","Varlor": "R$ 1,50"
+}, {"Modelo": "A72S22 ULTRA","Varlor": "R$ 1,50"
+}, {"Modelo": "A73 5G S23","Varlor": "R$ 1,50"
+}, {"Modelo": "SAM NOTE 10 LITE / A81S23 PLUS","Varlor": "R$ 1,50"
+}, {"Modelo": "S10 LITE / A91S23 ULTRA","Varlor": "R$ 1,50"
+}, {"Modelo": "XCOVER PROSAM NOTE 10 PLUS J2 PRIME","Varlor": "R$ 1,50"
+}, {"Modelo": "/G530 NOTE 20","Varlor": "R$ 1,50"
+}, {"Modelo": "J2 CORE NOTE 20 ULTRA","Varlor": "R$ 1,50"
+}, {"Modelo": "J4 2018 M02","Varlor": "R$ 1,50"
+}, {"Modelo": "J4 PLUS M12","Varlor": "R$ 1,50"
+}, {"Modelo": "J5 M13","Varlor": "R$ 1,50"
+}, {"Modelo": "J5 PROM 20","Varlor": "R$ 1,50"
+}, {"Modelo": "J5 PRIME M21S","Varlor": "R$ 1,50"
+}, {"Modelo": "J6 PLUS M22","Varlor": "R$ 1,50"
+}, {"Modelo": "J6 2018 M23 5G","Varlor": "R$ 1,50"
+}, {"Modelo": "J7 PROM 30","Varlor": "R$ 1,50"
+}, {"Modelo": "J7 PRIME M31","Varlor": "R$ 1,50"
+}, {"Modelo": "J7 M32","Varlor": "R$ 1,50"
+}, {"Modelo": "J7 2016 M33","Varlor": "R$ 1,50"
+}, {"Modelo": "J8 2018 M51","Varlor": "R$ 1,50"
+}, {"Modelo": "S8M52 5G","Varlor": "R$ 1,50"
+}, {"Modelo": "S8 PLUS M53 5G","Varlor": "R$ 1,50"
+}, {"Modelo": "S9 M62","Varlor": "R$ 1,50"
+}, {"Modelo": "S9 M62","Varlor": "R$ 1,50"
+}, {"Modelo": "S9 PLUS","Varlor": "R$ 1,50"
+}, {"Modelo": "S10E","Varlor": "R$ 1,50"
+}, {"Modelo": "S10","Varlor": "R$ 1,50"
+}, {"Modelo": "S20","Varlor": "R$ 1,50"
+}, {"Modelo": "S20 PLUS","Varlor": "R$ 1,50"
+}, {"Modelo": "S20 ULTRA","Varlor": "R$ 1,50"
+}
+            ]
+        }, {
+            "Modelo": "Motorola",
+            "Categoria": [
+{"Modelo": "MT G POWER","Varlor": "R$ 1,50"
+}, {"Modelo": "MT G PRO","Varlor": "R$ 1,50"
+}, {"Modelo": "MT G STILUS","Varlor": "R$ 1,50"
+}, {"Modelo": "MT G5","Varlor": "R$ 1,50"
+}, {"Modelo": "MT G5 PLUS","Varlor": "R$ 1,50"
+}, {"Modelo": "MT G5G","Varlor": "R$ 1,50"
+}, {"Modelo": "MT G5G PLUS","Varlor": "R$ 1,50"
+}, {"Modelo": "MT G5S","Varlor": "R$ 1,50"
+}, {"Modelo": "MT G5S PLUS","Varlor": "R$ 1,50"
+}, {"Modelo": "MT G6","Varlor": "R$ 1,50"
+}, {"Modelo": "MT G6 PLAY","Varlor": "R$ 1,50"
+}, {"Modelo": "MT G6 PLUS","Varlor": "R$ 1,50"
+}, {"Modelo": "MT G7 / G7 PLUS","Varlor": "R$ 1,50"
+}, {"Modelo": "MT G7 PALY","Varlor": "R$ 1,50"
+}, {"Modelo": "MT G7 POWER","Varlor": "R$ 1,50"
+}, {"Modelo": "MT G8","Varlor": "R$ 1,50"
+}, {"Modelo": "MT G8P PLAY","Varlor": "R$ 1,50"
+}, {"Modelo": "MT G8 PLUS","Varlor": "R$ 1,50"
+}, {"Modelo": "MT G8 PWER","Varlor": "R$ 1,50"
+}, {"Modelo": "LITE MT","Varlor": "R$ 1,50"
+}, {"Modelo": "G9 / G9 PLAY","Varlor": "R$ 1,50"
+}, {"Modelo": "MT G9 PLUS","Varlor": "R$ 1,50"
+}, {"Modelo": "MT G9 POWER","Varlor": "R$ 1,50"
+}, {"Modelo": "MT G10","Varlor": "R$ 1,50"
+}, {"Modelo": "MT G10 POWER","Varlor": "R$ 1,50"
+}, {"Modelo": "MT G13","Varlor": "R$ 1,50"
+}, {"Modelo": "MT G20","Varlor": "R$ 1,50"
+}, {"Modelo": "MT G22","Varlor": "R$ 1,50"
+}, {"Modelo": "MTT GP2503 / ACTION","Varlor": "R$ 1,50"
+}, {"Modelo": "MTT G30","Varlor": "R$ 1,50"
+}, {"Modelo": "ONE FUSION","Varlor": "R$ 1,50"
+}, {"Modelo": "MT G31","Varlor": "R$ 1,50"
+}, {"Modelo": "ONE FUSION PLUS","Varlor": "R$ 1,50"
+}, {"Modelo": "MT G32","Varlor": "R$ 1,50"
+}, {"Modelo": "MT EDGE","Varlor": "R$ 1,50"
+}, {"Modelo": "MT G41","Varlor": "R$ 1,50"
+}, {"Modelo": "MT EDGE PLUS","Varlor": "R$ 1,50"
+}, {"Modelo": "MT G42","Varlor": "R$ 1,50"
+}, {"Modelo": "MT EDGE 20","Varlor": "R$ 1,50"
+}, {"Modelo": "MT G50 5G","Varlor": "R$ 1,50"
+}, {"Modelo": "MT EDGE 20 PRO","Varlor": "R$ 1,50"
+}, {"Modelo": "MT G51","Varlor": "R$ 1,50"
+}, {"Modelo": "MT EDGE 20 LITE","Varlor": "R$ 1,50"
+}, {"Modelo": "MT G52","Varlor": "R$ 1,50"
+}, {"Modelo": "MT EDGE 30 PRO","Varlor": "R$ 1,50"
+}, {"Modelo": "MT G53","Varlor": "R$ 1,50"
+}, {"Modelo": "MT EDGE 30","Varlor": "R$ 1,50"
+}, {"Modelo": "MT G60","Varlor": "R$ 1,50"
+}, {"Modelo": "MT EDGE 30 NEO","Varlor": "R$ 1,50"
+}, {"Modelo": "MT G60S","Varlor": "R$ 1,50"
+}, {"Modelo": "MT EDGE 30 FUSION","Varlor": "R$ 1,50"
+}, {"Modelo": "MT G62","Varlor": "R$ 1,50"
+}, {"Modelo": "MT EDGE 30 ULTRA","Varlor": "R$ 1,50"
+}, {"Modelo": "MT G71 5G","Varlor": "R$ 1,50"
+}, {"Modelo": "MT G82","Varlor": "R$ 1,50"
+}, {"Modelo": "MT G100","Varlor": "R$ 1,50"
+}, {"Modelo": "MT G200","Varlor": "R$ 1,50"
+}, {"Modelo": "MT E6","Varlor": "R$ 1,50"
+}, {"Modelo": "MT E6 PLAY","Varlor": "R$ 1,50"
+}, {"Modelo": "MT E6 PLUS","Varlor": "R$ 1,50"
+}, {"Modelo": "MT E6S","Varlor": "R$ 1,50"
+}, {"Modelo": "MT E6I","Varlor": "R$ 1,50"
+}, {"Modelo": "MT E7","Varlor": "R$ 1,50"
+}, {"Modelo": "MT E7 PLUS","Varlor": "R$ 1,50"
+}, {"Modelo": "MT E7 POWER","Varlor": "R$ 1,50"
+}, {"Modelo": "MT E13","Varlor": "R$ 1,50"
+}, {"Modelo": "MT E20","Varlor": "R$ 1,50"
+}, {"Modelo": "MT E22","Varlor": "R$ 1,50"
+}, {"Modelo": "MT E32","Varlor": "R$ 1,50"
+}, {"Modelo": "MT E40","Varlor": "R$ 1,50"
+}, {"Modelo": "MOTO ONE","Varlor": "R$ 1,50"
+}, {"Modelo": "MOTO ONE MACRO","Varlor": "R$ 1,50"
+}, {"Modelo": "MT ONE ZOOM","Varlor": "R$ 1,50"
+}
+            ]
+        }, {
+            "Modelo": "Apple",
+            "Categoria": [
+{"Modelo": "6 PRETO","Varlor": "R$ 3,85"
+},
+{"Modelo": "7 / 8 PRETO","Varlor": "R$ 3,85"
+},
+{"Modelo": "6 BRANCO","Varlor": "R$ 3,85"
+},
+{"Modelo": "7 / 8 BRANCO","Varlor": "R$ 3,85"
+},
+{"Modelo": "6 PLUS PRETO","Varlor": "R$ 3,85"
+},
+{"Modelo": "7 / 8 PLUS PRETO","Varlor": "R$ 3,85"
+},
+{"Modelo": "6 PLUS BRANCO","Varlor": "R$ 3,85"
+},
+{"Modelo": "7 / 8 PLUS BRANCO","Varlor": "R$ 3,85"
+},
+{"Modelo": "X","Varlor": "R$ 3,85"
+},
+{"Modelo": "XS","Varlor": "R$ 3,85"
+},
+{"Modelo": "XS MAX","Varlor": "R$ 3,85"
+},
+{"Modelo": "11","Varlor": "R$ 3,85"
+},
+{"Modelo": "11 PRO","Varlor": "R$ 3,85"
+},
+{"Modelo": "11 PRO MAX","Varlor": "R$ 3,85"
+},
+{"Modelo": "12 MINI","Varlor": "R$ 3,85"
+},
+{"Modelo": "12 / 12 PRO","Varlor": "R$ 3,85"
+},
+{"Modelo": "12 PRO MAX","Varlor": "R$ 3,85"
+},
+{"Modelo": "13 MINI","Varlor": "R$ 3,85"
+},
+{"Modelo": "13 / 13 PRO","Varlor": "R$ 3,85"
+},
+{"Modelo": "13 PRO MAX","Varlor": "R$ 3,85"
+},
+{"Modelo": "14","Varlor": "R$ 3,85"
+},
+{"Modelo": "14 PLUS","Varlor": "R$ 3,85"
+},
+{"Modelo": "14 PRO","Varlor": "R$ 3,85"
+},
+{"Modelo": "14 PRO MAX","Varlor": "R$ 3,85"
+},
+{"Modelo": "15","Varlor": "R$ 3,85"
+},
+{"Modelo": "15 PLUS","Varlor": "R$ 3,85"
+},
+{"Modelo": "15 PRO","Varlor": "R$ 3,85"
+},
+{"Modelo": "15 PRO MAX","Varlor": "R$ 3,85"
+}
+            ]
+        }, {
+            "Modelo": "Xiaomi",
+            "Categoria": [
+{"Modelo": "REDMI A1M1 CC9 PRO","Varlor": "R$ 1,50"
+}, {"Modelo": "REDMI AMI A3 / MI CC9E","Varlor": "R$ 1,50"
+}, {"Modelo": "REDMI 8MI 8 LITE","Varlor": "R$ 1,50"
+}, {"Modelo": "REDMI 8AMI 9","Varlor": "R$ 1,50"
+}, {"Modelo": "REDMI K30MI 9 LITE REDMI 9MI 9T","Varlor": "R$ 1,50"
+}, {"Modelo": "REDMI 9A","Varlor": "R$ 1,50"
+}, {"Modelo": "MI 10","Varlor": "R$ 1,50"
+},
+{"Modelo": "REDMI 9C","Varlor": "R$ 1,50"
+}, {"Modelo": "REDMI 10 PRO","Varlor": "R$ 1,50"
+},
+{"Modelo": "REDMI 9I","Varlor": "R$ 1,50"
+},
+{"Modelo": "REDMI NOTE 10","Varlor": "R$ 1,50"
+},
+{"Modelo": "REDMI 9T","Varlor": "R$ 1,50"
+},
+{"Modelo": "MI NOTE 10 PRO","Varlor": "R$ 1,50"
+},
+{"Modelo": "REDMI 9","Varlor": "R$ 1,50"
+},
+{"Modelo": "POWER MI NOTE 10 LITE","Varlor": "R$ 1,50"
+},
+{"Modelo": "REDMI 10 ","Varlor": "R$ 1,50"
+},
+{"Modelo": "REDMI 10T","Varlor": "R$ 1,50"
+},
+{"Modelo": "REDMI 10A","Varlor": "R$ 1,50"
+},
+{"Modelo": "REDMI 10T PRO","Varlor": "R$ 1,50"
+},
+{"Modelo": "REDMI 10C","Varlor": "R$ 1,50"
+},
+{"Modelo": "MI 10T LITE","Varlor": "R$ 1,50"
+},
+{"Modelo": "REDMI 10 PRIME ","Varlor": "R$ 1,50"
+},
+{"Modelo": "REDMI 10I","Varlor": "R$ 1,50"
+},
+{"Modelo": "REDMI NOTE 7","Varlor": "R$ 1,50"
+},
+{"Modelo": "REDMI 11","Varlor": "R$ 1,50"
+},
+{"Modelo": "REDMI NOTE 8","Varlor": "R$ 1,50"
+},
+{"Modelo": "REDMI 11I"
+},
+{"Modelo": "REDMI NOTE PRO","Varlor": "R$ 1,50"
+},
+{"Modelo": "REDMI 11 LITE","Varlor": "R$ 1,50"
+},
+{"Modelo": "REDMI NOTE 8T","Varlor": "R$ 1,50"
+},
+{"Modelo": "REDMI 11T","Varlor": "R$ 1,50"
+},
+{"Modelo": "REDMI NOTE 9S","Varlor": "R$ 1,50"
+},
+{"Modelo": "REDMI 11T PRO","Varlor": "R$ 1,50"
+},
+{"Modelo": "REDMI NOTE 9 PRO","Varlor": "R$ 1,50"
+},
+{"Modelo": "REDMI 12","Varlor": "R$ 1,50"
+},
+{"Modelo": "REDMI NOTE 9 PRO MAX","Varlor": "R$ 1,50"
+},
+{"Modelo": "REDMI 12 LITE","Varlor": "R$ 1,50"
+},
+{"Modelo": "REDMI NOTE 9 4G","Varlor": "R$ 1,50"
+},
+{"Modelo": "REDMI 12T","Varlor": "R$ 1,50"
+},
+{"Modelo": "REDMI NOTE 9T","Varlor": "R$ 1,50"
+},
+{"Modelo": "REDMI 12T PRO","Varlor": "R$ 1,50"
+},
+{"Modelo": "REDMI NOTE 10S","Varlor": "R$ 1,50"
+},
+{"Modelo": "POCO X3","Varlor": "R$ 1,50"
+},
+{"Modelo": "REDMI NOTE 10 PRO","Varlor": "R$ 1,50"
+},
+{"Modelo": "POCO X3 PRO","Varlor": "R$ 1,50"
+},
+{"Modelo": "REDMI NOTE 10 PRO MAX","Varlor": "R$ 1,50"
+},
+{"Modelo": "POXO X3 NFC","Varlor": "R$ 1,50"
+},
+{"Modelo": "REDMI NOTE 10 5G","Varlor": "R$ 1,50"
+},
+{"Modelo": "POCO X3 GT","Varlor": "R$ 1,50"
+},
+{"Modelo": "REDMI NOTE 10T","Varlor": "R$ 1,50"
+},
+{"Modelo": "POCO X4 PRO 5G","Varlor": "R$ 1,50"
+},
+{"Modelo": "REDMI NOTE 11","Varlor": "R$ 1,50"
+},
+{"Modelo": "POCO X4 GT","Varlor": "R$ 1,50"
+},
+{"Modelo": "REDMI NOTE 11 PRO","Varlor": "R$ 1,50"
+},
+{"Modelo": "POCO M3","Varlor": "R$ 1,50"
+},
+{"Modelo": "REDMI NOTE 11 PRO","Varlor": "R$ 1,50"
+},
+{"Modelo": "POCO M3 PRO","Varlor": "R$ 1,50"
+},
+{"Modelo": "REDMI NOTE 11 5G","Varlor": "R$ 1,50"
+},
+{"Modelo": "POCO M4 PRO 4g","Varlor": "R$ 1,50"
+},
+{"Modelo": "REDMI 12","Varlor": "R$ 1,50"
+},
+{"Modelo": "POCO M4 PRO 5G","Varlor": "R$ 1,50"
+},
+{"Modelo": "REDMI 12 PRO","Varlor": "R$ 1,50"
+},
+{"Modelo": "POCO M4 5G","Varlor": "R$ 1,50"
+},
+{"Modelo": "POCO M5","Varlor": "R$ 1,50"
+},
+{"Modelo": "POCO M5S","Varlor": "R$ 1,50"
+},
+{"Modelo": "POCO C3","Varlor": "R$ 1,50"
+},
+{"Modelo": "POCO C40","Varlor": "R$ 1,50"
+},
+{"Modelo": "POCO F2 PRO","Varlor": "R$ 1,50"
+},
+{"Modelo": "POCO F3","Varlor": "R$ 1,50"
+},
+{"Modelo": "POCO F4","Varlor": "R$ 1,50"
+},
+{"Modelo": "POCO F4 GT","Varlor": "R$ 1,50"
+}
+            ]
+        }, {
+            "Modelo": "Realme",
+            "Categoria": [
+{"Modelo": "7","Varlor": "R$ 1,50"
+},
+{"Modelo": "7 PRO","Varlor": "R$ 1,50"
+},
+{"Modelo": "C11","Varlor": "R$ 1,50"
+}
+            ]
+        },
+        {
+            "Modelo": "ASUS",
+            "Categoria": [
+{"Modelo": "ZF5 ZS630KL","Varlor": "R$ 1,50"
+},
+{"Modelo": "ZF MAX PLUS (M2) ZB634KL","Varlor": "R$ 1,50"
+},
+{"Modelo": "ZF MAX SHORT ZB634KL","Varlor": "R$ 1,50"
+}
+            ]
+        }
+    ],
+    "CapaCarteira": [
+        {
+            "Modelo": "REALME",
+            "Categoria": [
+{"Modelo": "7 5G","Varlor": "R$ 1,50"
+},
+{"Modelo": "7 PRO","Varlor": "R$ 1,50"
+},
+{"Modelo": "8 PRO","Varlor": "R$ 1,50"
+},
+{"Modelo": "GT 5G","Varlor": "R$ 1,50"
+}
+            ]
+        },
+        {
+            "Modelo": "Xiaomi",
+            "Categoria": [
+{"Modelo": "A3","Varlor": "R$ 1,50"
+},
+{"Modelo": "NOTE 8","Varlor": "R$ 1,50"
+},
+{"Modelo": "REDMI 9A","Varlor": "R$ 1,50"
+},
+{"Modelo": "NOTE 9","Varlor": "R$ 1,50"
+},
+{"Modelo": "NOTE 9S","Varlor": "R$ 1,50"
+},
+{"Modelo": "NOTE 9 PRO","Varlor": "R$ 1,50"
+},
+{"Modelo": "NOTE 9 PRO MAX","Varlor": "R$ 1,50"
+},
+{"Modelo": "REDMI 10","Varlor": "R$ 1,50"
+},
+{"Modelo": "REDMI NOTE 10","Varlor": "R$ 1,50"
+},
+{"Modelo": "REDMI NOTE 10S","Varlor": "R$ 1,50"
+},
+{"Modelo": "REDMI NOTE 10 5G","Varlor": "R$ 1,50"
+},
+{"Modelo": "REDMI NOTE 10 PRO","Varlor": "R$ 1,50"
+},
+{"Modelo": "REDMI NOTE 11","Varlor": "R$ 1,50"
+},
+{"Modelo": "POCO C3","Varlor": "R$ 1,50"
+},
+{"Modelo": "POCO F3","Varlor": "R$ 1,50"
+},
+{"Modelo": "POCO M3","Varlor": "R$ 1,50"
+},
+{"Modelo": "NOTE X3","Varlor": "R$ 1,50"
+},
+{"Modelo": "NOTE X3 PRO","Varlor": "R$ 1,50"
+}
+            ]
+        },
+        {
+            "Modelo": "Apple",
+            "Categoria": [
+{"Modelo": "6 PRETO","Varlor": "R$ 3,85"
+},
+{"Modelo": "7 / 8 PRETO","Varlor": "R$ 3,85"
+},
+{"Modelo": "6 BRANCO","Varlor": "R$ 3,85"
+},
+{"Modelo": "7 / 8 BRANCO","Varlor": "R$ 3,85"
+},
+{"Modelo": "6 PLUS PRETO","Varlor": "R$ 3,85"
+},
+{"Modelo": "7 / 8 PLUS PRETO","Varlor": "R$ 3,85"
+},
+{"Modelo": "6 PLUS BRANCO","Varlor": "R$ 3,85"
+},
+{"Modelo": "7 / 8 PLUS BRANCO","Varlor": "R$ 3,85"
+},
+{"Modelo": "X","Varlor": "R$ 3,85"
+},
+{"Modelo": "XS","Varlor": "R$ 3,85"
+},
+{"Modelo": "XS MAX","Varlor": "R$ 3,85"
+},
+{"Modelo": "11","Varlor": "R$ 3,85"
+},
+{"Modelo": "11 PRO","Varlor": "R$ 3,85"
+},
+{"Modelo": "11 PRO MAX","Varlor": "R$ 3,85"
+},
+{"Modelo": "12 MINI","Varlor": "R$ 3,85"
+},
+{"Modelo": "12 / 12 PRO","Varlor": "R$ 3,85"
+},
+{"Modelo": "12 PRO MAX","Varlor": "R$ 3,85"
+},
+{"Modelo": "13 MINI","Varlor": "R$ 3,85"
+},
+{"Modelo": "13 / 13 PRO","Varlor": "R$ 3,85"
+},
+{"Modelo": "13 PRO MAX","Varlor": "R$ 3,85"
+},
+{"Modelo": "14","Varlor": "R$ 3,85"
+},
+{"Modelo": "14 PLUS","Varlor": "R$ 3,85"
+},
+{"Modelo": "14 PRO","Varlor": "R$ 3,85"
+},
+{"Modelo": "14 PRO MAX","Varlor": "R$ 3,85"
+},
+{"Modelo": "15","Varlor": "R$ 3,85"
+},
+{"Modelo": "15 PLUS","Varlor": "R$ 3,85"
+},
+{"Modelo": "15 PRO","Varlor": "R$ 3,85"
+},
+{"Modelo": "15 PRO MAX","Varlor": "R$ 3,85"
+}
+            ]
+        },
+        {
+            "Modelo": "Samsung",
+            "Categoria": [
+{"Modelo": "J2 CORE","Varlor": "R$ 1,50"
+},
+{"Modelo": "J2 PRIME","Varlor": "R$ 1,50"
+},
+{"Modelo": "J4","Varlor": "R$ 1,50"
+},
+{"Modelo": "J4 PLUS","Varlor": "R$ 1,50"
+},
+{"Modelo": "J4 CORE","Varlor": "R$ 1,50"
+},
+{"Modelo": "J5","Varlor": "R$ 1,50"
+},
+{"Modelo": "J5 PRIME","Varlor": "R$ 1,50"
+},
+{"Modelo": "J5 PRO","Varlor": "R$ 1,50"
+},
+{"Modelo": "J6","Varlor": "R$ 1,50"
+},
+{"Modelo": "J7","Varlor": "R$ 1,50"
+},
+{"Modelo": "J7 NEO","Varlor": "R$ 1,50"
+},
+{"Modelo": "J7 PRO","Varlor": "R$ 1,50"
+},
+{"Modelo": "J7 PRIME","Varlor": "R$ 1,50"
+},
+{"Modelo": "J8","Varlor": "R$ 1,50"
+},
+{"Modelo": "A01","Varlor": "R$ 1,50"
+},
+{"Modelo": "A01 CORE","Varlor": "R$ 1,50"
+},
+{"Modelo": "A02","Varlor": "R$ 1,50"
+},
+{"Modelo": "A02S","Varlor": "R$ 1,50"
+},
+{"Modelo": "A03","Varlor": "R$ 1,50"
+},
+{"Modelo": "A03S","Varlor": "R$ 1,50"
+},
+{"Modelo": "A10","Varlor": "R$ 1,50"
+},
+{"Modelo": "A10S","Varlor": "R$ 1,50"
+},
+{"Modelo": "A11","Varlor": "R$ 1,50"
+},
+{"Modelo": "A12","Varlor": "R$ 1,50"
+},
+{"Modelo": "A20","Varlor": "R$ 1,50"
+},
+{"Modelo": "A20S","Varlor": "R$ 1,50"
+},
+{"Modelo": "A21S","Varlor": "R$ 1,50"
+},
+{"Modelo": "A22 4G","Varlor": "R$ 1,50"
+},
+{"Modelo": "A22 5G","Varlor": "R$ 1,50"
+},
+{"Modelo": "A30S","Varlor": "R$ 1,50"
+},
+{"Modelo": "A31","Varlor": "R$ 1,50"
+},
+{"Modelo": "F41","Varlor": "R$ 1,50"
+},
+{"Modelo": "A32 4G","Varlor": "R$ 1,50"
+},
+{"Modelo": "A33","Varlor": "R$ 1,50"
+},
+{"Modelo": "A53","Varlor": "R$ 1,50"
+},
+{"Modelo": "A50","Varlor": "R$ 1,50"
+},
+{"Modelo": "A51","Varlor": "R$ 1,50"
+},
+{"Modelo": "A52","Varlor": "R$ 1,50"
+},
+{"Modelo": "A70","Varlor": "R$ 1,50"
+},
+{"Modelo": "A71","Varlor": "R$ 1,50"
+},
+{"Modelo": "A72","Varlor": "R$ 1,50"
+},
+{"Modelo": "F02S","Varlor": "R$ 1,50"
+},
+{"Modelo": "M02S","Varlor": "R$ 1,50"
+},
+{"Modelo": "M12","Varlor": "R$ 1,50"
+},
+{"Modelo": "M21S","Varlor": "R$ 1,50"
+},
+{"Modelo": "M22","Varlor": "R$ 1,50"
+},
+{"Modelo": "M31","Varlor": "R$ 1,50"
+},
+{"Modelo": "M32","Varlor": "R$ 1,50"
+},
+{"Modelo": "M51","Varlor": "R$ 1,50"
+},
+{"Modelo": "M62","Varlor": "R$ 1,50"
+},
+{"Modelo": "G530","Varlor": "R$ 1,50"
+},
+{"Modelo": "S10 LITE","Varlor": "R$ 1,50"
+},
+{"Modelo": "S20","Varlor": "R$ 1,50"
+},
+{"Modelo": "S20 PLUS","Varlor": "R$ 1,50"
+},
+{"Modelo": "S21 FE","Varlor": "R$ 1,50"
+},
+{"Modelo": "NOTE 20","Varlor": "R$ 1,50"
+},
+{"Modelo": "NOTE 20 ULTRA","Varlor": "R$ 1,50"
+},
+{"Modelo": "E5","Varlor": "R$ 1,50"
+},
+{"Modelo": "E5 PLAY","Varlor": "R$ 1,50"
+},
+{"Modelo": "E6 PLAY","Varlor": "R$ 1,50"
+},
+{"Modelo": "E6S","Varlor": "R$ 1,50"
+},
+{"Modelo": "E7 POWER","Varlor": "R$ 1,50"
+},
+{"Modelo": "E7 PLUS","Varlor": "R$ 1,50"
+},
+{"Modelo": "E7 2021","Varlor": "R$ 1,50"
+},
+{"Modelo": "E20","Varlor": "R$ 1,50"
+},
+{"Modelo": "E40","Varlor": "R$ 1,50"
+},
+{"Modelo": "EDGE 20","Varlor": "R$ 1,50"
+},
+{"Modelo": "EDGE 20 PRO","Varlor": "R$ 1,50"
+},
+{"Modelo": "EDGE 20 LITE","Varlor": "R$ 1,50"
+},
+{"Modelo": "G3","Varlor": "R$ 1,50"
+},
+{"Modelo": "G5G","Varlor": "R$ 1,50"
+},
+{"Modelo": "G5G PLUS","Varlor": "R$ 1,50"
+},
+{"Modelo": "G6 PLAY","Varlor": "R$ 1,50"
+},
+{"Modelo": "G6 PLUS","Varlor": "R$ 1,50"
+},
+{"Modelo": "G7","Varlor": "R$ 1,50"
+},
+{"Modelo": "G7 PLUS","Varlor": "R$ 1,50"
+},
+{"Modelo": "G7 PLAY","Varlor": "R$ 1,50"
+},
+{"Modelo": "G8","Varlor": "R$ 1,50"
+},
+{"Modelo": "G8 PLAY","Varlor": "R$ 1,50"
+},
+{"Modelo": "G8 PLUS","Varlor": "R$ 1,50"
+},
+{"Modelo": "G8 POWER","Varlor": "R$ 1,50"
+},
+{"Modelo": "G8 POWER LITE","Varlor": "R$ 1,50"
+},
+{"Modelo": "G9","Varlor": "R$ 1,50"
+},
+{"Modelo": "G9 PLAY","Varlor": "R$ 1,50"
+},
+{"Modelo": "G9 POWER","Varlor": "R$ 1,50"
+},
+{"Modelo": "G10","Varlor": "R$ 1,50"
+},
+{"Modelo": "G10 POWER","Varlor": "R$ 1,50"
+},
+{"Modelo": "G20","Varlor": "R$ 1,50"
+},
+{"Modelo": "G30","Varlor": "R$ 1,50"
+},
+{"Modelo": "G31","Varlor": "R$ 1,50"
+},
+{"Modelo": "G40 FUSION","Varlor": "R$ 1,50"
+},
+{"Modelo": "G50","Varlor": "R$ 1,50"
+},
+{"Modelo": "G60","Varlor": "R$ 1,50"
+},
+{"Modelo": "G60S","Varlor": "R$ 1,50"
+},
+{"Modelo": "G71","Varlor": "R$ 1,50"
+},
+{"Modelo": "G100","Varlor": "R$ 1,50"
+},
+{"Modelo": "G200","Varlor": "R$ 1,50"
+},
+{"Modelo": "ONE ACTION","Varlor": "R$ 1,50"
+},
+{"Modelo": "ONE VISION","Varlor": "R$ 1,50"
+},
+{"Modelo": "ONE ZOOM / ONE PRO","Varlor": "R$ 1,50"
+},
+{"Modelo": "ONE HYPER","Varlor": "R$ 1,50"
+},
+{"Modelo": "ONE FUSION","Varlor": "R$ 1,50"
+},
+{"Modelo": "ONE FUSION PLUS","Varlor": "R$ 1,50"
+}
+            ]
+        }, {
+            "Modelo": "LG",
+            "Categoria": [
+{"Modelo": "K4 2017","Varlor": "R$ 1,50"
+},
+{"Modelo": "K8 PLUS","Varlor": "R$ 1,50"
+},
+{"Modelo": "K12 / K12 PLUS","Varlor": "R$ 1,50"
+},
+{"Modelo": "K12 MAX / K12 PRIME","Varlor": "R$ 1,50"
+},
+{"Modelo": "K22 / K22 PLUS","Varlor": "R$ 1,50"
+},
+{"Modelo": "K41S","Varlor": "R$ 1,50"
+},
+{"Modelo": "K61","Varlor": "R$ 1,50"
+},
+{"Modelo": "K62","Varlor": "R$ 1,50"
+},
+{"Modelo": "K71","Varlor": "R$ 1,50"
+}
+            ]
+        }, {
+            "Modelo": "ASUS",
+            "Categoria": [
+{"Modelo": "ZENFONE MAX PRO M2 (ZB633KL)","Varlor": "R$ 1,50"
+},
+{"Modelo": "ZEFONE 6 (ZB630KL)","Varlor": "R$ 1,50"
+}
+            ]
+        }
+    ],
+    "CapasSpace": [
+        {
+            "Modelo": "Apple",
+            "Categoria": [
+{"Modelo": "7G / 8G","Varlor": "R$ 1,50"
+},
+{"Modelo": "7 PLUS / 8 PLUS","Varlor": "R$ 1,50"
+},
+{"Modelo": "XR","Varlor": "R$ 1,50"
+},
+{"Modelo": "X / XS","Varlor": "R$ 1,50"
+},
+{"Modelo": "XS MAX","Varlor": "R$ 1,50"
+},
+{"Modelo": "11","Varlor": "R$ 1,50"
+},
+{"Modelo": "11 PRO","Varlor": "R$ 1,50"
+},
+{"Modelo": "11 PRO MAX","Varlor": "R$ 1,50"
+},
+{"Modelo": "12","Varlor": "R$ 1,50"
+},
+{"Modelo": "12 PRO","Varlor": "R$ 1,50"
+},
+{"Modelo": "12 PRO MAX","Varlor": "R$ 1,50"
+},
+{"Modelo": "13","Varlor": "R$ 1,50"
+},
+{"Modelo": "13 PRO","Varlor": "R$ 1,50"
+},
+{"Modelo": "13 PRO MAX","Varlor": "R$ 1,50"
+},
+{"Modelo": "14","Varlor": "R$ 1,50"
+},
+{"Modelo": "14 MAX / 14 PLUS","Varlor": "R$ 1,50"
+},
+{"Modelo": "14 PRO","Varlor": "R$ 1,50"
+},
+{"Modelo": "14 PRO MAX","Varlor": "R$ 1,50"
+}, {"Modelo": "15","Varlor": "R$ 1,50"
+}, {"Modelo": "15 PRO","Varlor": "R$ 1,50"
+}, {"Modelo": "15 PRO MAX","Varlor": "R$ 1,50"
+}
+
+            ]
+        }
+    ],
+    "CapasMAGSAFE": [
+
+        {
+            "Modelo": "Apple",
+            "Categoria": [
+{"Modelo": "11","Varlor": "R$ 1,50"
+},
+{"Modelo": "11 PRO","Varlor": "R$ 1,50"
+},
+{"Modelo": "11 PRO MAX","Varlor": "R$ 1,50"
+},
+{"Modelo": "12","Varlor": "R$ 1,50"
+},
+{"Modelo": "12 PRO","Varlor": "R$ 1,50"
+},
+{"Modelo": "12 PRO MAX","Varlor": "R$ 1,50"
+},
+{"Modelo": "13","Varlor": "R$ 1,50"
+},
+{"Modelo": "13 PRO","Varlor": "R$ 1,50"
+},
+{"Modelo": "13 PRO MAX","Varlor": "R$ 1,50"
+},
+{"Modelo": "14","Varlor": "R$ 1,50"
+},
+{"Modelo": "14 MAX / 14 PLUS","Varlor": "R$ 1,50"
+},
+{"Modelo": "14 PRO","Varlor": "R$ 1,50"
+},
+{"Modelo": "14 PRO MAX","Varlor": "R$ 1,50"
+}, {"Modelo": "15","Varlor": "R$ 1,50"
+}, {"Modelo": "15 PRO","Varlor": "R$ 1,50"
+}, {"Modelo": "15 PRO MAX","Varlor": "R$ 1,50"
+}
+            ]
+        }
+    ],
+    "CaseIphone": [
+        {
+            "Modelo": "6",
+            "Varlor": "R$ 1,50"
+        },
+        {
+            "Modelo": "6 PLUS",
+            "Varlor": "R$ 1,50"
+        },
+        {
+            "Modelo": "7 / 8 ",
+            "Varlor": "R$ 1,50"
+        },
+        {
+            "Modelo": "7 / 8 PLUS",
+            "Varlor": "R$ 1,50"
+        },
+        {
+            "Modelo": "X / XS",
+            "Varlor": "R$ 1,50"
+        },
+        {
+            "Modelo": "XR",
+            "Varlor": "R$ 1,50"
+        },
+        {
+            "Modelo": "XS MAX",
+            "Varlor": "R$ 1,50"
+        },
+        {
+            "Modelo": "11",
+            "Varlor": "R$ 1,50"
+        },
+        {
+            "Modelo": "11 PRO",
+            "Varlor": "R$ 1,50"
+        },
+        {
+            "Modelo": "11 PRO MAX",
+            "Varlor": "R$ 1,50"
+        },
+        {
+            "Modelo": "12 / 12 PRO",
+            "Varlor": "R$ 1,50"
+        },
+        {
+            "Modelo": "12 MINI",
+            "Varlor": "R$ 1,50"
+        },
+        {
+            "Modelo": "12 PRO MAX",
+            "Varlor": "R$ 1,50"
+        },
+        {
+            "Modelo": "13",
+            "Varlor": "R$ 1,50"
+        },
+        {
+            "Modelo": "13 PRO",
+            "Varlor": "R$ 1,50"
+        },
+        {
+            "Modelo": "13 PRO MAX",
+            "Varlor": "R$ 1,50"
+        },
+        {
+            "Modelo": "14",
+            "Varlor": "R$ 1,50"
+        },
+        {
+            "Modelo": "14 PRO",
+            "Varlor": "R$ 1,50"
+        },
+        {
+            "Modelo": "14 MAX",
+            "Varlor": "R$ 1,50"
+        },
+        {
+            "Modelo": "14 PRO MAX",
+            "Varlor": "R$ 1,50"
+        },
+        {
+            "Modelo": "15",
+            "Varlor": "R$ 1,50"
+        },
+        {
+            "Modelo": "15 PRO",
+            "Varlor": "R$ 1,50"
+        },
+        {
+            "Modelo": "15 MAX",
+            "Varlor": "R$ 1,50"
+        },
+        {
+            "Modelo": "15 PRO MAX",
+            "Varlor": "R$ 1,50"
+        }
+    ],
+    "AGGLASSFOSCA": [
+
+        {
+            "Modelo": "11",
+            "Varlor": "R$ 1,50"
+        }, {
+            "Modelo": "11 PRO",
+            "Varlor": "R$ 1,50"
+        }, {
+            "Modelo": "11 PRO MAX",
+            "Varlor": "R$ 1,50"
+        }, {
+            "Modelo": "12",
+            "Varlor": "R$ 1,50"
+        }, {
+            "Modelo": "12 PRO",
+            "Varlor": "R$ 1,50"
+        }, {
+            "Modelo": "12 PRO MAX",
+            "Varlor": "R$ 1,50"
+        }, {
+            "Modelo": "13",
+            "Varlor": "R$ 1,50"
+        }, {
+            "Modelo": "13 PRO",
+            "Varlor": "R$ 1,50"
+        }, {
+            "Modelo": "13 PRO MAX",
+            "Varlor": "R$ 1,50"
+        }, {
+            "Modelo": "14",
+            "Varlor": "R$ 1,50"
+        }, {
+            "Modelo": "14 MAX / 14 PLUS",
+            "Varlor": "R$ 1,50"
+        }, {
+            "Modelo": "14 PRO",
+            "Varlor": "R$ 1,50"
+        }, {
+            "Modelo": "14 PRO MAX",
+            "Varlor": "R$ 1,50"
+        }, {
+            "Modelo": "15",
+            "Varlor": "R$ 1,50"
+        }, {
+            "Modelo": "15 PRO",
+            "Varlor": "R$ 1,50"
+        }, {
+            "Modelo": "15 PRO MAX",
+            "Varlor": "R$ 1,50"
+        }
+    ],
+    "CouroIP": [
+        {
+            "Modelo": "11",
+            "Varlor": "R$ 1,50"
+        }, {
+            "Modelo": "11 PRO",
+            "Varlor": "R$ 1,50"
+        }, {
+            "Modelo": "11 PRO MAX",
+            "Varlor": "R$ 1,50"
+        }, {
+            "Modelo": "12",
+            "Varlor": "R$ 1,50"
+        }, {
+            "Modelo": "12 PRO",
+            "Varlor": "R$ 1,50"
+        }, {
+            "Modelo": "12 PRO MAX",
+            "Varlor": "R$ 1,50"
+        }, {
+            "Modelo": "13",
+            "Varlor": "R$ 1,50"
+        }, {
+            "Modelo": "13 PRO",
+            "Varlor": "R$ 1,50"
+        }, {
+            "Modelo": "13 PRO MAX",
+            "Varlor": "R$ 1,50"
+        }, {
+            "Modelo": "14",
+            "Varlor": "R$ 1,50"
+        }, {
+            "Modelo": "14 MAX / 14 PLUS",
+            "Varlor": "R$ 1,50"
+        }, {
+            "Modelo": "14 PRO",
+            "Varlor": "R$ 1,50"
+        }, {
+            "Modelo": "14 PRO MAX",
+            "Varlor": "R$ 1,50"
+        }, {
+            "Modelo": "15",
+            "Varlor": "R$ 1,50"
+        }, {
+            "Modelo": "15 PRO",
+            "Varlor": "R$ 1,50"
+        }, {
+            "Modelo": "15 PRO MAX",
+            "Varlor": "R$ 1,50"
+        }
+    ]
+}
