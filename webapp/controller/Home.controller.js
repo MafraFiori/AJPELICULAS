@@ -25,24 +25,19 @@ sap.ui.define([
             },
 
             onModelos3D: function () {
-                let Modelo = this.getView().getModel()
                 let that = this
 
-                Modelo.loadData("d", {
-                    success: function () {
-                        //ajpeliculas.catalogo.controller.Home
-                        if (!that.Modelos3d) {
-                            that.Modelos3d = sap.ui.xmlfragment("ajpeliculas.catalogo.view.fragmentos.3d", that);
-                            that.getView().addDependent(that.Modelos3d);
-                        } else {
-                            that.Modelos3d = ""
-                            that.Modelos3d = sap.ui.xmlfragment("ajpeliculas.catalogo.view.fragmentos.3d", that);
-                            that.getView().addDependent(that.Modelos3d);
-                        }
-                        // open value help dialog filtered by the input value
-                        that.Modelos3d.open();
-                    }
-                })
+                //ajpeliculas.catalogo.controller.Home
+                if (!that.Modelos3d) {
+                    that.Modelos3d = sap.ui.xmlfragment("ajpeliculas.catalogo.view.fragmentos.3d", that);
+                    that.getView().addDependent(that.Modelos3d);
+                } else {
+                    that.Modelos3d = ""
+                    that.Modelos3d = sap.ui.xmlfragment("ajpeliculas.catalogo.view.fragmentos.3d", that);
+                    that.getView().addDependent(that.Modelos3d);
+                }
+                // open value help dialog filtered by the input value
+                that.Modelos3d.open();
 
             },
 
@@ -54,24 +49,19 @@ sap.ui.define([
             },
 
             onModelos3DLancamentos: function () {
-                let Modelo = this.getView().getModel()
                 let that = this
 
-                Modelo.loadData("Dnova", {
-                    success: function () {
-                        //ajpeliculas.catalogo.controller.Home
-                        if (!that.Modelos3dLancamentos) {
-                            that.Modelos3dLancamentos = sap.ui.xmlfragment("ajpeliculas.catalogo.view.fragmentos.3dLancamentos", that);
-                            that.getView().addDependent(that.Modelos3dLancamentos);
-                        } else {
-                            that.Modelos3dLancamentos = ""
-                            that.Modelos3dLancamentos = sap.ui.xmlfragment("ajpeliculas.catalogo.view.fragmentos.3dLancamentos", that);
-                            that.getView().addDependent(that.Modelos3dLancamentos);
-                        }
-                        // open value help dialog filtered by the input value
-                        that.Modelos3dLancamentos.open();
-                    }
-                })
+                //ajpeliculas.catalogo.controller.Home
+                if (!that.Modelos3dLancamentos) {
+                    that.Modelos3dLancamentos = sap.ui.xmlfragment("ajpeliculas.catalogo.view.fragmentos.3dLancamentos", that);
+                    that.getView().addDependent(that.Modelos3dLancamentos);
+                } else {
+                    that.Modelos3dLancamentos = ""
+                    that.Modelos3dLancamentos = sap.ui.xmlfragment("ajpeliculas.catalogo.view.fragmentos.3dLancamentos", that);
+                    that.getView().addDependent(that.Modelos3dLancamentos);
+                }
+                // open value help dialog filtered by the input value
+                that.Modelos3dLancamentos.open();
             },
 
             Fechar3DLancamentos: function () {
@@ -82,28 +72,21 @@ sap.ui.define([
             },
 
             onPrivacidade: function () {
-                let Modelo = this.getView().getModel()
                 let that = this
 
-                Modelo.loadData("Privacidade", { 
-                    success: function () {
-                        if (!that.ModelosPrivacidade) {
-                            that.ModelosPrivacidade = sap.ui.xmlfragment("ajpeliculas.catalogo.view.fragmentos.ModelosPrivacidade", that);
-                            that.getView().addDependent(that.Modelos3d);
-                        } else {
-                            that.ModelosPrivacidade = ""
-                            that.ModelosPrivacidade = sap.ui.xmlfragment("ajpeliculas.catalogo.view.fragmentos.ModelosPrivacidade", that);
-                            that.getView().addDependent(that.ModelosPrivacidade);
-                        }
-                        // open value help dialog filtered by the input value
-                        that.ModelosPrivacidade.open();
-                    }
-                })
-
-
+                if (!that.ModelosPrivacidade) {
+                    that.ModelosPrivacidade = sap.ui.xmlfragment("ajpeliculas.catalogo.view.fragmentos.ModelosPrivacidade", that);
+                    that.getView().addDependent(that.ModelosPrivacidade);
+                } else {
+                    that.ModelosPrivacidade = ""
+                    that.ModelosPrivacidade = sap.ui.xmlfragment("ajpeliculas.catalogo.view.fragmentos.ModelosPrivacidade", that);
+                    that.getView().addDependent(that.ModelosPrivacidade);
+                }
+                // open value help dialog filtered by the input value
+                that.ModelosPrivacidade.open();
             },
 
-            FecharPrivacidade: function () { 
+            FecharPrivacidade: function () {
                 if (this.ModelosPrivacidade) {
                     this.ModelosPrivacidade.destroy();
                     this.ModelosPrivacidade = null
@@ -113,7 +96,7 @@ sap.ui.define([
             onCeramica: function () {
                 if (!this.ModelosCeramica) {
                     this.ModelosCeramica = sap.ui.xmlfragment("ajpeliculas.catalogo.view.fragmentos.ModelosCeramica", this);
-                    this.getView().addDependent(this.Modelos3d);
+                    this.getView().addDependent(this.ModelosCeramica);
                 } else {
                     this.ModelosCeramica = ""
                     this.ModelosCeramica = sap.ui.xmlfragment("ajpeliculas.catalogo.view.fragmentos.ModelosCeramica", this);
@@ -124,13 +107,16 @@ sap.ui.define([
             },
 
             FecharCeramica: function () {
-                this.ModelosCeramica.close();
+                if (this.ModelosCeramica) {
+                    this.ModelosCeramica.destroy();
+                    this.ModelosCeramica = null
+                }
             },
 
             onCeramicaPrivacidade: function () {
                 if (!this.CeramicaPrivacidade) {
                     this.CeramicaPrivacidade = sap.ui.xmlfragment("ajpeliculas.catalogo.view.fragmentos.CeramicaPrivacidade", this);
-                    this.getView().addDependent(this.Modelos3d);
+                    this.getView().addDependent(this.CeramicaPrivacidade);
                 } else {
                     this.CeramicaPrivacidade = ""
                     this.CeramicaPrivacidade = sap.ui.xmlfragment("ajpeliculas.catalogo.view.fragmentos.CeramicaPrivacidade", this);
@@ -141,7 +127,10 @@ sap.ui.define([
             },
 
             FecharCeramicaPrivacidade: function () {
-                this.CeramicaPrivacidade.close();
+                if (this.CeramicaPrivacidade) {
+                    this.CeramicaPrivacidade.destroy();
+                    this.CeramicaPrivacidade = null
+                }
             },
 
             onModelosVidros: function () {
@@ -158,7 +147,10 @@ sap.ui.define([
             },
 
             FecharModelosVidros: function () {
-                this.ModelosVidros.close();
+                if (this.ModelosVidros) {
+                    this.ModelosVidros.destroy();
+                    this.ModelosVidros = null
+                }
             },
 
             onTraseiraCeramica: function () {
@@ -175,7 +167,10 @@ sap.ui.define([
             },
 
             FecharTraseiraCeramica: function () {
-                this.TraseiraCeramica.close();
+                if (this.TraseiraCeramica) {
+                    this.TraseiraCeramica.destroy();
+                    this.TraseiraCeramica = null
+                }
             },
 
             onCameras: function () {
@@ -192,7 +187,10 @@ sap.ui.define([
             },
 
             FecharCameras: function () {
-                this.Cameras.close();
+                if (this.Cameras) {
+                    this.Cameras.destroy();
+                    this.Cameras = null
+                }
             },
 
             onCapaSilicone: function () {
@@ -209,7 +207,10 @@ sap.ui.define([
             },
 
             FecharCapaSilicone: function () {
-                this.CapaSilicone.close();
+                if (this.CapaSilicone) {
+                    this.CapaSilicone.destroy();
+                    this.CapaSilicone = null
+                }
             },
 
             onAntiChoque: function () {
@@ -226,7 +227,10 @@ sap.ui.define([
             },
 
             FecharAntiChoque: function () {
-                this.AntiChoque.close();
+                if (this.AntiChoque) {
+                    this.AntiChoque.destroy();
+                    this.AntiChoque = null
+                }
             },
 
             onCarteira: function () {
@@ -243,7 +247,10 @@ sap.ui.define([
             },
 
             FecharCarteira: function () {
-                this.Carteira.close();
+                if (this.Carteira) {
+                    this.Carteira.destroy();
+                    this.Carteira = null
+                }
             },
 
             onSpace: function () {
@@ -260,7 +267,10 @@ sap.ui.define([
             },
 
             FecharSpace: function () {
-                this.Space.close();
+                if (this.Space) {
+                    this.Space.destroy();
+                    this.Space = null
+                }
             },
 
             onMegSafe: function () {
@@ -277,7 +287,10 @@ sap.ui.define([
             },
 
             FecharMegSafe: function () {
-                this.MegSafe.close();
+                if (this.MegSafe) {
+                    this.MegSafe.destroy();
+                    this.MegSafe = null
+                }
             },
 
             onCaseIphone: function () {
@@ -294,7 +307,10 @@ sap.ui.define([
             },
 
             FecharCaseIphone: function () {
-                this.CaseIphone.close();
+                if (this.CaseIphone) {
+                    this.CaseIphone.destroy();
+                    this.CaseIphone = null
+                }
             },
 
             onAcrilocoGlass: function () {
@@ -311,7 +327,10 @@ sap.ui.define([
             },
 
             FecharAcrilocoGlass: function () {
-                this.AcrilocoGlass.close();
+                if (this.AcrilocoGlass) {
+                    this.AcrilocoGlass.destroy();
+                    this.AcrilocoGlass = null
+                }
             },
 
             onCouroIP: function () {
@@ -328,7 +347,10 @@ sap.ui.define([
             },
 
             FecharCouroIP: function () {
-                this.CouroIP.close();
+                if (this.CouroIP) {
+                    this.CouroIP.destroy();
+                    this.CouroIP = null
+                }
             }
 
         });
